@@ -1,0 +1,6124 @@
+{
+  "checked_date": "2026-11-04",
+  "base_commit": "3a43d0f6a0722f202fafb19ad7825826f3df6eeb",
+  "scope": "646 distinct URLs present in the published entry/lecture/assignment fields; latest retry recorded; eTL skipped without request",
+  "limitations": "HTTP200 / GitHub metadata are not full content or permission guarantees. PDF structure and first-page text extraction do not establish semester completeness or correctness. Public video playback and program execution were not tested. Failed URLs are not assumed deleted or private. No credentials used.",
+  "result_counts": {
+    "http_200_not_full_content_verified": 154,
+    "http_401": 6,
+    "github_resource_resolved": 132,
+    "pdf_structure_readable": 336,
+    "skipped_lms": 1,
+    "pdf_parse_failed": 1,
+    "http_404": 11,
+    "pptx_xml_readable": 1,
+    "github_404": 1,
+    "github_moved": 1,
+    "notebook_json_readable": 2
+  },
+  "records": [
+    {
+      "url": "https://reality.snu.ac.kr/class/machine-learning/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 88391,
+      "entry_ids": [
+        "SNU-C002"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C002"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C002"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C002"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C002"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202602",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C003"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202602/tree/main/lectures",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C003"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202602/tree/main/1-basic_induction",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C003"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-csl/os-pa1",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C004"
+      ]
+    },
+    {
+      "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "entry_ids": [
+        "SNU-C005"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-2",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 131714,
+      "entry_ids": [
+        "SNU-C008"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 118675,
+      "entry_ids": [
+        "SNU-C008",
+        "SNU-C017",
+        "SNU-C051",
+        "SNU-C075",
+        "SNU-C077",
+        "SNU-C113",
+        "SNU-C114",
+        "SNU-C115",
+        "SNU-C116",
+        "SNU-C117",
+        "SNU-C118",
+        "SNU-C119",
+        "SNU-C120",
+        "SNU-C121",
+        "SNU-C122"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202602",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C006"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202602/tree/main/lecture-slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C006"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202602/tree/main/assignments",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C006"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 17061,
+      "entry_ids": [
+        "SNU-C007"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/00-overview.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 22,
+      "bytes_read": 2035169,
+      "entry_ids": [
+        "SNU-C007"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/0-overview.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 51,
+      "bytes_read": 1400350,
+      "entry_ids": [
+        "SNU-C007"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/#숙제 Homeworks",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 17061,
+      "entry_ids": [
+        "SNU-C007"
+      ]
+    },
+    {
+      "url": "https://jhpwhang.github.io/Analytic_Number_Theory.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 75,
+      "bytes_read": 600862,
+      "entry_ids": [
+        "SNU-C001"
+      ]
+    },
+    {
+      "url": "https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C015"
+      ]
+    },
+    {
+      "url": "https://github.com/jdyece25-snu/circuit-theory",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C010"
+      ]
+    },
+    {
+      "url": "https://github.com/dootheg0924/datamining_starbucks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C090"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C016"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-2022-spring",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 126856,
+      "entry_ids": [
+        "SNU-C017"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202601",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C011"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202601/tree/main/slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C011"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202601/tree/main/assignments",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C011"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202601/tree/main/project",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MNO",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 100186,
+      "entry_ids": [
+        "SNU-C009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/OPT_2026_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 720192,
+      "entry_ids": [
+        "SNU-C009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/OPT_2026_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 257268,
+      "entry_ids": [
+        "SNU-C009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/OPT_2026_assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 180140,
+      "entry_ids": [
+        "SNU-C009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/OPT_2026_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 162754,
+      "entry_ids": [
+        "SNU-C009"
+      ]
+    },
+    {
+      "url": "https://github.com/SNU-ARC/2026_spring_comarch_PA2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C012"
+      ]
+    },
+    {
+      "url": "https://reality.snu.ac.kr/class/computational-imaging/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 64364,
+      "entry_ids": [
+        "SNU-C013"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C013"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401",
+      "entry_ids": [
+        "SNU-C013"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2026spring/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 11541,
+      "entry_ids": [
+        "SNU-C018"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2026spring/homework/hw01/hw1.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1287630,
+      "entry_ids": [
+        "SNU-C018"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2026spring/homework/hw02/hw2.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1291450,
+      "entry_ids": [
+        "SNU-C018"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/M1399.000500/2026S/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 921843,
+      "entry_ids": [
+        "SNU-C019"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 23842,
+      "entry_ids": [
+        "SNU-C014"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.310/11/pl-book-draft.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 207,
+      "bytes_read": 3578702,
+      "entry_ids": [
+        "SNU-C014"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/#progress",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 23842,
+      "entry_ids": [
+        "SNU-C014"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 94334,
+      "entry_ids": [
+        "SNU-C014"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 118940,
+      "entry_ids": [
+        "SNU-C014"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/M1399.000400/2025F/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 924636,
+      "entry_ids": [
+        "SNU-C025"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202501",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C021"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202501/blob/main/CoqTheory.md",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C021"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202501/tree/main/1-basic_induction",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C021"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MA1407",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 19911,
+      "entry_ids": [
+        "SNU-C020"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MathAlgo2_2025_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 1267666,
+      "entry_ids": [
+        "SNU-C020"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MathAlgo2_2025_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 9,
+      "bytes_read": 385725,
+      "entry_ids": [
+        "SNU-C020"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MathAlgo2_2025_assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 206839,
+      "entry_ids": [
+        "SNU-C020"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/MathAlgo2_2025_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 143834,
+      "entry_ids": [
+        "SNU-C020"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 7803,
+      "entry_ids": [
+        "SNU-C022"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/0-0.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 3666504,
+      "entry_ids": [
+        "SNU-C022"
+      ]
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/0-1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 50,
+      "bytes_read": 4300453,
+      "entry_ids": [
+        "SNU-C022"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202502",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C023"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202502/blob/main/lecture-part1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 100,
+      "bytes_read": 347367,
+      "fallback_url": "https://raw.githubusercontent.com/snu-sf-class/pp202502/main/lecture-part1.pdf",
+      "entry_ids": [
+        "SNU-C023"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202502/tree/main/Assignment",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C023"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/326.516/2025F/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 923574,
+      "entry_ids": [
+        "SNU-C024"
+      ]
+    },
+    {
+      "url": "https://github.com/Yelinz/snu-coursework/tree/main/3dcv",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C028"
+      ]
+    },
+    {
+      "url": "https://github.com/vmolab/advcmp-2025",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C027"
+      ]
+    },
+    {
+      "url": "https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 77,
+      "bytes_read": 685855,
+      "entry_ids": [
+        "SNU-C026"
+      ]
+    },
+    {
+      "url": "https://github.com/snumrl/2025_SNU_HumanMotion_HW",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C029"
+      ]
+    },
+    {
+      "url": "https://github.com/Yelinz/snu-coursework/tree/main/cv",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C030"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/M1399.000500/2025S/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 921657,
+      "entry_ids": [
+        "SNU-C032"
+      ]
+    },
+    {
+      "url": "https://xkqiu.github.io/SNU-program-synthesis/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 5063,
+      "entry_ids": [
+        "SNU-C031"
+      ]
+    },
+    {
+      "url": "https://xkqiu.github.io/SNU-program-synthesis/lectures.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 4119,
+      "entry_ids": [
+        "SNU-C031"
+      ]
+    },
+    {
+      "url": "https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 90,
+      "bytes_read": 702692,
+      "entry_ids": [
+        "SNU-C033"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/M1399.000400/2024F/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 921445,
+      "entry_ids": [
+        "SNU-C037"
+      ]
+    },
+    {
+      "url": "https://compsec.snu.ac.kr/class/data-structure/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 11598,
+      "entry_ids": [
+        "SNU-C034"
+      ]
+    },
+    {
+      "url": "https://compsec.snu.ac.kr/class/data-structure/sched",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 22813,
+      "entry_ids": [
+        "SNU-C034"
+      ]
+    },
+    {
+      "url": "https://compsec.snu.ac.kr/class/data-structure/labs",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 24763,
+      "entry_ids": [
+        "SNU-C034"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C035"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202402",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C036"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/pp202402/blob/main/lecture-part1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 100,
+      "bytes_read": 347269,
+      "fallback_url": "https://raw.githubusercontent.com/snu-sf-class/pp202402/main/lecture-part1.pdf",
+      "entry_ids": [
+        "SNU-C036"
+      ]
+    },
+    {
+      "url": "https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 91,
+      "bytes_read": 710812,
+      "entry_ids": [
+        "SNU-C038"
+      ]
+    },
+    {
+      "url": "https://github.com/vmolab/advcmp-2024",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C043"
+      ]
+    },
+    {
+      "url": "https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 95,
+      "bytes_read": 790509,
+      "entry_ids": [
+        "SNU-C039"
+      ]
+    },
+    {
+      "url": "https://github.com/snjlee58/Database-SNU2024",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C044"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_001000-2024spring/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 18622,
+      "entry_ids": [
+        "SNU-C049"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_001000-2024spring/mdsr/ch01-intro_slides.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 37253,
+      "entry_ids": [
+        "SNU-C049"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_001000-2024spring/mdsr/ch02-dataviz_slides.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 6030560,
+      "entry_ids": [
+        "SNU-C049"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/FM.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 12677,
+      "entry_ids": [
+        "SNU-C040"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/FM/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 191557,
+      "entry_ids": [
+        "SNU-C040"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/FM/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 184650,
+      "entry_ids": [
+        "SNU-C040"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202401",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C045"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202401/tree/main/lecture-slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C045"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202401/tree/main/practice-materials",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C045"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/swpp202401/tree/main/project",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C045"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202401",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C046"
+      ]
+    },
+    {
+      "url": "https://github.com/snu-sf-class/sf202401/tree/main/class",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C046"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/MLT.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 16370,
+      "entry_ids": [
+        "SNU-C041"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/MLT/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 165752,
+      "entry_ids": [
+        "SNU-C041"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/MLT/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 199607,
+      "entry_ids": [
+        "SNU-C041"
+      ]
+    },
+    {
+      "url": "https://github.com/SNU-ARC/2024_spring_sysprog_Lab3",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C047"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/deep_learning.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 27066,
+      "entry_ids": [
+        "SNU-C042"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DNN/Python Lectures.ipynb",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 43957,
+      "entry_ids": [
+        "SNU-C042"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DNN/Python Lecture 2.ipynb",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 51720,
+      "entry_ids": [
+        "SNU-C042"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DNN/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 230838,
+      "entry_ids": [
+        "SNU-C042"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DNN/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 203729,
+      "entry_ids": [
+        "SNU-C042"
+      ]
+    },
+    {
+      "url": "https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C048"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/M1399.000500/2024S/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 920865,
+      "entry_ids": [
+        "SNU-C050"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/regression-analysis-and-lab-2020-spring",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 131507,
+      "entry_ids": [
+        "SNU-C051"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000200-2023fall/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 14668,
+      "entry_ids": [
+        "SNU-C055"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000200-2023fall/project/project.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 8545,
+      "entry_ids": [
+        "SNU-C055"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/DeepLearning-2023-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C053"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000400-2023fall/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10852,
+      "entry_ids": [
+        "SNU-C124"
+      ]
+    },
+    {
+      "url": "https://sfamsnu.github.io/fall23/calendar/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10014,
+      "entry_ids": [
+        "SNU-C052"
+      ]
+    },
+    {
+      "url": "https://jkim82133.github.io/321.621A/2023F/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 920564,
+      "entry_ids": [
+        "SNU-C056"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/SHPC-2023-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C054"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2023spring/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10928,
+      "entry_ids": [
+        "SNU-C057"
+      ]
+    },
+    {
+      "url": "https://github.com/cakeng/dcn_2022_fall",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C060"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C061"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 27201,
+      "entry_ids": [
+        "SNU-C058"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/optimization.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 13359,
+      "entry_ids": [
+        "SNU-C059"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/optimization/intro.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 14,
+      "bytes_read": 60963,
+      "entry_ids": [
+        "SNU-C059"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/optimization/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 115225,
+      "entry_ids": [
+        "SNU-C059"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/MachineLearning-2022-1",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C063"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DLTheory.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 18200,
+      "entry_ids": [
+        "SNU-C062"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DLtheory/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 159423,
+      "entry_ids": [
+        "SNU-C062"
+      ]
+    },
+    {
+      "url": "https://ernestryu.com/courses/DLtheory/hw2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 170415,
+      "entry_ids": [
+        "SNU-C062"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C064"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_212-2021fall/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10379,
+      "entry_ids": [
+        "SNU-C067"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_212-2021fall/hw/hw1.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 630866,
+      "entry_ids": [
+        "SNU-C067"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_212-2021fall/hw/hw2.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 824311,
+      "entry_ids": [
+        "SNU-C067"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/Compiler-2021-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C065"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C066"
+      ]
+    },
+    {
+      "url": "https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C068"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2021spring/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10804,
+      "entry_ids": [
+        "SNU-C069"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2021spring/lectures/lecture1/arith.ipynb",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 37452,
+      "entry_ids": [
+        "SNU-C069"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2021spring/lectures/lecture2/gelu.ipynb",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 29548,
+      "entry_ids": [
+        "SNU-C069"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2021spring/homework/hw1.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10991,
+      "entry_ids": [
+        "SNU-C069"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/M1399_000100-2021spring/homework/hw2.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 18044,
+      "entry_ids": [
+        "SNU-C069"
+      ]
+    },
+    {
+      "url": "https://github.com/sunoh-kim/digital-image-processing",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C070"
+      ]
+    },
+    {
+      "url": "https://github.com/woocshin/SNUCV2020Fall",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C071"
+      ]
+    },
+    {
+      "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C073"
+      ]
+    },
+    {
+      "url": "https://github.com/sunoh-kim/deep-reinforcement-learning",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C072"
+      ]
+    },
+    {
+      "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C074"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 135940,
+      "entry_ids": [
+        "SNU-C075"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring#h.egls46mhb99z",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 135896,
+      "entry_ids": [
+        "SNU-C075"
+      ]
+    },
+    {
+      "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C076"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 131976,
+      "entry_ids": [
+        "SNU-C077"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model#h.yqbg1dy9q9gl",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 132052,
+      "entry_ids": [
+        "SNU-C077"
+      ]
+    },
+    {
+      "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C078"
+      ]
+    },
+    {
+      "url": "https://github.com/jiminsun/IAML_2018",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C079"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_621a-2018fall/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 9311,
+      "entry_ids": [
+        "SNU-C082"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_621a-2018fall/hw/hw4/hw4.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 741331,
+      "entry_ids": [
+        "SNU-C082"
+      ]
+    },
+    {
+      "url": "https://won-j.github.io/326_621a-2018fall/hw/hw1/hw1.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 744663,
+      "entry_ids": [
+        "SNU-C082"
+      ]
+    },
+    {
+      "url": "https://github.com/sunoh-kim/convex-optimization",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C080"
+      ]
+    },
+    {
+      "url": "https://github.com/eodmsabc/SNU-System-Programming",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C081"
+      ]
+    },
+    {
+      "url": "https://github.com/ijleesw/SNU_MATH_M1407.000400",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C083"
+      ]
+    },
+    {
+      "url": "https://github.com/j-min/Math-for-IE",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C084"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2015-2/machine-learning/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20248,
+      "entry_ids": [
+        "SNU-C085"
+      ]
+    },
+    {
+      "url": "https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 143,
+      "bytes_read": 7569395,
+      "entry_ids": [
+        "SNU-C086"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20389,
+      "entry_ids": [
+        "SNU-C087"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/References/ai12s_ch8.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 13,
+      "bytes_read": 485813,
+      "entry_ids": [
+        "SNU-C087"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/Projects/SpecProject2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 83533,
+      "entry_ids": [
+        "SNU-C087"
+      ]
+    },
+    {
+      "url": "https://www.math.snu.ac.kr/~lim/Lie_groups.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 45407,
+      "entry_ids": [
+        "SNU-C088"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/applications-of-function-estimation-and-lab",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 120561,
+      "entry_ids": [
+        "SNU-C089"
+      ]
+    },
+    {
+      "url": "https://drive.google.com/file/d/1J3i9hzZT4Ze9kyNhePi2zjRwILBSZTqq/view?usp=drivesdk",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 91244,
+      "entry_ids": [
+        "SNU-C089"
+      ]
+    },
+    {
+      "url": "https://optimize.snu.ac.kr/teaching.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 5559,
+      "entry_ids": [
+        "SNU-C101"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1222211,
+      "entry_ids": [
+        "SNU-C103"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/advanced-statistical-methods",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 113446,
+      "entry_ids": [
+        "SNU-C114"
+      ]
+    },
+    {
+      "url": "https://github.com/hyunjinjeong/snu-cse-courses-material",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C091"
+      ]
+    },
+    {
+      "url": "https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C108"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/gwpark/lectures",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 212482,
+      "entry_ids": [
+        "SNU-C112"
+      ]
+    },
+    {
+      "url": "https://jung.snu.ac.kr/TeachingPage.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 16231,
+      "entry_ids": [
+        "SNU-C094"
+      ]
+    },
+    {
+      "url": "https://youtube.com/playlist?list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg&si=fmXJ1gHxW7VC9pBw",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1130510,
+      "entry_ids": [
+        "SNU-C094"
+      ]
+    },
+    {
+      "url": "https://jung.snu.ac.kr/papers/Data_Literacy.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 1708293,
+      "entry_ids": [
+        "SNU-C094"
+      ]
+    },
+    {
+      "url": "https://github.com/wcjang/K-MOOC",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C110"
+      ]
+    },
+    {
+      "url": "https://cml.snu.ac.kr/courses/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 140221,
+      "entry_ids": [
+        "SNU-C102"
+      ]
+    },
+    {
+      "url": "https://jylee749.wordpress.com/강의자료/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 95456,
+      "entry_ids": [
+        "SNU-C111"
+      ]
+    },
+    {
+      "url": "https://jylee749.wordpress.com/talk-slides/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 90345,
+      "entry_ids": [
+        "SNU-C111"
+      ]
+    },
+    {
+      "url": "https://jylee749.wordpress.com/%ea%b0%95%ec%9d%98%ec%9e%90%eb%a3%8c/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 95456,
+      "entry_ids": [
+        "SNU-C111"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-rcode",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 115045,
+      "entry_ids": [
+        "SNU-C115"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-local-likelihood-and-frontier",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 115534,
+      "entry_ids": [
+        "SNU-C117"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-wavelet",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 115292,
+      "entry_ids": [
+        "SNU-C118"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-additive-regression",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 115812,
+      "entry_ids": [
+        "SNU-C116"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-semiparametric-inference",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 115502,
+      "entry_ids": [
+        "SNU-C119"
+      ]
+    },
+    {
+      "url": "https://github.com/safeai-snu/R-statistics",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C109"
+      ]
+    },
+    {
+      "url": "https://etl.snu.ac.kr/courses/63f8471164283c4e2d138f62",
+      "result": "skipped_lms",
+      "entry_ids": [
+        "SNU-C123"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 135151,
+      "entry_ids": [
+        "SNU-C113"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall#h.3od5gj3scmzf",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 135115,
+      "entry_ids": [
+        "SNU-C113"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall#h.r5069cngo3tc",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 135079,
+      "entry_ids": [
+        "SNU-C113"
+      ]
+    },
+    {
+      "url": "https://joonhyuk.com/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 53641,
+      "entry_ids": [
+        "SNU-C095"
+      ]
+    },
+    {
+      "url": "https://github.com/wldyddl5510/SNU-CSE",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C093"
+      ]
+    },
+    {
+      "url": "https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C100"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/theoretical-statistics-2006",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 117032,
+      "entry_ids": [
+        "SNU-C122"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20167,
+      "entry_ids": [
+        "SNU-C105"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf",
+      "http_status": 200,
+      "result": "pdf_parse_failed",
+      "bytes_read": 1048576,
+      "entry_ids": [
+        "SNU-C105"
+      ]
+    },
+    {
+      "url": "https://snu-bi.github.io/courses/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 33869,
+      "entry_ids": [
+        "SNU-C106"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/asymptotic-statistical-inference",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 120266,
+      "entry_ids": [
+        "SNU-C120"
+      ]
+    },
+    {
+      "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1217748,
+      "entry_ids": [
+        "SNU-C104"
+      ]
+    },
+    {
+      "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 103181,
+      "entry_ids": [
+        "SNU-C099"
+      ]
+    },
+    {
+      "url": "https://github.com/mybirth0407/snu-stat-bigdata-computing",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C098"
+      ]
+    },
+    {
+      "url": "https://github.com/octahedron00/SNU_statistics_lab_assignments",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C097"
+      ]
+    },
+    {
+      "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-statistics",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 113322,
+      "entry_ids": [
+        "SNU-C121"
+      ]
+    },
+    {
+      "url": "https://github.com/sally20921/SNUCSE-undergraduate",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "SNU-C092"
+      ]
+    },
+    {
+      "url": "https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 10238,
+      "entry_ids": [
+        "SNU-C107"
+      ]
+    },
+    {
+      "url": "https://park4264.github.io/categories/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 37626,
+      "entry_ids": [
+        "SNU-C096"
+      ]
+    },
+    {
+      "url": "https://generative-models.kaist.ac.kr/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 33424,
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://youtu.be/ebekKZD6mEk",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1313044,
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://youtu.be/9FvcuX99HOs",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1341829,
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://youtu.be/A3pCYCQuJEM",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1344256,
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://generative-models.kaist.ac.kr/fastgen/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 36744,
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/AIC313-Project-FastGen",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K001"
+      ]
+    },
+    {
+      "url": "https://ohtae.in/teaching/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 4441,
+      "entry_ids": [
+        "KAIST-K024"
+      ]
+    },
+    {
+      "url": "https://ohtae.in/teaching/2026-fall-cs20002/week-1-lecture-slides.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 45,
+      "bytes_read": 7159958,
+      "entry_ids": [
+        "KAIST-K024"
+      ]
+    },
+    {
+      "url": "https://ohtae.in/teaching/2026-fall-cs20002/week-2-lecture-slides.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 51,
+      "bytes_read": 305194,
+      "entry_ids": [
+        "KAIST-K024"
+      ]
+    },
+    {
+      "url": "https://ohtae.in/teaching/2026-fall-cs20002/week-3-lecture-slides.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 29,
+      "bytes_read": 360657,
+      "entry_ids": [
+        "KAIST-K024"
+      ]
+    },
+    {
+      "url": "https://github.com/hjxarchive/2026-fall-cs320",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K035"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2026f-cs40008/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 7105,
+      "entry_ids": [
+        "KAIST-K023"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 66,
+      "bytes_read": 465156,
+      "entry_ids": [
+        "KAIST-K021",
+        "KAIST-K022",
+        "KAIST-K023"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K021",
+        "KAIST-K022",
+        "KAIST-K023"
+      ]
+    },
+    {
+      "url": "https://kaist-ee209.github.io/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 15154,
+      "entry_ids": [
+        "KAIST-K026"
+      ]
+    },
+    {
+      "url": "http://ee209.kaist.ac.kr/assignments/assignment1",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 45336,
+      "entry_ids": [
+        "KAIST-K026"
+      ]
+    },
+    {
+      "url": "http://ee209.kaist.ac.kr/assignments/assignment2",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 33397,
+      "entry_ids": [
+        "KAIST-K026"
+      ]
+    },
+    {
+      "url": "http://ee209.kaist.ac.kr/assignments/assignment3",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 28603,
+      "entry_ids": [
+        "KAIST-K026"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2026f-is50601/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 24744,
+      "entry_ids": [
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/01-introduction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 55,
+      "bytes_read": 817127,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/02-binary.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 42,
+      "bytes_read": 311336,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/03-assembly.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 78,
+      "bytes_read": 495901,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/04-abi.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 40,
+      "bytes_read": 271345,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/05-hijack.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 49,
+      "bytes_read": 315089,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/06-format.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 50,
+      "bytes_read": 306693,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/07-integer.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 33,
+      "bytes_read": 252484,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/08-dep.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 57,
+      "bytes_read": 379465,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/09-aslr.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 48,
+      "bytes_read": 347787,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/10-canary.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 40,
+      "bytes_read": 384738,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/11-disclosure.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 55,
+      "bytes_read": 439447,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/12-em.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 49,
+      "bytes_read": 338056,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/13-rewriting.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 49,
+      "bytes_read": 285367,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/14-cfi.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 46,
+      "bytes_read": 322252,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/15-confusion.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 41,
+      "bytes_read": 292197,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/16-heap.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 53,
+      "bytes_read": 359543,
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K017",
+        "KAIST-K018"
+      ]
+    },
+    {
+      "url": "https://github.com/sjhwang-dotcom/agentic-ai-course",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K031"
+      ]
+    },
+    {
+      "url": "https://github.com/sjhwang-dotcom/agentic-ai-course/blob/main/slides/W2_Agentic_Architecture_Patterns.pptx",
+      "http_status": 200,
+      "result": "pptx_xml_readable",
+      "slide_count": 78,
+      "bytes_read": 9695733,
+      "fallback_url": "https://raw.githubusercontent.com/sjhwang-dotcom/agentic-ai-course/main/slides/W2_Agentic_Architecture_Patterns.pptx",
+      "entry_ids": [
+        "KAIST-K031"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2026s-cs20200/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20605,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/01-introduction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 59,
+      "bytes_read": 844612,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/02-abstraction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 59,
+      "bytes_read": 378624,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/03-integer.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 26,
+      "bytes_read": 182074,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/04-recursion.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 42,
+      "bytes_read": 277292,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/05-closures.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 32,
+      "bytes_read": 244832,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/06-data.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 53,
+      "bytes_read": 381458,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/07-list.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 39,
+      "bytes_read": 233512,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/08-list2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 223423,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/09-higher.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 325312,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/10-higher2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 42,
+      "bytes_read": 292860,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/11-imperative.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 248636,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/12-module.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 49,
+      "bytes_read": 298677,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/13-active.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 38,
+      "bytes_read": 255332,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/14-object.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 47,
+      "bytes_read": 235745,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/15-polymorphism.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 43,
+      "bytes_read": 258252,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/16-interface.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 49,
+      "bytes_read": 343398,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/17-lazy.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 30,
+      "bytes_read": 218229,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/18-streams.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 38,
+      "bytes_read": 296182,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/19-async.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 34,
+      "bytes_read": 286168,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/20-monads.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 39,
+      "bytes_read": 265622,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/21-parser.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 326537,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/22-interpreter.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 40,
+      "bytes_read": 255856,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/23-railway.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 41,
+      "bytes_read": 318734,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/24-domain.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 47,
+      "bytes_read": 262294,
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-CS20200/CS20200-Main/tree/main/Homeworks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-CS20200/Homework5",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-CS20200/Homework7",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-CS20200/Homework8",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K015"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2026s-cs40008/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 7105,
+      "entry_ids": [
+        "KAIST-K022"
+      ]
+    },
+    {
+      "url": "https://3dml.kaist.ac.kr/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 35763,
+      "entry_ids": [
+        "KAIST-K002"
+      ]
+    },
+    {
+      "url": "https://youtu.be/7ZJ61x6kr-w",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1337909,
+      "entry_ids": [
+        "KAIST-K002"
+      ]
+    },
+    {
+      "url": "https://youtu.be/sYcDL5W3MOI",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1298271,
+      "entry_ids": [
+        "KAIST-K002"
+      ]
+    },
+    {
+      "url": "https://youtu.be/cwhjK5_rOwk",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1251365,
+      "entry_ids": [
+        "KAIST-K002"
+      ]
+    },
+    {
+      "url": "https://3dml.kaist.ac.kr/programming-assignments/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 21155,
+      "entry_ids": [
+        "KAIST-K002"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-PointNet",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K002",
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-NeRF",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K002",
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-3DGS",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K002",
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-MLS-MS",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K002",
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://github.com/ssimplexity/CS492_spring2026",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K030"
+      ]
+    },
+    {
+      "url": "https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 111,
+      "bytes_read": 795078,
+      "fallback_url": "https://raw.githubusercontent.com/ssimplexity/CS492_spring2026/main/Lecture_Note_CS492.pdf",
+      "entry_ids": [
+        "KAIST-K030"
+      ]
+    },
+    {
+      "url": "https://github.com/Ahnhojin1223/KAIST_EE478_2026_Spring",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K034"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2025f-cs40008/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 12382,
+      "entry_ids": [
+        "KAIST-K021"
+      ]
+    },
+    {
+      "url": "https://diffusion.kaist.ac.kr/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 36589,
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://youtu.be/96XoVM7PYtQ",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1416686,
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://youtu.be/qiFZQvcqTOo",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1312948,
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://youtu.be/5_t3uSvdrWg",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1342999,
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://diffusion.kaist.ac.kr/programming-assignments/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20588,
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-2025-Assignment1-DDPM-DDIM",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-2025-Assignment2-DPMSolver",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-2025-Assignment3-Flow",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K003"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2025f-is50601/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 24974,
+      "entry_ids": [
+        "KAIST-K017"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2025s-cs20200/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20560,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/01-introduction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 58,
+      "bytes_read": 839188,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/02-abstraction.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 60,
+      "bytes_read": 381158,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/03-integer.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 24,
+      "bytes_read": 168465,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/04-recursion.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 43,
+      "bytes_read": 281785,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/05-closures.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 32,
+      "bytes_read": 245804,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/06-data.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 53,
+      "bytes_read": 382572,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/07-list.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 40,
+      "bytes_read": 238356,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/08-list2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 224551,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/09-higher.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 326755,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/10-higher2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 42,
+      "bytes_read": 292128,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/11-imperative.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 43,
+      "bytes_read": 244802,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/12-module.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 45,
+      "bytes_read": 283121,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/13-active.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 34,
+      "bytes_read": 240283,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/14-object.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 46,
+      "bytes_read": 232036,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/15-polymorphism.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 44,
+      "bytes_read": 263212,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/16-interface.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 50,
+      "bytes_read": 342408,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/17-lazy.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 30,
+      "bytes_read": 218517,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/18-streams.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 38,
+      "bytes_read": 296971,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/19-async.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 34,
+      "bytes_read": 267916,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/20-monads.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 40,
+      "bytes_read": 270708,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/21-parser.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 41,
+      "bytes_read": 319236,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/22-interpreter.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 226469,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/23-railway.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 35,
+      "bytes_read": 293507,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/24-domain.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 201019,
+      "entry_ids": [
+        "KAIST-K020"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs479-spring-2025/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 35651,
+      "entry_ids": [
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://youtu.be/5nwCq8KONRo",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1470681,
+      "entry_ids": [
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://youtu.be/4iz_SITZOE4",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1403494,
+      "entry_ids": [
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://youtu.be/0oE_S18G8GQ",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1313501,
+      "entry_ids": [
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs479-spring-2025/programming-assignments/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20205,
+      "entry_ids": [
+        "KAIST-K004"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs492d-fall-2024/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 36507,
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://youtu.be/Nh9MIEbCJIw",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1433852,
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://youtu.be/9V-7BoxEcqk",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1391334,
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://youtu.be/--p26ltTUaU",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1320660,
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs492d-fall-2024/programming-assignments/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 19804,
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment3-ControlNet-LoRA",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment4-Distillation",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment5-Synchronization",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver",
+      "result": "github_404",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment7-Flow",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K005"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 12274,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/01-intro.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 13,
+      "bytes_read": 859875,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/02-review.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 54,
+      "bytes_read": 2232964,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/03-review_2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 38,
+      "bytes_read": 774988,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/04-file_io.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 32,
+      "bytes_read": 1536882,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/05-files_and_directories.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 51,
+      "bytes_read": 1078467,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/precepts/assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 23,
+      "bytes_read": 730175,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/precepts/assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 15,
+      "bytes_read": 326942,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://teemo.kaist.ac.kr/ee309/2024/assets/precepts/assignment3.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 193984,
+      "entry_ids": [
+        "KAIST-K025"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 13878,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture0.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 54,
+      "bytes_read": 4216205,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 195498,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 636257,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 293947,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 160654,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 391371,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 9,
+      "bytes_read": 247380,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 168426,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 420972,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 155657,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 217292,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 10,
+      "bytes_read": 336149,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 359218,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 190993,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 190444,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 9,
+      "bytes_read": 1849418,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 204062,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 184496,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 189758,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 221419,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 139886,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 211364,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 146233,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 217042,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 142679,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 168159,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 188852,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_assignment3.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 167352,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_assignment4.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 183525,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2024_assignment5.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 141477,
+      "entry_ids": [
+        "KAIST-K010"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2024f-is561/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 25405,
+      "entry_ids": [
+        "KAIST-K016"
+      ]
+    },
+    {
+      "url": "https://softsec.kaist.ac.kr/courses/2024s-cs220/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 20410,
+      "entry_ids": [
+        "KAIST-K019"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs580-spring-2024/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 33038,
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://youtu.be/uZB4eNlaXlo",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1351474,
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://youtu.be/AfP2A3joix4",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1264853,
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://youtu.be/3Pe90INpcVs",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1260884,
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs580-spring-2024/assignment/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 16931,
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://github.com/KAIST-Geometric-AI-Group/CS580-Assignment",
+      "result": "github_moved",
+      "canonical_url": "https://github.com/KAIST-Visual-AI-Group/CS580-Assignment",
+      "entry_ids": [
+        "KAIST-K006"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 14975,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 1250597,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 362934,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 1178052,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 248438,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 1563337,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 523013,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 863841,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 10,
+      "bytes_read": 194204,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 667689,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 167083,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 216080,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 705369,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 168517,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 167882,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 756184,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 171118,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 175123,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 184819,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 1626489,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 173143,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 165242,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 1583463,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 164557,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 164603,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/DS801_2024_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 148575,
+      "entry_ids": [
+        "KAIST-K014"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 9942,
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/2024_IE331_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 1249882,
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_2024_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 138820,
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_2024_lecture3_note.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_2024_lecture4_note.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_2024_lecture5_note.pdf",
+      "http_status": 404,
+      "result": "http_404",
+      "entry_ids": [
+        "KAIST-K008"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs479-fall-2023/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 34329,
+      "entry_ids": [
+        "KAIST-K007"
+      ]
+    },
+    {
+      "url": "https://youtu.be/ghGk3HcxUgg",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1394441,
+      "entry_ids": [
+        "KAIST-K007"
+      ]
+    },
+    {
+      "url": "https://youtu.be/933wv8i3QKU",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1261844,
+      "entry_ids": [
+        "KAIST-K007"
+      ]
+    },
+    {
+      "url": "https://youtu.be/i04fhF9fOdM",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1344280,
+      "entry_ids": [
+        "KAIST-K007"
+      ]
+    },
+    {
+      "url": "https://mhsung.github.io/kaist-cs479-fall-2023/project-submission-guidelines/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 43900,
+      "entry_ids": [
+        "KAIST-K007"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 13866,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture0.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 14,
+      "bytes_read": 3673677,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 195708,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 636254,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 298975,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 192668,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 405040,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 9,
+      "bytes_read": 247380,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 168630,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 433458,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 161633,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 234353,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 249850,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 400882,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 213755,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 189878,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 203076,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 182657,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 180788,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 172834,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 198693,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 235349,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 139885,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 211459,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 146490,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 229810,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_lecture25_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 143007,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 170588,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 175578,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_assignment3.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 139614,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_assignment4.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 168584,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2023_assignment5.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 126639,
+      "entry_ids": [
+        "KAIST-K011"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_2023",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 12821,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 1500106,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 150907,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 255604,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 271708,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 192779,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 380654,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 268269,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 151432,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 184636,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 175812,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 463545,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 187545,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 910319,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 393579,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 244739,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 158519,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 135217,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 150252,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 150355,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 150835,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 138153,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 123714,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 195817,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 195128,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 474467,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 111965,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE331_assignment3.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 139243,
+      "entry_ids": [
+        "KAIST-K009"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 16748,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture1_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 266186,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 159046,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 618801,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 480726,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 167280,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 155216,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 318994,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 263691,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 287415,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 315981,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 351691,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 196988,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 283322,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 364021,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 193407,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 215529,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 365359,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 183150,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 160299,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 208226,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 140176,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 152145,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 155690,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE631_lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 155648,
+      "entry_ids": [
+        "KAIST-K013"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/IE539_2022",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 14634,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture0.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 10,
+      "bytes_read": 3508682,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 168531,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture2_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 620531,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture3_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 298380,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture4_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 190419,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture5_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 11,
+      "bytes_read": 441815,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture6_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 251565,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture7_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 404761,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture8_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 159498,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture9_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 202369,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture10_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 273039,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture11_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 155935,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture12_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 7,
+      "bytes_read": 352200,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture13_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 239730,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture14_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 187781,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture15_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 176106,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture16_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 177392,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture17_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 189807,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture18_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 194570,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture19_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 184692,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture20_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 181148,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture21_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 189481,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture22_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 201367,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture23_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 163505,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture24_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 5,
+      "bytes_read": 199320,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/lecture25_note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 4,
+      "bytes_read": 156960,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/assignment1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 183380,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/assignment2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 187355,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/assignment3.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 139614,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/assignment4.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 168584,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://dabeenl.github.io/assignment5.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 2,
+      "bytes_read": 141597,
+      "entry_ids": [
+        "KAIST-K012"
+      ]
+    },
+    {
+      "url": "https://github.com/suulkyy/ai701-f21",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K037"
+      ]
+    },
+    {
+      "url": "https://kaist.theoryofcomputation.asia/21cs300",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 23503,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300b.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 16,
+      "bytes_read": 1160935,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300c.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 18,
+      "bytes_read": 1065497,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300d.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 11,
+      "bytes_read": 1034444,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300e.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 18,
+      "bytes_read": 1431509,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300f.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 15,
+      "bytes_read": 977565,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300g.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 8,
+      "bytes_read": 662849,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://theoryofcomputation.asia/_media/21cs300h.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 11,
+      "bytes_read": 1781679,
+      "entry_ids": [
+        "KAIST-K029"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Machine-Learning-for-Computer-Vision",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K046"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Machine-Learning-for-Computer-Vision/tree/main/Coursework",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K046"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Artificial-Intelligence-in-Mathematics",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K040"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Artificial-Intelligence-in-Mathematics/tree/main/Lecture%20Slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K040"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Artificial-Intelligence-in-Mathematics/tree/main/Homeworks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K040"
+      ]
+    },
+    {
+      "url": "https://github.com/suulkyy/ai604-s21",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K038"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Numerical-Algorithms",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K041"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Numerical-Algorithms/tree/main/Lecture%20Slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K041"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Numerical-Algorithms/tree/main/Homeworks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K041"
+      ]
+    },
+    {
+      "url": "https://github.com/redherring2141/AI504",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K033"
+      ]
+    },
+    {
+      "url": "https://github.com/redherring2141/AI504/blob/master/class1_20200901/01_intro.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 32,
+      "bytes_read": 14258754,
+      "fallback_url": "https://raw.githubusercontent.com/redherring2141/AI504/master/class1_20200901/01_intro.pdf",
+      "entry_ids": [
+        "KAIST-K033"
+      ]
+    },
+    {
+      "url": "https://github.com/redherring2141/AI504/tree/master/class10",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K033"
+      ]
+    },
+    {
+      "url": "https://github.com/redherring2141/AI504/blob/master/project2/ai504_project2.ipynb",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K033"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Discrete-Mathematics",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K042"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Discrete-Mathematics/tree/main/Lecture%20Slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K042"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Discrete-Mathematics/tree/main/Homework%20Problems",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K042"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Linear-Algebra",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K045"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Linear-Algebra/tree/main/Lecture%20Notes",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K045"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Linear-Algebra/tree/main/MATLAB/Assignments",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K045"
+      ]
+    },
+    {
+      "url": "https://github.com/psh170207/CS311_Computer_Organizations",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K039"
+      ]
+    },
+    {
+      "url": "https://github.com/s9v/CS206-Data-Structures",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K036"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 14875,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture25.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 36,
+      "bytes_read": 190303,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture24.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 33,
+      "bytes_read": 183897,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture23.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 24,
+      "bytes_read": 149858,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture22.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 19,
+      "bytes_read": 133625,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture21.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 16,
+      "bytes_read": 125914,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture20.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 21,
+      "bytes_read": 132187,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture19.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 31,
+      "bytes_read": 176148,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture18.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 17,
+      "bytes_read": 142088,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture17.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 20,
+      "bytes_read": 156294,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture16.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 26,
+      "bytes_read": 214773,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture15.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 21,
+      "bytes_read": 141517,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture14.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 25,
+      "bytes_read": 1246968,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture13.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 24,
+      "bytes_read": 1258960,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture12.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 27,
+      "bytes_read": 2009783,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture11.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 34,
+      "bytes_read": 1781868,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture10.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 32,
+      "bytes_read": 1469114,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture09.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 16,
+      "bytes_read": 1066968,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture08.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 28,
+      "bytes_read": 1554248,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture07.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 17,
+      "bytes_read": 1305102,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture06.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 25,
+      "bytes_read": 1434879,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture05.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 20,
+      "bytes_read": 1209314,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture04.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 20,
+      "bytes_read": 1548213,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture03.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 19,
+      "bytes_read": 1479725,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture02.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 23,
+      "bytes_read": 1813503,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/lecture01.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 11,
+      "bytes_read": 1126334,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework09.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 38960,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework08.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 39231,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework07.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 39237,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework06.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 39387,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework05.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 39251,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework04.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 231720,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework03.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 234090,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework02.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 232909,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://nlpcl.kaist.ac.kr/~cs204/homework01.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 229364,
+      "entry_ids": [
+        "KAIST-K027"
+      ]
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/~nipl/am250/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 66182,
+      "entry_ids": [
+        "KAIST-K028"
+      ]
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/~nipl/am250/notes.htm",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 1576,
+      "entry_ids": [
+        "KAIST-K028"
+      ]
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/~nipl/am250/lecture_01.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 1,
+      "bytes_read": 110397,
+      "entry_ids": [
+        "KAIST-K028"
+      ]
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/~nipl/am250/homeworks.htm",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 507,
+      "entry_ids": [
+        "KAIST-K028"
+      ]
+    },
+    {
+      "url": "https://mathsci.kaist.ac.kr/~nipl/am250/HW_chap2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 3,
+      "bytes_read": 160415,
+      "entry_ids": [
+        "KAIST-K028"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Algorithms",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K044"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Algorithms/tree/main/Lecture%20Slides",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K044"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Introduction-to-Algorithms/tree/main/Homework%20Problems",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K044"
+      ]
+    },
+    {
+      "url": "https://github.com/YujunKim02/KAIST_Lectures",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K055"
+      ]
+    },
+    {
+      "url": "https://github.com/YujunKim02/KAIST_Lectures/tree/main/IE",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K055"
+      ]
+    },
+    {
+      "url": "https://github.com/YujunKim02/KAIST_Lectures/tree/main/CS",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K055"
+      ]
+    },
+    {
+      "url": "https://github.com/YujunKim02/KAIST_Lectures/tree/main/AI",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K055"
+      ]
+    },
+    {
+      "url": "https://github.com/JinheonBaek/DeepLearning-Lab",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K032"
+      ]
+    },
+    {
+      "url": "https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/cnn.ipynb",
+      "http_status": 200,
+      "result": "notebook_json_readable",
+      "cell_count": 11,
+      "bytes_read": 1276501,
+      "fallback_url": "https://raw.githubusercontent.com/JinheonBaek/DeepLearning-Lab/main/cnn.ipynb",
+      "entry_ids": [
+        "KAIST-K032"
+      ]
+    },
+    {
+      "url": "https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/rnn.ipynb",
+      "http_status": 200,
+      "result": "notebook_json_readable",
+      "cell_count": 11,
+      "bytes_read": 1228846,
+      "fallback_url": "https://raw.githubusercontent.com/JinheonBaek/DeepLearning-Lab/main/rnn.ipynb",
+      "entry_ids": [
+        "KAIST-K032"
+      ]
+    },
+    {
+      "url": "https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/dropout.ipynb",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K032"
+      ]
+    },
+    {
+      "url": "https://github.com/omeletJK/ie437",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K056"
+      ]
+    },
+    {
+      "url": "https://github.com/omeletJK/ie437/tree/main/md",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K056"
+      ]
+    },
+    {
+      "url": "https://github.com/omeletJK/ie437/blob/main/md/_SYLLABUS.md",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K056"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS212",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K047"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS212/MAS212_Note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 54,
+      "bytes_read": 388511,
+      "entry_ids": [
+        "KAIST-K047"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Analysis-1",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K043"
+      ]
+    },
+    {
+      "url": "https://github.com/anar-rzayev/Analysis-1/tree/main/Homeworks",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K043"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS241",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K048"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS241/MAS241_Note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 65,
+      "bytes_read": 854708,
+      "entry_ids": [
+        "KAIST-K048"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS242",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K049"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS242/MAS242_Note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 30,
+      "bytes_read": 244524,
+      "entry_ids": [
+        "KAIST-K049"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS30041",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K050"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS30041/complex_variables_1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 17,
+      "bytes_read": 205351,
+      "entry_ids": [
+        "KAIST-K050"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS30050",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K051"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS30050/probability.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 41,
+      "bytes_read": 454057,
+      "entry_ids": [
+        "KAIST-K051"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS311",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K052"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS311/modern_algebra.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 56,
+      "bytes_read": 454463,
+      "entry_ids": [
+        "KAIST-K052"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS312%28dropped%29",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K053"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS312%28dropped%29/modern_algebra_2.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 18,
+      "bytes_read": 238900,
+      "entry_ids": [
+        "KAIST-K053"
+      ]
+    },
+    {
+      "url": "https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS331",
+      "result": "github_resource_resolved",
+      "entry_ids": [
+        "KAIST-K054"
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS331/MAS331_Note.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 107,
+      "bytes_read": 1984397,
+      "entry_ids": [
+        "KAIST-K054"
+      ]
+    }
+  ],
+  "additional_records": [
+    {
+      "url": "https://reality.snu.ac.kr/class/machine-learning/lecture2_models.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "https://reality.snu.ac.kr/class/machine-learning/lecture2_gd.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "https://reality.snu.ac.kr/class/machine-learning/lecture4.html",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1RZNh6mtKtYzJzK5qCy4KZHjOY0z_jGEt/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1s1KGC3o7srcTsi3nAPyXvwTShyOtHFRC/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1hAFRXM-Vs7xIja4q76r8wR6PueVJmk_F/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1mBSgwLiV2x4kgMtQB0BE0JwYwP74Ze6n/view?usp=sharing",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "http://www.sungjuhwang.com/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "https://www.mlai-kaist.com/people",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified"
+    },
+    {
+      "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/hw1.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 6,
+      "bytes_read": 111290
+    },
+    {
+      "url": "https://drive.google.com/file/d/1VhvxWJyVleKpZB4XXvPD_KlizsBnw79G/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1oJ0J1vBQYM5rxkXcXJlcqb0cq_XK6PAz/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1sY64KOOtDC0XO_VFt1AkKyJoJEzBMvlh/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "https://drive.google.com/file/d/1LqEOjLL2DXot7m0Ql42zer0218KAzbe5/view?usp=sharing",
+      "http_status": 401,
+      "result": "http_401"
+    },
+    {
+      "url": "http://www.sungjuhwang.com/index.php/teaching/",
+      "http_status": 200,
+      "result": "http_200_not_full_content_verified",
+      "bytes_read": 17445
+    },
+    {
+      "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/L1-intro.pdf",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 24,
+      "bytes_read": 182083
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1mBSgwLiV2x4kgMtQB0BE0JwYwP74Ze6n",
+      "http_status": 200,
+      "result": "pdf_structure_readable",
+      "pdf_pages": 92,
+      "bytes_read": 40162219
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927401,
+      "source_view": "https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927024,
+      "source_view": "https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927303,
+      "source_view": "https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 928281,
+      "source_view": "https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927296,
+      "source_view": "https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 926886,
+      "source_view": "https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1RZNh6mtKtYzJzK5qCy4KZHjOY0z_jGEt",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 926800,
+      "source_view": "https://drive.google.com/file/d/1RZNh6mtKtYzJzK5qCy4KZHjOY0z_jGEt/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1s1KGC3o7srcTsi3nAPyXvwTShyOtHFRC",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927163,
+      "source_view": "https://drive.google.com/file/d/1s1KGC3o7srcTsi3nAPyXvwTShyOtHFRC/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1hAFRXM-Vs7xIja4q76r8wR6PueVJmk_F",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 926974,
+      "source_view": "https://drive.google.com/file/d/1hAFRXM-Vs7xIja4q76r8wR6PueVJmk_F/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1VhvxWJyVleKpZB4XXvPD_KlizsBnw79G",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927249,
+      "source_view": "https://drive.google.com/file/d/1VhvxWJyVleKpZB4XXvPD_KlizsBnw79G/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1oJ0J1vBQYM5rxkXcXJlcqb0cq_XK6PAz",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927177,
+      "source_view": "https://drive.google.com/file/d/1oJ0J1vBQYM5rxkXcXJlcqb0cq_XK6PAz/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1sY64KOOtDC0XO_VFt1AkKyJoJEzBMvlh",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 928518,
+      "source_view": "https://drive.google.com/file/d/1sY64KOOtDC0XO_VFt1AkKyJoJEzBMvlh/view?usp=sharing"
+    },
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1LqEOjLL2DXot7m0Ql42zer0218KAzbe5",
+      "http_status": 200,
+      "result": "download_login_html_not_pdf",
+      "bytes_read": 927007,
+      "source_view": "https://drive.google.com/file/d/1LqEOjLL2DXot7m0Ql42zer0218KAzbe5/view?usp=sharing"
+    }
+  ]
+}

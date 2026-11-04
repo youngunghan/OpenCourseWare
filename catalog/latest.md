@@ -12,8 +12,8 @@
 | 2026 가을 | KAIST | CS40008 Computer Science Project | 강의자료만 | [KAIST-K023](./kaist.md#kaist-k023) |
 | 2026 가을 | KAIST | EE209 Introduction to Programming and Computer Systems | 과제자료만 | [KAIST-K026](./kaist.md#kaist-k026) |
 | 2026 가을 | KAIST | IS50601/IS561 Binary Code Analysis and Secure Software Systems | 강의자료만 | [KAIST-K018](./kaist.md#kaist-k018) |
-| 2026 가을 | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
-| 2026 가을 | SNU | 기계학습개론 | 강의·과제 함께 | [SNU-C002](./snu.md#snu-c002) |
+| 2026 가을 (README 기준) | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
+| 2026 가을 | SNU | 기계학습개론 | 강의자료만 | [SNU-C002](./snu.md#snu-c002) |
 | 2026 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C003](./snu.md#snu-c003) |
 | 2026 가을 | SNU | 운영체제 | 과제자료만 | [SNU-C004](./snu.md#snu-c004) |
 | 2026 가을 | SNU | 자료구조 | 강의자료만 | [SNU-C005](./snu.md#snu-c005) |
@@ -102,6 +102,7 @@
 | 2022 봄 | SNU | 기계학습 기초 및 전기정보 응용 | 과제자료만 | [SNU-C063](./snu.md#snu-c063) |
 | 2022 봄 | SNU | 심층신경망의 수학적 극한 | 과제자료만 | [SNU-C062](./snu.md#snu-c062) |
 | 2022 봄 | SNU | 운영체제의 기초 | 과제자료만 | [SNU-C064](./snu.md#snu-c064) |
+| 2022 봄 (수업 페이지 기준) | SNU | 인공지능 | 자료 미확인·안내 | [SNU-C105](./snu.md#snu-c105) |
 | 2021 가을 | KAIST | AI701 Bayesian Machine Learning | 과제자료만 | [KAIST-K037](./kaist.md#kaist-k037) |
 | 2021 가을 | KAIST | CS300 Introduction to Algorithms | 강의자료만 | [KAIST-K029](./kaist.md#kaist-k029) |
 | 2021 가을 | KAIST | CS492(A) Machine Learning for Computer Vision | 과제자료만 | [KAIST-K046](./kaist.md#kaist-k046) |
@@ -175,7 +176,6 @@
 | 2017–2020 | SNU | 수업 과제 6과목 모음 | 과제자료만 | [SNU-C093](./snu.md#snu-c093) |
 | 학기 미확인 | SNU | 심층신경망의 수학적 기초 | 과제자료만 | [SNU-C100](./snu.md#snu-c100) |
 | 2006 이전·당시(정확한 학기 미확인) | SNU | 이론통계 — ~2006 자료 | 강의자료만 | [SNU-C122](./snu.md#snu-c122) |
-| 2022 봄·2021 봄 | SNU | 인공지능 | 강의자료만 | [SNU-C105](./snu.md#snu-c105) |
 | 1997–2026 인덱스 | SNU | 인공지능 과거 강의 아카이브 | 여러 학기·과목 혼합 | [SNU-C106](./snu.md#snu-c106) |
 | 학기 미확인 | SNU | 점근적 추론 | 강의자료만 | [SNU-C120](./snu.md#snu-c120) |
 | 영상 학기 미확인 | SNU | 정보이론 | 강의자료만 | [SNU-C104](./snu.md#snu-c104) |

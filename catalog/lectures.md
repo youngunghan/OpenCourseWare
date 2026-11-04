@@ -8,7 +8,8 @@
 | --- | --- | --- | --- | --- |
 | 2026 가을 | KAIST | CS40008 Computer Science Project | 강의자료만 | [KAIST-K023](./kaist.md#kaist-k023) |
 | 2026 가을 | KAIST | IS50601/IS561 Binary Code Analysis and Secure Software Systems | 강의자료만 | [KAIST-K018](./kaist.md#kaist-k018) |
-| 2026 가을 | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
+| 2026 가을 (README 기준) | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
+| 2026 가을 | SNU | 기계학습개론 | 강의자료만 | [SNU-C002](./snu.md#snu-c002) |
 | 2026 가을 | SNU | 자료구조 | 강의자료만 | [SNU-C005](./snu.md#snu-c005) |
 | 2026 가을 | SNU | 통계이론 2 | 강의자료만 | [SNU-C008](./snu.md#snu-c008) |
 | 2026 가을 | SNU | 해석적 정수론 | 강의자료만 | [SNU-C001](./snu.md#snu-c001) |
@@ -70,7 +71,6 @@
 | 학기 미확인 | SNU | 산업공학통계 R 실습 | 강의자료만 | [SNU-C109](./snu.md#snu-c109) |
 | 2022–2023 | SNU | 수리통계 강의·튜터링 개인 자료 | 강의자료만 | [SNU-C095](./snu.md#snu-c095) |
 | 2006 이전·당시(정확한 학기 미확인) | SNU | 이론통계 — ~2006 자료 | 강의자료만 | [SNU-C122](./snu.md#snu-c122) |
-| 2022 봄·2021 봄 | SNU | 인공지능 | 강의자료만 | [SNU-C105](./snu.md#snu-c105) |
 | 학기 미확인 | SNU | 점근적 추론 | 강의자료만 | [SNU-C120](./snu.md#snu-c120) |
 | 영상 학기 미확인 | SNU | 정보이론 | 강의자료만 | [SNU-C104](./snu.md#snu-c104) |
 | 연도 미확인 | SNU | 통계학과 대학원생 계산 부트캠프 | 강의자료만 | [SNU-C098](./snu.md#snu-c098) |

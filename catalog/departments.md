@@ -16,9 +16,9 @@
 | --- | --- | --- | --- | --- |
 | 2023 가을 | SNU | 딥러닝의 통계적 이해 | 자료 미확인·안내 | [SNU-C124](./snu.md#snu-c124) |
 | 2022 가을 | SNU | 인공신경망 | 강의자료만 | [SNU-C058](./snu.md#snu-c058) |
+| 2022 봄 (수업 페이지 기준) | SNU | 인공지능 | 자료 미확인·안내 | [SNU-C105](./snu.md#snu-c105) |
 | 2015 가을 | SNU | 기계학습 | 자료 미확인·안내 | [SNU-C085](./snu.md#snu-c085) |
 | 2012 봄 | SNU | 인공지능 프로젝트 | 강의·과제 함께 | [SNU-C087](./snu.md#snu-c087) |
-| 2022 봄·2021 봄 | SNU | 인공지능 | 강의자료만 | [SNU-C105](./snu.md#snu-c105) |
 | 1997–2026 인덱스 | SNU | 인공지능 과거 강의 아카이브 | 여러 학기·과목 혼합 | [SNU-C106](./snu.md#snu-c106) |
 
 ## SNU · 산업공학 관련 (1)
@@ -94,7 +94,7 @@
 
 | 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
 | --- | --- | --- | --- | --- |
-| 2026 가을 | SNU | 기계학습개론 | 강의·과제 함께 | [SNU-C002](./snu.md#snu-c002) |
+| 2026 가을 | SNU | 기계학습개론 | 강의자료만 | [SNU-C002](./snu.md#snu-c002) |
 | 2026 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C003](./snu.md#snu-c003) |
 | 2026 가을 | SNU | 운영체제 | 과제자료만 | [SNU-C004](./snu.md#snu-c004) |
 | 2026 가을 | SNU | 자료구조 | 강의자료만 | [SNU-C005](./snu.md#snu-c005) |
@@ -195,7 +195,7 @@
 
 | 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
 | --- | --- | --- | --- | --- |
-| 2026 가을 | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
+| 2026 가을 (README 기준) | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
 | 2021 가을 | KAIST | AI701 Bayesian Machine Learning | 과제자료만 | [KAIST-K037](./kaist.md#kaist-k037) |
 | 2021 봄 | KAIST | AI604 Deep Learning for Computer Vision | 과제자료만 | [KAIST-K038](./kaist.md#kaist-k038) |
 | 2020 가을 (날짜 기반 추정) | KAIST | AI504 Programming for Artificial Intelligence | 강의·과제 함께 | [KAIST-K033](./kaist.md#kaist-k033) |

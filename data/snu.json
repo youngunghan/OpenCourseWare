@@ -6,48 +6,73 @@
     "term": "2026 가을",
     "year": 2026,
     "semester": 2,
-    "classification": "both",
+    "classification": "lecture",
     "lecture_confirmed": true,
-    "assignment_material_confirmed": true,
-    "assignment_forms": [
-      "problem"
-    ],
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
     "lecture_links": [
       {
-        "label": "slides",
-        "url": "https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing"
+        "label": "Lecture2 모델 시각화",
+        "url": "https://reality.snu.ac.kr/class/machine-learning/lecture2_models.html"
       },
       {
-        "label": "slides",
-        "url": "https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing"
-      }
-    ],
-    "assignment_links": [
-      {
-        "label": "HW1",
-        "url": "https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing"
+        "label": "Lecture2 경사하강법 시각화",
+        "url": "https://reality.snu.ac.kr/class/machine-learning/lecture2_gd.html"
       },
       {
-        "label": "HW1 Sol.",
-        "url": "https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing"
+        "label": "Lecture4 특징 시각화",
+        "url": "https://reality.snu.ac.kr/class/machine-learning/lecture4.html"
       }
     ],
-    "classification_reason": "시간표에 강의 슬라이드와 HW1·2/해설 링크가 함께 있다. 개별 Drive 파일 다운로드는 미검증.",
+    "assignment_links": [],
+    "classification_reason": "공개 HTML 강의 시각화 본문은 확인했다. HW1/HW2 및 해설의 Drive 보기는 HTTP401, 일반 다운로드도 PDF가 아닌 로그인 화면으로 연결되어 공개 과제 본문을 확보했다고 세지 않는다.",
     "full_semester_verified": false,
-    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
-    "notes": "파일은 Google Drive 연결. 공개 페이지에서 링크 확인, Drive 파일 각각의 비로그인 다운로드는 미검증.",
+    "access_state": "공개 HTML 강의 본문 HTTP200; Drive 파일은 익명 보기401·다운로드 로그인 화면으로 본문 미확인",
+    "notes": "2026-11-04 재검토: Fall 2026 공식 수업·공개 모델/경사하강법/특징 시각화 본문 확인. 이전 함께 분류는 강의·HW 링크 존재에 근거했으나 파일 본문은 미검증이었다. 이번 익명 접근에서 과제 본문을 읽지 못해 강의만으로 정정. 권한이 없거나 파일이 삭제됐다고 단정하는 것은 아니다.",
     "url": "https://reality.snu.ac.kr/class/machine-learning/",
     "id": "SNU-C002",
     "school": "SNU",
-    "classification_label": "강의·과제 함께",
+    "classification_label": "강의자료만",
     "source_kind": "교수자 배포 연결",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://reality.snu.ac.kr/class/machine-learning/",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "시간표에 강의 슬라이드와 HW1·2/해설 링크가 함께 있다. 개별 Drive 파일 다운로드는 미검증."
+      },
+      {
+        "url": "https://reality.snu.ac.kr/class/machine-learning/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "공식 Fall2026 페이지와 3개 강의 시각화 HTML200; HW1/2 보기401 및 다운로드 시 PDF 아님 확인"
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing",
+        "reason": "익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing",
+        "reason": "익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "HW1",
+        "url": "https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing",
+        "reason": "익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "HW1 Sol.",
+        "url": "https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing",
+        "reason": "익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -151,25 +176,35 @@
       {
         "label": "자료 목록·본문",
         "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/"
+      },
+      {
+        "label": "소개 강의 PDF (표본 확인)",
+        "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/L1-intro.pdf"
       }
     ],
     "assignment_links": [],
-    "classification_reason": "강의 슬라이드의 이전 확인 기록. 이번 재접속 실패로 현재 접근 상태는 미확인.",
+    "classification_reason": "Fall2026 수업 페이지와 소개 강의 PDF24쪽의 본문을 이번에 확인했다. 제출 과제 원문은 확인하지 않아 강의자료만으로 유지.",
     "full_semester_verified": false,
-    "access_state": "이전 확인·이번 재접속 실패",
-    "notes": "페이지에 공개된 범위만 확인. 모든 과제의 공개를 뜻하지 않음. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "access_state": "2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인",
+    "notes": "2026-11-04 첫 요청은 연결 종료였으나 재시도에서 수업 페이지200·Fall2026 명시, L1-intro.pdf200·유효PDF24쪽/앞부분 확인. 모든 강의 파일·과제 완비 검증은 아님.",
     "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
     "id": "SNU-C005",
     "school": "SNU",
     "classification_label": "강의자료만",
     "source_kind": "교수자 배포",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "강의 슬라이드의 이전 확인 기록. 이번 재접속 실패로 현재 접근 상태는 미확인."
+      },
+      {
+        "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재시도에서 수업 페이지200·Fall2026 명시, L1-intro.pdf도200·유효PDF24쪽/앞부분 확인. 최초 연결 종료는 재시도에서 회복했다."
       }
     ]
   },
@@ -282,24 +317,34 @@
       {
         "label": "Homeworks",
         "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/#숙제 Homeworks"
+      },
+      {
+        "label": "연습1 PDF (본문 확인)",
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/hw1.pdf"
       }
     ],
-    "classification_reason": "이전 확인한 강의·연습·프로젝트 근거로 분류. 이번 재접속 실패, 현재 접근 미확인.",
+    "classification_reason": "Fall2026 수업 페이지·강의 개요PDF2개와 hw1.pdf 실제 연습 문제를 이번에 확인해 함께 분류를 유지.",
     "full_semester_verified": false,
-    "access_state": "이전 확인·이번 재접속 실패",
-    "notes": "페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "access_state": "2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인",
+    "notes": "2026-11-04 수업 페이지·강의 개요PDF2개·hw1.pdf가200이며 본문 표본 확인. 이전 재접속 실패는 회복. 연습은 퀴즈 준비 문제이고 전체 프로젝트·학기 완비 검증은 아님.",
     "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
     "id": "SNU-C007",
     "school": "SNU",
     "classification_label": "강의·과제 함께",
     "source_kind": "교수자 배포",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "이전 확인한 강의·연습·프로젝트 근거로 분류. 이번 재접속 실패, 현재 접근 미확인."
+      },
+      {
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 수업 페이지·강의 개요PDF2개·hw1.pdf가200이며 실제 연습 문제 본문 확인. 이전 재접속 실패는 이번에 회복했다."
       }
     ]
   },
@@ -684,40 +729,62 @@
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "assignment_forms": [
-      "problem"
+      "project_brief"
     ],
     "lecture_links": [
       {
-        "label": "slides",
-        "url": "https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing"
-      },
-      {
-        "label": "slides",
-        "url": "https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing"
+        "label": "Lecture22 3D Gaussian Splatting & Phase Retrieval 공개 PDF",
+        "url": "https://drive.google.com/uc?export=download&id=1mBSgwLiV2x4kgMtQB0BE0JwYwP74Ze6n"
       }
     ],
     "assignment_links": [
       {
-        "label": "과제자료 목록·본문",
-        "url": "https://reality.snu.ac.kr/class/computational-imaging/"
+        "label": "공개 프로젝트 수행·보고서 지침",
+        "url": "https://reality.snu.ac.kr/class/computational-imaging/#coursework"
       }
     ],
-    "classification_reason": "공개 시간표의 강의·HW/해설 링크를 함께 확인. 개별 Drive 다운로드 및 모든 HW 세부 파일은 미검증.",
+    "classification_reason": "Lecture22 공개 PDF 92쪽과 수업 HTML의 프로젝트 제안·보고서 구성/분량·평가 지침을 확인해 함께 분류. 실제 HW 문제·해설 파일의 본문은 익명 접근에서 미확인.",
     "full_semester_verified": false,
-    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
-    "notes": "공개 일정표의 Drive 파일 링크 확인. Drive 파일별 비로그인 다운로드는 미검증. 외부 대학 참고강의와 SNU 자료 구분.",
+    "access_state": "Lecture22 PDF200·앞부분 본문 확인; 공개 HTML 프로젝트 지침 확인; 기타 Drive 파일은 본문 미확인",
+    "notes": "2026-11-04 재검토: 처음 기록한 슬라이드2개 및 HW해설4개의 Drive 보기는401, 일반 다운로드는 로그인 화면이었다. 별도 Lecture22는 익명 다운로드200·유효 PDF92쪽이며 표지에 SNU/과목/최수연이 명시된다. 과제 측은 공개 HTML의 프로젝트 수행 지침으로 한정하며 HW 문제집 확보가 아니다.",
     "url": "https://reality.snu.ac.kr/class/computational-imaging/",
     "id": "SNU-C013",
     "school": "SNU",
     "classification_label": "강의·과제 함께",
     "source_kind": "교수자 배포 연결",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://reality.snu.ac.kr/class/computational-imaging/",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "공개 시간표의 강의·HW/해설 링크를 함께 확인. 개별 Drive 다운로드 및 모든 HW 세부 파일은 미검증."
+      },
+      {
+        "url": "https://drive.google.com/uc?export=download&id=1mBSgwLiV2x4kgMtQB0BE0JwYwP74Ze6n",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "익명 다운로드200·40,162,219바이트·PDF92쪽; 첫3쪽 표본 확인"
+      },
+      {
+        "url": "https://reality.snu.ac.kr/class/computational-imaging/#coursework",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "공개 HTML의 제안서1~2쪽/최종보고서약6쪽/필수구성 등 실제 수행 지침 확인"
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing",
+        "reason": "익명 보기401·다운로드 로그인 화면; 본문 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing",
+        "reason": "익명 보기401·다운로드 로그인 화면; 본문 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -839,22 +906,28 @@
         "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/hw2.pdf"
       }
     ],
-    "classification_reason": "이전 확인한 강의자료·HW PDF·코드 연결 기준. 이번 재접속 실패로 현재 접근 미확인.",
+    "classification_reason": "Spring2026 수업 페이지·공개 강의노트와 HW1/2 실제 문제 PDF를 이번에 확인해 함께 분류를 유지.",
     "full_semester_verified": false,
-    "access_state": "이전 확인·이번 재접속 실패",
-    "notes": "페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "access_state": "2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인",
+    "notes": "2026-11-04 수업 페이지·강의노트PDF207쪽·HW1/2 PDF가200이며 본문 표본 확인. 강의노트는 과거 작성본을 2026 수업에서 재사용한다. 이전 재접속 실패는 회복. 전체 학기 완비 검증은 아님.",
     "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
     "id": "SNU-C014",
     "school": "SNU",
     "classification_label": "강의·과제 함께",
     "source_kind": "교수자 배포",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "이전 확인한 강의자료·HW PDF·코드 연결 기준. 이번 재접속 실패로 현재 접근 미확인."
+      },
+      {
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 수업 페이지·강의노트PDF207쪽·HW1/2 PDF가200이며 문제 본문 확인. 이전 재접속 실패는 이번에 회복했다."
       }
     ]
   },
@@ -2710,6 +2783,52 @@
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "PPT 폴더의 Overview PDF를 읽으니 Project #0: Overview였다. Project1–4도 과제 안내여서 일반 강의 슬라이드 보유로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "인공지능",
+    "provider": "장병탁",
+    "term": "2022 봄 (수업 페이지 기준)",
+    "year": 2022,
+    "semester": 1,
+    "classification": "info",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [],
+    "assignment_links": [],
+    "classification_reason": "수업 페이지에는 Spring2022와 교수·자료 링크가 있으나 유일한 Lecture16 PDF 응답이 반복해서 파싱되지 않아 읽을 수 있는 강의 본문 확보로 세지 않는다.",
+    "full_semester_verified": false,
+    "access_state": "수업 안내 페이지200; 유일한 PDF의 본문 파싱 실패로 자료 미확인",
+    "notes": "2026-11-04 두 번 익명 요청에서200·1,048,576바이트·PDF헤더는 있으나 EOF가 없고 pypdf가 Stream has ended unexpectedly로 실패했다. 다른 뷰어 복구 가능성은 미검증이며 파일 삭제·비공개라고 단정하지 않음. 기존 2021봄 병기는 현재 페이지에서 확인되지 않아 Spring2022 명시만 사용.",
+    "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+    "id": "SNU-C105",
+    "school": "SNU",
+    "classification_label": "자료 미확인·안내",
+    "source_kind": "관련 컴공 과목",
+    "checked_date": "2026-11-04",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      },
+      {
+        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "공식 페이지 Spring2022 및 Lecture16 링크1개 확인; 링크 파일 반복 파싱 실패"
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Deep Learning lecture (Lec.16)",
+        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf",
+        "reason": "HTTP200이지만 응답1,048,576바이트·EOF 없음·PDF파서가 반복해서 읽지 못함",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -4578,43 +4697,6 @@
   },
   {
     "department": "AI 협동과정·관련 과목",
-    "course": "인공지능",
-    "provider": "장병탁",
-    "term": "2022 봄·2021 봄",
-    "year": null,
-    "semester": null,
-    "classification": "lecture",
-    "lecture_confirmed": true,
-    "assignment_material_confirmed": false,
-    "assignment_forms": [],
-    "lecture_links": [
-      {
-        "label": "Deep Learning lecture (Lec.16)",
-        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf"
-      }
-    ],
-    "assignment_links": [],
-    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
-    "full_semester_verified": false,
-    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
-    "notes": "과목 전체 강의록이 아니라 남아 있는 일부 파일.",
-    "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
-    "id": "SNU-C105",
-    "school": "SNU",
-    "classification_label": "강의자료만",
-    "source_kind": "관련 컴공 과목",
-    "checked_date": "2026-11-03",
-    "evidence": [
-      {
-        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
-        "checked_date": "2026-11-03",
-        "kind": "prior_reviewed_catalog",
-        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
-      }
-    ]
-  },
-  {
-    "department": "AI 협동과정·관련 과목",
     "course": "인공지능 과거 강의 아카이브",
     "provider": "장병탁 연구실",
     "term": "1997–2026 인덱스",
@@ -4756,22 +4838,28 @@
         "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf"
       }
     ],
-    "classification_reason": "이전 웹 도구로 확인한 Lecture1 PDF 안에 Homework1이 함께 있다는 기록을 근거로 분류. 이번 직접 요청은 연결 종료, 웹 도구도 시간 초과여서 현재 접근은 재확인하지 못함. 2013이라는 연도만 확인되며 학기 전체 자료는 아님.",
+    "classification_reason": "2026-11-04 재접속200·유효PDF2쪽의 강의 본문과 Homework1 실제 문제/마감2013-03-11을 확인했다. 수업의 정확한 개설 학기는 명시되지 않아 2013·학기 미상으로 유지.",
     "full_semester_verified": false,
-    "access_state": "이전 확인·이번 재접속 실패",
-    "notes": "PDF 2쪽을 웹 도구로 확인. 과목 전체 자료가 아님.",
+    "access_state": "2026-11-04 PDF200·2쪽 전체 텍스트 확인",
+    "notes": "한 PDF 안의 강의·숙제 부분 확인. 이전 재접속 실패는 이번에 회복했으며 전체 학기 자료는 아니다.",
     "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
     "id": "SNU-C099",
     "school": "SNU",
     "classification_label": "강의·과제 함께",
     "source_kind": "교수자 배포",
-    "checked_date": "2026-11-03",
+    "checked_date": "2026-11-04",
     "evidence": [
       {
         "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
         "checked_date": "2026-11-03",
         "kind": "prior_reviewed_catalog",
         "result": "이전 웹 도구로 확인한 Lecture1 PDF 안에 Homework1이 함께 있다는 기록을 근거로 분류. 이번 직접 요청은 연결 종료, 웹 도구도 시간 초과여서 현재 접근은 재확인하지 못함. 2013이라는 연도만 확인되며 학기 전체 자료는 아님."
+      },
+      {
+        "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "PDF2쪽의 강의와 Homework1 문제3개 및 Due2013-03-11 확인"
       }
     ]
   },

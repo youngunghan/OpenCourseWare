@@ -52,7 +52,7 @@
 
 [수업·자료 원문](https://github.com/hjxarchive/2026-fall-cs320)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/hjxarchive/2026-fall-cs320)
 - 과제 형태: 학생 풀이·구현
 
@@ -70,13 +70,17 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2026f-cs40008/)
 
-- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf) · [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf)
-- 과제: 확인된 링크 없음
+- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf)
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k026"></a>
 
@@ -88,7 +92,7 @@
 
 [수업·자료 원문](https://kaist-ee209.github.io/)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [Tokenizer 문제·배포 링크](http://ee209.kaist.ac.kr/assignments/assignment1) · [String Manipulation 문제·뼈대](http://ee209.kaist.ac.kr/assignments/assignment2) · [Game Ranking System 문제·뼈대](http://ee209.kaist.ac.kr/assignments/assignment3)
 - 과제 형태: 실제 문제·지정 연습, 공개 뼈대
 
@@ -106,29 +110,35 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2026f-is50601/)
 
-- 강의·실습: [Introduction to software security](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/01-introduction.pdf) · [Binary](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/02-binary.pdf) · [Assembly Overview](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/03-assembly.pdf) · [ABI](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/04-abi.pdf) · [Control-Flow Hijack](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/05-hijack.pdf) · 추가 18개는 JSON 정본 참조
-- 과제: 확인된 링크 없음
+- 강의·실습: [Introduction to software security](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/01-introduction.pdf) · [Binary](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/02-binary.pdf) · [Assembly Overview](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/03-assembly.pdf) · [ABI](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/04-abi.pdf) · [Control-Flow Hijack](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/05-hijack.pdf) · 추가 11개는 JSON 정본 참조
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Heap Hardening](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Binary Analysis](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Decompilation](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Obfuscation and Malware Analysis](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Data Exploits](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Symbolic Execution](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Fuzzing](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k031"></a>
 
-## 2026 가을 · Introduction to Agentic AI
+## 2026 가을 (README 기준) · Introduction to Agentic AI
 
 **KAIST-K031 · 강의자료만** · 김재철AI대학원
 
-출처 유형: 교수 계정 공개 GitHub / 제공자: 황성주(Sung Ju Hwang) / 확인일: 2026-11-04
+출처 유형: 공개 GitHub 수업 사이트 (공식성 독립 미확인) / 제공자: README 표기: 황성주(Sung Ju Hwang) / 확인일: 2026-11-04
 
 [수업·자료 원문](https://github.com/sjhwang-dotcom/agentic-ai-course)
 
 - 강의·실습: [2주차 공개 강의 PPTX](https://github.com/sjhwang-dotcom/agentic-ai-course/blob/main/slides/W2_Agentic_Architecture_Patterns.pptx)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: README가 KAIST AI대학원·담당교수·Fall 2026을 명시하고 파일 트리에 PPTX가 있다. 전체 학기 슬라이드·실제 과제 문제는 미확인. PPTX 내부 렌더링 미검증.
+
+비고: README가 KAIST AI대학원·담당교수·Fall 2026을 명시하고 파일 트리에 PPTX가 있다. 전체 학기 슬라이드·실제 과제 문제는 미확인. PPTX 내부 렌더링 미검증. 2026-11-04 PPTX는 익명 다운로드200·정상ZIP/XML78슬라이드·강의 제목 확인. 다만 공식 교수 Teaching 페이지에서 이 GitHub 계정과의 연결은 찾지 못해 이전의 교수 계정 단정은 제거했다. README의 학교·담당교수·학기 자체 표기와 계정의 공식성 확인은 구분한다.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -160,13 +170,17 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2026s-cs40008/)
 
-- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf) · [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf)
-- 과제: 확인된 링크 없음
+- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf)
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k002"></a>
 
@@ -197,7 +211,7 @@
 [수업·자료 원문](https://github.com/ssimplexity/CS492_spring2026)
 
 - 강의·실습: [공식 강의노트 PDF](https://github.com/ssimplexity/CS492_spring2026/blob/main/Lecture_Note_CS492.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 교수 공개 README에 KAIST·Spring 2026·강의노트 링크 확인. HW1과 숙제 배포는 KLMS에만 있어 과제 측 제외.
@@ -214,7 +228,7 @@
 
 [수업·자료 원문](https://github.com/Ahnhojin1223/KAIST_EE478_2026_Spring)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/Ahnhojin1223/KAIST_EE478_2026_Spring)
 - 과제 형태: 학생 풀이·구현
 
@@ -232,13 +246,17 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2025f-cs40008/)
 
-- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf) · [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf)
-- 과제: 확인된 링크 없음
+- 강의·실습: [Introduction + Shell](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf)
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Version Control](https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k003"></a>
 
@@ -268,13 +286,17 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2025f-is50601/)
 
-- 강의·실습: [Introduction to software security](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/01-introduction.pdf) · [Binary](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/02-binary.pdf) · [Assembly Overview](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/03-assembly.pdf) · [ABI](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/04-abi.pdf) · [Control-Flow Hijack](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/05-hijack.pdf) · 추가 18개는 JSON 정본 참조
-- 과제: 확인된 링크 없음
+- 강의·실습: [Introduction to software security](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/01-introduction.pdf) · [Binary](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/02-binary.pdf) · [Assembly Overview](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/03-assembly.pdf) · [ABI](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/04-abi.pdf) · [Control-Flow Hijack](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/05-hijack.pdf) · 추가 11개는 JSON 정본 참조
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Heap Hardening](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Binary Analysis](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Decompilation](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Obfuscation and Malware Analysis](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Data Exploits](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Symbolic Execution](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [Fuzzing](https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k020"></a>
 
@@ -287,7 +309,7 @@
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2025s-cs20200/)
 
 - 강의·실습: [Introduction](https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/01-introduction.pdf) · [Abstraction](https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/02-abstraction.pdf) · [Integer Arithmetic](https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/03-integer.pdf) · [Recursion](https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/04-recursion.pdf) · [Closures](https://softsec.kaist.ac.kr/depot/sangkilc/cs20200/2025s/05-closures.pdf) · 추가 19개는 JSON 정본 참조
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 연결된 GitHub Main은 현재 2026 자료로 갱신되어 과거 학기 과제와의 동일성을 확인하지 못했다.
@@ -323,12 +345,16 @@
 [수업·자료 원문](https://mhsung.github.io/kaist-cs492d-fall-2024/)
 
 - 강의·실습: [Recording](https://youtu.be/Nh9MIEbCJIw) · [Recording](https://youtu.be/9V-7BoxEcqk) · [Recording](https://youtu.be/--p26ltTUaU)
-- 과제: [과제 수행 지침](https://mhsung.github.io/kaist-cs492d-fall-2024/programming-assignments/) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment3-ControlNet-LoRA](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment3-ControlNet-LoRA) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment4-Distillation](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment4-Distillation) · 추가 3개는 JSON 정본 참조
+- 과제: [과제 수행 지침](https://mhsung.github.io/kaist-cs492d-fall-2024/programming-assignments/) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment3-ControlNet-LoRA](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment3-ControlNet-LoRA) · [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment4-Distillation](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment4-Distillation) · 추가 2개는 JSON 정본 참조
 - 과제 형태: 실제 문제·지정 연습, 공개 뼈대
 
 판정: 공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver](https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k025"></a>
 
@@ -376,8 +402,8 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2024f-is561/)
 
-- 강의·실습: 확인된 링크 없음
-- 과제: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 2024 공식 자료 목록은 남아 있으나 강의1~3 PDF가 404. 다른 슬라이드 본문 미확인이라 자료 확보 집계에서 제외.
@@ -394,8 +420,8 @@
 
 [수업·자료 원문](https://softsec.kaist.ac.kr/courses/2024s-cs220/)
 
-- 강의·실습: 확인된 링크 없음
-- 과제: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 2024 공식 자료 목록은 남아 있으나 강의1·2 PDF가 404. 일반 F# 설치 PDF는 접근되지만 본 수업 강의 PDF 확보로 세지 않았다. 나머지 본문 미확인.
@@ -413,10 +439,12 @@
 [수업·자료 원문](https://mhsung.github.io/kaist-cs580-spring-2024/)
 
 - 강의·실습: [Recording](https://youtu.be/uZB4eNlaXlo) · [Recording](https://youtu.be/AfP2A3joix4) · [Recording](https://youtu.be/3Pe90INpcVs)
-- 과제: [과제 수행 지침](https://mhsung.github.io/kaist-cs580-spring-2024/assignment/) · [https://github.com/KAIST-Visual-AI-Group/CS580-Assignment](https://github.com/KAIST-Geometric-AI-Group/CS580-Assignment)
+- 과제: [과제 수행 지침](https://mhsung.github.io/kaist-cs580-spring-2024/assignment/) · [CS580 공식 과제 저장소 (이전 주소 갱신)](https://github.com/KAIST-Visual-AI-Group/CS580-Assignment)
 - 과제 형태: 실제 문제·지정 연습, 공개 뼈대
 
 판정: 공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.
+
+비고: 공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외. 2026-11-04 GitHub 이전 응답을 따라 현재 KAIST-Visual-AI-Group/CS580-Assignment 주소로 갱신했다.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -448,13 +476,17 @@
 
 [수업·자료 원문](https://dabeenl.github.io/IE331)
 
-- 강의·실습: [lecture note](https://dabeenl.github.io/2024_IE331_lecture1_note.pdf) · [lecture note](https://dabeenl.github.io/IE331_2024_lecture2_note.pdf) · [lecture note](https://dabeenl.github.io/IE331_2024_lecture3_note.pdf) · [lecture note](https://dabeenl.github.io/IE331_2024_lecture4_note.pdf) · [lecture note](https://dabeenl.github.io/IE331_2024_lecture5_note.pdf)
-- 과제: 확인된 링크 없음
+- 강의·실습: [lecture note](https://dabeenl.github.io/2024_IE331_lecture1_note.pdf) · [lecture note](https://dabeenl.github.io/IE331_2024_lecture2_note.pdf)
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.
 
-접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
+비고: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.  2026-11-04 재검토에서 3개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.
+
+접근 범위: 공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [lecture note](https://dabeenl.github.io/IE331_2024_lecture3_note.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [lecture note](https://dabeenl.github.io/IE331_2024_lecture4_note.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인 · [lecture note](https://dabeenl.github.io/IE331_2024_lecture5_note.pdf) — 2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인
 
 <a id="kaist-k007"></a>
 
@@ -521,7 +553,7 @@
 [수업·자료 원문](https://dabeenl.github.io/IE631)
 
 - 강의·실습: [lecture note](https://dabeenl.github.io/IE631_lecture1_note.pdf) · [lecture note](https://dabeenl.github.io/IE631_lecture2_note.pdf) · [lecture note](https://dabeenl.github.io/IE631_lecture3_note.pdf) · [lecture note](https://dabeenl.github.io/IE631_lecture4_note.pdf) · [lecture note](https://dabeenl.github.io/IE631_lecture5_note.pdf) · 추가 19개는 JSON 정본 참조
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.
@@ -556,7 +588,7 @@
 
 [수업·자료 원문](https://github.com/suulkyy/ai701-f21)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/suulkyy/ai701-f21)
 - 과제 형태: 학생 풀이·구현
 
@@ -575,7 +607,7 @@
 [수업·자료 원문](https://kaist.theoryofcomputation.asia/21cs300)
 
 - 강의·실습: [pdf](https://theoryofcomputation.asia/_media/21cs300b.pdf) · [pdf](https://theoryofcomputation.asia/_media/21cs300c.pdf) · [pdf](https://theoryofcomputation.asia/_media/21cs300d.pdf) · [pdf](https://theoryofcomputation.asia/_media/21cs300e.pdf) · [pdf](https://theoryofcomputation.asia/_media/21cs300f.pdf) · 추가 2개는 JSON 정본 참조
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 공식 연구실 페이지의 슬라이드 PDF 링크. 숙제0과 실제 숙제 배포는 KLMS 안내이므로 과제 확보로 세지 않았다.
@@ -592,7 +624,7 @@
 
 [수업·자료 원문](https://github.com/anar-rzayev/Machine-Learning-for-Computer-Vision)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제 폴더](https://github.com/anar-rzayev/Machine-Learning-for-Computer-Vision/tree/main/Coursework)
 - 과제 형태: 프로젝트 수행 지침, 학생 풀이·구현
 
@@ -630,7 +662,7 @@
 
 [수업·자료 원문](https://github.com/suulkyy/ai604-s21)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/suulkyy/ai604-s21)
 - 과제 형태: 학생 풀이·구현
 
@@ -728,7 +760,7 @@
 
 [수업·자료 원문](https://github.com/psh170207/CS311_Computer_Organizations)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/psh170207/CS311_Computer_Organizations)
 - 과제 형태: 학생 풀이·구현
 
@@ -746,7 +778,7 @@
 
 [수업·자료 원문](https://github.com/s9v/CS206-Data-Structures)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [학생 과제 보관본](https://github.com/s9v/CS206-Data-Structures)
 - 과제 형태: 학생 풀이·구현
 
@@ -839,7 +871,7 @@
 [수업·자료 원문](https://github.com/JinheonBaek/DeepLearning-Lab)
 
 - 강의·실습: [CNN 실습](https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/cnn.ipynb) · [RNN 실습](https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/rnn.ipynb) · [Dropout 실습](https://github.com/JinheonBaek/DeepLearning-Lab/blob/main/dropout.ipynb)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: README가 KAIST 딥러닝 실습임을 명시한다. 정규화·CNN·RNN 구현 예제이며 제출 과제인지 확인하지 못해 강의/실습 자료로만 분류. 학기·개설학과 정확 귀속 미확인.
@@ -875,7 +907,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS212)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS212/MAS212_Note.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -892,7 +924,7 @@
 
 [수업·자료 원문](https://github.com/anar-rzayev/Analysis-1)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제 폴더](https://github.com/anar-rzayev/Analysis-1/tree/main/Homeworks)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -913,7 +945,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS241)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS241/MAS241_Note.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -931,7 +963,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS242)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS242/MAS242_Note.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -949,7 +981,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS30041)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS30041/complex_variables_1.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -967,7 +999,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS30050)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS30050/probability.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -985,7 +1017,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS311)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS311/modern_algebra.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -1003,7 +1035,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS312%28dropped%29)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS312%28dropped%29/modern_algebra_2.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.
@@ -1021,7 +1053,7 @@
 [수업·자료 원문](https://github.com/A-H4NU/kaist-math-notes/tree/main/MAS331)
 
 - 강의·실습: [학생 정리 PDF](https://raw.githubusercontent.com/A-H4NU/kaist-math-notes/main/MAS331/MAS331_Note.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 루트 README가 KAIST 수학 강의의 개인 노트임을 명시. PDF 앞부분 표본 확인. 표지 작성·수정일을 실제 개설 학기로 사용하지 않음. MAS212 폴더의 선형대수 노트 표지에는 MAS242라고 적혀 있어 과목번호 충돌을 보존한다. 중도 정리본·미완 내용 포함.

@@ -172,10 +172,6 @@
       {
         "label": "Introduction + Shell",
         "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf"
-      },
-      {
-        "label": "Version Control",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf"
       }
     ],
     "assignment_links": [],
@@ -184,8 +180,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
     "evidence": [
       {
@@ -199,6 +195,20 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 66쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://softsec.kaist.ac.kr/courses/2026f-cs40008/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Version Control",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -327,34 +337,6 @@
       {
         "label": "Heap Exploit",
         "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/16-heap.pdf"
-      },
-      {
-        "label": "Heap Hardening",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf"
-      },
-      {
-        "label": "Binary Analysis",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf"
-      },
-      {
-        "label": "Decompilation",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf"
-      },
-      {
-        "label": "Obfuscation and Malware Analysis",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf"
-      },
-      {
-        "label": "Data Exploits",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf"
-      },
-      {
-        "label": "Symbolic Execution",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf"
-      },
-      {
-        "label": "Fuzzing",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf"
       }
     ],
     "assignment_links": [],
@@ -363,8 +345,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
     "evidence": [
       {
@@ -378,6 +360,56 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 55쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://softsec.kaist.ac.kr/courses/2026f-is50601/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Heap Hardening",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Binary Analysis",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Decompilation",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Obfuscation and Malware Analysis",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Data Exploits",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Symbolic Execution",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Fuzzing",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -386,13 +418,13 @@
     "school": "KAIST",
     "department": "김재철AI대학원",
     "course": "Introduction to Agentic AI",
-    "provider": "황성주(Sung Ju Hwang)",
-    "term": "2026 가을",
+    "provider": "README 표기: 황성주(Sung Ju Hwang)",
+    "term": "2026 가을 (README 기준)",
     "year": 2026,
     "semester": 2,
     "classification": "lecture",
     "classification_label": "강의자료만",
-    "source_kind": "교수 계정 공개 GitHub",
+    "source_kind": "공개 GitHub 수업 사이트 (공식성 독립 미확인)",
     "url": "https://github.com/sjhwang-dotcom/agentic-ai-course",
     "lecture_links": [
       {
@@ -407,7 +439,7 @@
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "README가 KAIST AI대학원·담당교수·Fall 2026을 명시하고 파일 트리에 PPTX가 있다. 전체 학기 슬라이드·실제 과제 문제는 미확인. PPTX 내부 렌더링 미검증.",
+    "notes": "README가 KAIST AI대학원·담당교수·Fall 2026을 명시하고 파일 트리에 PPTX가 있다. 전체 학기 슬라이드·실제 과제 문제는 미확인. PPTX 내부 렌더링 미검증. 2026-11-04 PPTX는 익명 다운로드200·정상ZIP/XML78슬라이드·강의 제목 확인. 다만 공식 교수 Teaching 페이지에서 이 GitHub 계정과의 연결은 찾지 못해 이전의 교수 계정 단정은 제거했다. README의 학교·담당교수·학기 자체 표기와 계정의 공식성 확인은 구분한다.",
     "classification_reason": "README가 KAIST AI대학원·담당교수·Fall 2026을 명시하고 파일 트리에 PPTX가 있다. 전체 학기 슬라이드·실제 과제 문제는 미확인. PPTX 내부 렌더링 미검증.",
     "evidence": [
       {
@@ -415,6 +447,12 @@
         "checked_date": "2026-11-04",
         "kind": "github",
         "result": "공개 README·재귀 파일 목록 확인; 학생 작성물은 정답성·실행 미검증"
+      },
+      {
+        "url": "https://github.com/sjhwang-dotcom/agentic-ai-course/blob/main/slides/W2_Agentic_Architecture_Patterns.pptx",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "PPTX9,695,733바이트·ZIP/XML78슬라이드 확인; 렌더링/전체내용 검수 아님"
       }
     ]
   },
@@ -590,10 +628,6 @@
       {
         "label": "Introduction + Shell",
         "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf"
-      },
-      {
-        "label": "Version Control",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf"
       }
     ],
     "assignment_links": [],
@@ -602,8 +636,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
     "evidence": [
       {
@@ -617,6 +651,20 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 66쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://softsec.kaist.ac.kr/courses/2026s-cs40008/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Version Control",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -782,10 +830,6 @@
       {
         "label": "Introduction + Shell",
         "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/01-introduction.pdf"
-      },
-      {
-        "label": "Version Control",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf"
       }
     ],
     "assignment_links": [],
@@ -794,8 +838,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
     "evidence": [
       {
@@ -809,6 +853,20 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 66쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://softsec.kaist.ac.kr/courses/2025f-cs40008/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Version Control",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/cs40008/02-git.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -954,34 +1012,6 @@
       {
         "label": "Heap Exploit",
         "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/16-heap.pdf"
-      },
-      {
-        "label": "Heap Hardening",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf"
-      },
-      {
-        "label": "Binary Analysis",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf"
-      },
-      {
-        "label": "Decompilation",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf"
-      },
-      {
-        "label": "Obfuscation and Malware Analysis",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf"
-      },
-      {
-        "label": "Data Exploits",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf"
-      },
-      {
-        "label": "Symbolic Execution",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf"
-      },
-      {
-        "label": "Fuzzing",
-        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf"
       }
     ],
     "assignment_links": [],
@@ -990,8 +1020,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다. 2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "학기별 공식 수업·강의 슬라이드 링크. 숙제 공지·성적 비율만으로 과제 공개를 인정하지 않았다.",
     "evidence": [
       {
@@ -1005,6 +1035,56 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 55쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://softsec.kaist.ac.kr/courses/2025f-is50601/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 7개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "Heap Hardening",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/17-hardening.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Binary Analysis",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/18-binary.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Decompilation",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/19-decompilation.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Obfuscation and Malware Analysis",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/20-obfuscation.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Data Exploits",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/21-data.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Symbolic Execution",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/22-symbolic.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "Fuzzing",
+        "url": "https://softsec.kaist.ac.kr/depot/sangkilc/is50601/23-fuzzing.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -1265,10 +1345,6 @@
         "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment5-Synchronization"
       },
       {
-        "label": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver",
-        "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver"
-      },
-      {
         "label": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment7-Flow",
         "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment7-Flow"
       }
@@ -1281,8 +1357,8 @@
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외. 2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
     "evidence": [
       {
@@ -1290,6 +1366,20 @@
         "checked_date": "2026-11-04",
         "kind": "page",
         "result": "HTTP 200; 수업명·학기·자료 목록 본문 확인"
+      },
+      {
+        "url": "https://mhsung.github.io/kaist-cs492d-fall-2024/",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 1개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver",
+        "url": "https://github.com/KAIST-Visual-AI-Group/Diffusion-Assignment6-DPMSolver",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },
@@ -1638,8 +1728,8 @@
         "url": "https://mhsung.github.io/kaist-cs580-spring-2024/assignment/"
       },
       {
-        "label": "https://github.com/KAIST-Visual-AI-Group/CS580-Assignment",
-        "url": "https://github.com/KAIST-Geometric-AI-Group/CS580-Assignment"
+        "label": "CS580 공식 과제 저장소 (이전 주소 갱신)",
+        "url": "https://github.com/KAIST-Visual-AI-Group/CS580-Assignment"
       }
     ],
     "assignment_forms": [
@@ -1651,7 +1741,7 @@
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
+    "notes": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외. 2026-11-04 GitHub 이전 응답을 따라 현재 KAIST-Visual-AI-Group/CS580-Assignment 주소로 갱신했다.",
     "classification_reason": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
     "evidence": [
       {
@@ -1659,6 +1749,12 @@
         "checked_date": "2026-11-04",
         "kind": "page",
         "result": "HTTP 200; 수업명·학기·자료 목록 본문 확인"
+      },
+      {
+        "url": "https://github.com/KAIST-Visual-AI-Group/CS580-Assignment",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "이전 조직 주소의 Moved Permanently와 현재 공개 저장소 메타데이터 확인"
       }
     ]
   },
@@ -1831,18 +1927,6 @@
       {
         "label": "lecture note",
         "url": "https://dabeenl.github.io/IE331_2024_lecture2_note.pdf"
-      },
-      {
-        "label": "lecture note",
-        "url": "https://dabeenl.github.io/IE331_2024_lecture3_note.pdf"
-      },
-      {
-        "label": "lecture note",
-        "url": "https://dabeenl.github.io/IE331_2024_lecture4_note.pdf"
-      },
-      {
-        "label": "lecture note",
-        "url": "https://dabeenl.github.io/IE331_2024_lecture5_note.pdf"
       }
     ],
     "assignment_links": [],
@@ -1851,8 +1935,8 @@
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류. ",
+    "access_state": "공개 페이지·현재 접근되는 자료 링크 및 PDF 표본 확인; 일부404는 unavailable_links로 분리",
+    "notes": "교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.  2026-11-04 재검토에서 3개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지.",
     "classification_reason": "교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류. ",
     "evidence": [
       {
@@ -1866,6 +1950,32 @@
         "checked_date": "2026-11-04",
         "kind": "pdf_sample",
         "result": "HTTP 200; PDF magic True; 6쪽; 앞부분 추출 확인"
+      },
+      {
+        "url": "https://dabeenl.github.io/IE331",
+        "checked_date": "2026-11-04",
+        "kind": "recheck",
+        "result": "2026-11-04 재검토에서 3개 링크404를 확인해 현재 자료 링크에서 분리하고 unavailable_links에 보존했다. 다른 확인된 자료가 있어 기존 분류는 유지."
+      }
+    ],
+    "unavailable_links": [
+      {
+        "label": "lecture note",
+        "url": "https://dabeenl.github.io/IE331_2024_lecture3_note.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "lecture note",
+        "url": "https://dabeenl.github.io/IE331_2024_lecture4_note.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
+      },
+      {
+        "label": "lecture note",
+        "url": "https://dabeenl.github.io/IE331_2024_lecture5_note.pdf",
+        "reason": "2026-11-04 원문 요청 HTTP404; 원인이 삭제/이동/비공개 중 무엇인지는 미확인",
+        "checked_date": "2026-11-04"
       }
     ]
   },

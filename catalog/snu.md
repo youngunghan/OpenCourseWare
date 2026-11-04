@@ -2,7 +2,7 @@
 
 [첫 화면](../README.md) · [최신순 전체](latest.md) · [학과별](departments.md) · [JSON 정본](../data/snu.json)
 
-124개 진입점. 강의·과제 함께 25, 강의자료만 51, 과제자료만 42, 여러 학기·과목 혼합 3, 자료 미확인·안내 3. 고유 과목 수가 아니며 전체 학기 완비를 뜻하지 않는다. 확인일은 개별 항목을 따른다.
+124개 진입점. 강의·과제 함께 24, 강의자료만 51, 과제자료만 42, 여러 학기·과목 혼합 3, 자료 미확인·안내 4. 고유 과목 수가 아니며 전체 학기 완비를 뜻하지 않는다. 확인일은 개별 항목을 따른다.
 
 실제 개설 학기 내림차순이며 미상·혼합은 마지막이다. “함께”에는 해설만 있는 경우와 프로젝트 수행 지침도 있으므로 과제 형태·판정 근거를 함께 읽는다. 원문 전체가 이 저장소에 포함된 것은 아니다.
 
@@ -10,21 +10,23 @@
 
 ## 2026 가을 · 기계학습개론
 
-**SNU-C002 · 강의·과제 함께** · 컴퓨터공학부
+**SNU-C002 · 강의자료만** · 컴퓨터공학부
 
-출처 유형: 교수자 배포 연결 / 제공자: 최수연 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 연결 / 제공자: 최수연 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://reality.snu.ac.kr/class/machine-learning/)
 
-- 강의·실습: [slides](https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing) · [slides](https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing)
-- 과제: [HW1](https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing) · [HW1 Sol.](https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing)
-- 과제 형태: 실제 문제·지정 연습
+- 강의·실습: [Lecture2 모델 시각화](https://reality.snu.ac.kr/class/machine-learning/lecture2_models.html) · [Lecture2 경사하강법 시각화](https://reality.snu.ac.kr/class/machine-learning/lecture2_gd.html) · [Lecture4 특징 시각화](https://reality.snu.ac.kr/class/machine-learning/lecture4.html)
+- 과제: 현재 확인된 링크 없음
+- 과제 형태: 확인되지 않음
 
-판정: 시간표에 강의 슬라이드와 HW1·2/해설 링크가 함께 있다. 개별 Drive 파일 다운로드는 미검증.
+판정: 공개 HTML 강의 시각화 본문은 확인했다. HW1/HW2 및 해설의 Drive 보기는 HTTP401, 일반 다운로드도 PDF가 아닌 로그인 화면으로 연결되어 공개 과제 본문을 확보했다고 세지 않는다.
 
-비고: 파일은 Google Drive 연결. 공개 페이지에서 링크 확인, Drive 파일 각각의 비로그인 다운로드는 미검증.
+비고: 2026-11-04 재검토: Fall 2026 공식 수업·공개 모델/경사하강법/특징 시각화 본문 확인. 이전 함께 분류는 강의·HW 링크 존재에 근거했으나 파일 본문은 미검증이었다. 이번 익명 접근에서 과제 본문을 읽지 못해 강의만으로 정정. 권한이 없거나 파일이 삭제됐다고 단정하는 것은 아니다.
 
-접근 범위: 자료·링크 존재 확인(파일별 접근 수준은 비고 참조) 전체 학기 완비: 미검증.
+접근 범위: 공개 HTML 강의 본문 HTTP200; Drive 파일은 익명 보기401·다운로드 로그인 화면으로 본문 미확인 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [slides](https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing) — 익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인 · [slides](https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing) — 익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인 · [HW1](https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing) — 익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인 · [HW1 Sol.](https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing) — 익명 보기 HTTP401; 일반 다운로드도 PDF 대신 로그인 화면으로 이동해 본문 미확인
 
 <a id="snu-c003"></a>
 
@@ -56,7 +58,7 @@
 
 [수업·자료 원문](https://github.com/snu-csl/os-pa1)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/snu-csl/os-pa1)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -72,19 +74,19 @@
 
 **SNU-C005 · 강의자료만** · 컴퓨터공학부
 
-출처 유형: 교수자 배포 / 제공자: 강유 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 / 제공자: 강유 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://datalab.snu.ac.kr/~ukang/courses/26F-DS/)
 
-- 강의·실습: [자료 목록·본문](https://datalab.snu.ac.kr/~ukang/courses/26F-DS/)
-- 과제: 확인된 링크 없음
+- 강의·실습: [자료 목록·본문](https://datalab.snu.ac.kr/~ukang/courses/26F-DS/) · [소개 강의 PDF (표본 확인)](https://datalab.snu.ac.kr/~ukang/courses/26F-DS/L1-intro.pdf)
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
-판정: 강의 슬라이드의 이전 확인 기록. 이번 재접속 실패로 현재 접근 상태는 미확인.
+판정: Fall2026 수업 페이지와 소개 강의 PDF24쪽의 본문을 이번에 확인했다. 제출 과제 원문은 확인하지 않아 강의자료만으로 유지.
 
-비고: 페이지에 공개된 범위만 확인. 모든 과제의 공개를 뜻하지 않음. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.
+비고: 2026-11-04 첫 요청은 연결 종료였으나 재시도에서 수업 페이지200·Fall2026 명시, L1-intro.pdf200·유효PDF24쪽/앞부분 확인. 모든 강의 파일·과제 완비 검증은 아님.
 
-접근 범위: 이전 확인·이번 재접속 실패 전체 학기 완비: 미검증.
+접근 범위: 2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인 전체 학기 완비: 미검증.
 
 <a id="snu-c008"></a>
 
@@ -97,7 +99,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-2)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 2026 강의 PDF 표지 확인. 과제 메뉴의 hw_2017 폴더가 비어 있어 과제 공개로 세지 않음.
@@ -132,19 +134,19 @@
 
 **SNU-C007 · 강의·과제 함께** · 컴퓨터공학부
 
-출처 유형: 교수자 배포 / 제공자: 이광근 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 / 제공자: 이광근 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://kwangkeunyi.snu.ac.kr/4541.664A/26/)
 
 - 강의·실습: [slides 00](https://kwangkeunyi.snu.ac.kr/4541.664A/26/00-overview.pdf) · [slides 0](https://kwangkeunyi.snu.ac.kr/4541.664A/26/0-overview.pdf)
-- 과제: [Homeworks](https://kwangkeunyi.snu.ac.kr/4541.664A/26/#숙제%20Homeworks)
+- 과제: [Homeworks](https://kwangkeunyi.snu.ac.kr/4541.664A/26/#숙제%20Homeworks) · [연습1 PDF (본문 확인)](https://kwangkeunyi.snu.ac.kr/4541.664A/26/hw1.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 이전 확인한 강의·연습·프로젝트 근거로 분류. 이번 재접속 실패, 현재 접근 미확인.
+판정: Fall2026 수업 페이지·강의 개요PDF2개와 hw1.pdf 실제 연습 문제를 이번에 확인해 함께 분류를 유지.
 
-비고: 페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.
+비고: 2026-11-04 수업 페이지·강의 개요PDF2개·hw1.pdf가200이며 본문 표본 확인. 이전 재접속 실패는 회복. 연습은 퀴즈 준비 문제이고 전체 프로젝트·학기 완비 검증은 아님.
 
-접근 범위: 이전 확인·이번 재접속 실패 전체 학기 완비: 미검증.
+접근 범위: 2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인 전체 학기 완비: 미검증.
 
 <a id="snu-c001"></a>
 
@@ -157,7 +159,7 @@
 [수업·자료 원문](https://jhpwhang.github.io/Analytic_Number_Theory.pdf)
 
 - 강의·실습: [자료 목록·본문](https://jhpwhang.github.io/Analytic_Number_Theory.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 확인한 것은 강의노트다. 노트 안의 예제·연습문제를 제출 과제로 확인한 것은 아니다.
@@ -177,7 +179,7 @@
 [수업·자료 원문](https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab)
 
 - 강의·실습: [자료 목록·본문](https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: Drive 슬라이드 연결과 Lab1–5 설명·실습 코드. 직접 읽은 Lab1 README는 이미 구현된 PI/VI 실행 예제이며 제출 과제·스켈레톤이라는 근거가 없어 과제로 세지 않음. 슬라이드별 다운로드는 미검증.
@@ -196,7 +198,7 @@
 
 [수업·자료 원문](https://github.com/jdyece25-snu/circuit-theory)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/jdyece25-snu/circuit-theory)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -216,7 +218,7 @@
 
 [수업·자료 원문](https://github.com/dootheg0924/datamining_starbucks)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/dootheg0924/datamining_starbucks)
 - 과제 형태: 학생 풀이·구현
 
@@ -236,7 +238,7 @@
 
 [수업·자료 원문](https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3)
 - 과제 형태: 실제 문제·지정 연습
 
@@ -257,7 +259,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-2022-spring)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: Lec-15 표지 2026 봄 확인. 과거 자료와 함께 있으며 제출 과제 공개는 미확인.
@@ -316,7 +318,7 @@
 
 [수업·자료 원문](https://github.com/SNU-ARC/2026_spring_comarch_PA2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/SNU-ARC/2026_spring_comarch_PA2)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -332,19 +334,21 @@
 
 **SNU-C013 · 강의·과제 함께** · 컴퓨터공학부
 
-출처 유형: 교수자 배포 연결 / 제공자: 최수연 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 연결 / 제공자: 최수연 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://reality.snu.ac.kr/class/computational-imaging/)
 
-- 강의·실습: [slides](https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing) · [slides](https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing)
-- 과제: [과제자료 목록·본문](https://reality.snu.ac.kr/class/computational-imaging/)
-- 과제 형태: 실제 문제·지정 연습
+- 강의·실습: [Lecture22 3D Gaussian Splatting & Phase Retrieval 공개 PDF](https://drive.google.com/uc?export=download&id=1mBSgwLiV2x4kgMtQB0BE0JwYwP74Ze6n)
+- 과제: [공개 프로젝트 수행·보고서 지침](https://reality.snu.ac.kr/class/computational-imaging/#coursework)
+- 과제 형태: 프로젝트 수행 지침
 
-판정: 공개 시간표의 강의·HW/해설 링크를 함께 확인. 개별 Drive 다운로드 및 모든 HW 세부 파일은 미검증.
+판정: Lecture22 공개 PDF 92쪽과 수업 HTML의 프로젝트 제안·보고서 구성/분량·평가 지침을 확인해 함께 분류. 실제 HW 문제·해설 파일의 본문은 익명 접근에서 미확인.
 
-비고: 공개 일정표의 Drive 파일 링크 확인. Drive 파일별 비로그인 다운로드는 미검증. 외부 대학 참고강의와 SNU 자료 구분.
+비고: 2026-11-04 재검토: 처음 기록한 슬라이드2개 및 HW해설4개의 Drive 보기는401, 일반 다운로드는 로그인 화면이었다. 별도 Lecture22는 익명 다운로드200·유효 PDF92쪽이며 표지에 SNU/과목/최수연이 명시된다. 과제 측은 공개 HTML의 프로젝트 수행 지침으로 한정하며 HW 문제집 확보가 아니다.
 
-접근 범위: 자료·링크 존재 확인(파일별 접근 수준은 비고 참조) 전체 학기 완비: 미검증.
+접근 범위: Lecture22 PDF200·앞부분 본문 확인; 공개 HTML 프로젝트 지침 확인; 기타 Drive 파일은 본문 미확인 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [slides](https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing) — 익명 보기401·다운로드 로그인 화면; 본문 미확인 · [slides](https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing) — 익명 보기401·다운로드 로그인 화면; 본문 미확인
 
 <a id="snu-c018"></a>
 
@@ -377,7 +381,7 @@
 [수업·자료 원문](https://jkim82133.github.io/M1399.000500/2026S/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/M1399.000500/2026S/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: PDF 강의자료. 수업 예제·일반 실습은 제출 과제라고 단정하지 않음.
@@ -392,7 +396,7 @@
 
 **SNU-C014 · 강의·과제 함께** · 컴퓨터공학부
 
-출처 유형: 교수자 배포 / 제공자: 이광근 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 / 제공자: 이광근 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://kwangkeunyi.snu.ac.kr/4190.310/26/)
 
@@ -400,11 +404,11 @@
 - 과제: [HW1: due 3/14 24:00.](https://kwangkeunyi.snu.ac.kr/4190.310/26/hw1.pdf) · [HW2: due 3/21 24:00.](https://kwangkeunyi.snu.ac.kr/4190.310/26/hw2.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 이전 확인한 강의자료·HW PDF·코드 연결 기준. 이번 재접속 실패로 현재 접근 미확인.
+판정: Spring2026 수업 페이지·공개 강의노트와 HW1/2 실제 문제 PDF를 이번에 확인해 함께 분류를 유지.
 
-비고: 페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.
+비고: 2026-11-04 수업 페이지·강의노트PDF207쪽·HW1/2 PDF가200이며 본문 표본 확인. 강의노트는 과거 작성본을 2026 수업에서 재사용한다. 이전 재접속 실패는 회복. 전체 학기 완비 검증은 아님.
 
-접근 범위: 이전 확인·이번 재접속 실패 전체 학기 완비: 미검증.
+접근 범위: 2026-11-04 재접속 성공·수업 페이지와 자료 PDF 표본 확인 전체 학기 완비: 미검증.
 
 <a id="snu-c025"></a>
 
@@ -417,7 +421,7 @@
 [수업·자료 원문](https://jkim82133.github.io/M1399.000400/2025F/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/M1399.000400/2025F/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -477,7 +481,7 @@
 [수업·자료 원문](https://kwangkeunyi.snu.ac.kr/4190.510/25/)
 
 - 강의·실습: [slides 0.0](https://kwangkeunyi.snu.ac.kr/4190.510/25/0-0.pdf) · [slides 0.1](https://kwangkeunyi.snu.ac.kr/4190.510/25/0-1.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 공개 슬라이드·계획서. 제출 과제 문제 원문은 미확인.
@@ -517,7 +521,7 @@
 [수업·자료 원문](https://jkim82133.github.io/326.516/2025F/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/326.516/2025F/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -536,7 +540,7 @@
 
 [수업·자료 원문](https://github.com/Yelinz/snu-coursework/tree/main/3dcv)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/Yelinz/snu-coursework/tree/main/3dcv)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -556,7 +560,7 @@
 
 [수업·자료 원문](https://github.com/vmolab/advcmp-2025)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/vmolab/advcmp-2025)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -577,7 +581,7 @@
 [수업·자료 원문](https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf)
 
 - 강의·실습: [자료 목록·본문](https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -596,7 +600,7 @@
 
 [수업·자료 원문](https://github.com/snumrl/2025_SNU_HumanMotion_HW)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/snumrl/2025_SNU_HumanMotion_HW)
 - 과제 형태: 공개 뼈대
 
@@ -616,7 +620,7 @@
 
 [수업·자료 원문](https://github.com/Yelinz/snu-coursework/tree/main/cv)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/Yelinz/snu-coursework/tree/main/cv)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -637,7 +641,7 @@
 [수업·자료 원문](https://jkim82133.github.io/M1399.000500/2025S/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/M1399.000500/2025S/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF와 R/Rmd/HTML 실습 예제. 과제라는 지시·공개 문제 원문은 미확인.
@@ -657,7 +661,7 @@
 [수업·자료 원문](https://xkqiu.github.io/SNU-program-synthesis/)
 
 - 강의·실습: [강의 PDF 목록](https://xkqiu.github.io/SNU-program-synthesis/lectures.html)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: lectures.html의 PDF는 공개. assignments.html은 Classroom 초대 두 개뿐이며 문제/코드 공개는 미확인. 프로젝트 페이지는 발표 일정·발표시간 안내이므로 과제 문제로 세지 않음.
@@ -677,7 +681,7 @@
 [수업·자료 원문](https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf)
 
 - 강의·실습: [자료 목록·본문](https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -697,7 +701,7 @@
 [수업·자료 원문](https://jkim82133.github.io/M1399.000400/2024F/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/M1399.000400/2024F/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF·별도 Python/TensorFlow/PyTorch 실습. 일반 실습을 제출 과제로 세지 않음.
@@ -736,7 +740,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2)
 - 과제 형태: 학생 풀이·구현
 
@@ -757,7 +761,7 @@
 [수업·자료 원문](https://github.com/snu-sf-class/pp202402)
 
 - 강의·실습: [강의 part1](https://github.com/snu-sf-class/pp202402/blob/main/lecture-part1.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF는 있으나 과제 Issues는 배포 공지다. Assignment0 지시를 수강생 eTL 등록 메일로 보냈다고 명시; 공개 문제/코드는 확인하지 못함.
@@ -777,7 +781,7 @@
 [수업·자료 원문](https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf)
 
 - 강의·실습: [자료 목록·본문](https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -796,7 +800,7 @@
 
 [수업·자료 원문](https://github.com/vmolab/advcmp-2024)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/vmolab/advcmp-2024)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -817,7 +821,7 @@
 [수업·자료 원문](https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf)
 
 - 강의·실습: [자료 목록·본문](https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -836,7 +840,7 @@
 
 [수업·자료 원문](https://github.com/snjlee58/Database-SNU2024)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/snjlee58/Database-SNU2024)
 - 과제 형태: 학생 풀이·구현
 
@@ -857,7 +861,7 @@
 [수업·자료 원문](https://won-j.github.io/M1399_001000-2024spring/)
 
 - 강의·실습: [slides](https://won-j.github.io/M1399_001000-2024spring/mdsr/ch01-intro_slides.html) · [slides](https://won-j.github.io/M1399_001000-2024spring/mdsr/ch02-dataviz_slides.html)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: HTML 노트·슬라이드. 해당 학기 공개 숙제 문제는 미확인.
@@ -917,7 +921,7 @@
 [수업·자료 원문](https://github.com/snu-sf-class/sf202401)
 
 - 강의·실습: [Coq 수업 코드](https://github.com/snu-sf-class/sf202401/tree/main/class)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: class/의 Coq 수업 코드 공개. 과제0–6 공지·범위는 있으나 실제 숙제 배포는 로그인 Homework Repo를 안내하므로 공개 과제 확보로 세지 않음.
@@ -956,7 +960,7 @@
 
 [수업·자료 원문](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/SNU-ARC/2024_spring_sysprog_Lab3)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -996,7 +1000,7 @@
 
 [수업·자료 원문](https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr)
 - 과제 형태: 학생 풀이·구현
 
@@ -1017,7 +1021,7 @@
 [수업·자료 원문](https://jkim82133.github.io/M1399.000500/2024S/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/M1399.000500/2024S/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF·R/Rmd 실습. 과제 배포 여부는 일반 실습 존재만으로 확정하지 않음.
@@ -1037,7 +1041,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/regression-analysis-and-lab-2020-spring)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF와 2024 실습 ZIP. 실습 ZIP이 제출 과제라고 확인한 것은 아니므로 강의/실습 자료로 분류.
@@ -1076,7 +1080,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/DeepLearning-2023-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/DeepLearning-2023-2)
 - 과제 형태: 학생 풀이·구현
 
@@ -1096,8 +1100,8 @@
 
 [수업·자료 원문](https://won-j.github.io/M1399_000400-2023fall/)
 
-- 강의·실습: 확인된 링크 없음
-- 과제: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 제안서1–2쪽·논문형 최종보고서·발표는 강의계획서의 평가 안내 수준이다. 별도 배포 과제/프로젝트 지침으로 세지 않음. 자체 강의노트·숙제 문제세트도 미확인; 외부 읽기논문은 참고자료로 구분.
@@ -1117,7 +1121,7 @@
 [수업·자료 원문](https://sfamsnu.github.io/fall23/calendar/)
 
 - 강의·실습: [자료 목록·본문](https://sfamsnu.github.io/fall23/calendar/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -1137,7 +1141,7 @@
 [수업·자료 원문](https://jkim82133.github.io/321.621A/2023F/)
 
 - 강의·실습: [자료 목록·본문](https://jkim82133.github.io/321.621A/2023F/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -1156,7 +1160,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/SHPC-2023-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/SHPC-2023-2)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1177,7 +1181,7 @@
 [수업·자료 원문](https://won-j.github.io/M1399_000100-2023spring/)
 
 - 강의·실습: [자료 목록·본문](https://won-j.github.io/M1399_000100-2023spring/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 노트북 공개. HW는 GitHub Classroom 공지/일정만 있고 본문에 공개 문제 파일 링크가 없음.
@@ -1196,7 +1200,7 @@
 
 [수업·자료 원문](https://github.com/cakeng/dcn_2022_fall)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/cakeng/dcn_2022_fall)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1216,7 +1220,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1237,7 +1241,7 @@
 [수업·자료 원문](https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/)
 
 - 강의·실습: [자료 목록·본문](https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 슬라이드 링크. 성적 항목 Homework10%·과제풀이 수업 일정만으로 실제 과제 문제 공개를 확인했다고 하지 않음.
@@ -1276,7 +1280,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/MachineLearning-2022-1)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/MachineLearning-2022-1)
 - 과제 형태: 학생 풀이·구현
 
@@ -1296,7 +1300,7 @@
 
 [수업·자료 원문](https://ernestryu.com/courses/DLTheory.html)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [Homework 1](https://ernestryu.com/courses/DLtheory/hw1.pdf) · [Homework 2](https://ernestryu.com/courses/DLtheory/hw2.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
@@ -1316,7 +1320,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1)
 - 과제 형태: 공개 뼈대, 실제 문제·지정 연습
 
@@ -1325,6 +1329,28 @@
 비고: 430.318.
 
 접근 범위: 자료·링크 존재 확인(파일별 접근 수준은 비고 참조) 전체 학기 완비: 미검증.
+
+<a id="snu-c105"></a>
+
+## 2022 봄 (수업 페이지 기준) · 인공지능
+
+**SNU-C105 · 자료 미확인·안내** · AI 협동과정·관련 과목
+
+출처 유형: 관련 컴공 과목 / 제공자: 장병탁 / 확인일: 2026-11-04
+
+[수업·자료 원문](https://snu-bi.github.io/courses/2022-1/artificial-intelligence/)
+
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
+- 과제 형태: 확인되지 않음
+
+판정: 수업 페이지에는 Spring2022와 교수·자료 링크가 있으나 유일한 Lecture16 PDF 응답이 반복해서 파싱되지 않아 읽을 수 있는 강의 본문 확보로 세지 않는다.
+
+비고: 2026-11-04 두 번 익명 요청에서200·1,048,576바이트·PDF헤더는 있으나 EOF가 없고 pypdf가 Stream has ended unexpectedly로 실패했다. 다른 뷰어 복구 가능성은 미검증이며 파일 삭제·비공개라고 단정하지 않음. 기존 2021봄 병기는 현재 페이지에서 확인되지 않아 Spring2022 명시만 사용.
+
+접근 범위: 수업 안내 페이지200; 유일한 PDF의 본문 파싱 실패로 자료 미확인 전체 학기 완비: 미검증.
+
+현재 자료 링크에서 분리: [Deep Learning lecture (Lec.16)](https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf) — HTTP200이지만 응답1,048,576바이트·EOF 없음·PDF파서가 반복해서 읽지 못함
 
 <a id="snu-c067"></a>
 
@@ -1356,7 +1382,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/Compiler-2021-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/Compiler-2021-2)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1376,7 +1402,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1396,7 +1422,7 @@
 
 [수업·자료 원문](https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1)
 - 과제 형태: 학생 풀이·구현
 
@@ -1436,7 +1462,7 @@
 
 [수업·자료 원문](https://github.com/sunoh-kim/digital-image-processing)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/sunoh-kim/digital-image-processing)
 - 과제 형태: 학생 풀이·구현
 
@@ -1456,7 +1482,7 @@
 
 [수업·자료 원문](https://github.com/woocshin/SNUCV2020Fall)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/woocshin/SNUCV2020Fall)
 - 과제 형태: 학생 풀이·구현
 
@@ -1476,7 +1502,7 @@
 
 [수업·자료 원문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5)
 - 과제 형태: 학생 풀이·구현
 
@@ -1496,7 +1522,7 @@
 
 [수업·자료 원문](https://github.com/sunoh-kim/deep-reinforcement-learning)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/sunoh-kim/deep-reinforcement-learning)
 - 과제 형태: 학생 풀이·구현
 
@@ -1516,7 +1542,7 @@
 
 [수업·자료 원문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0)
 - 과제 형태: 학생 풀이·구현
 
@@ -1537,7 +1563,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes) · [강의자료](https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring#h.egls46mhb99z)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 PDF 공개. 본문은 2020 과제를 eTL로 출제·제출한다고 안내하여 공개 과제 확보로 세지 않음.
@@ -1556,7 +1582,7 @@
 
 [수업·자료 원문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5)
 - 과제 형태: 학생 풀이·구현
 
@@ -1577,7 +1603,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes) · [강의자료](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model#h.yqbg1dy9q9gl)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 노트·슬라이드·보충자료. 일부 파일은 암호 보호 안내가 있고 제출 과제 공개는 미확인.
@@ -1596,7 +1622,7 @@
 
 [수업·자료 원문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98)
 - 과제 형태: 학생 풀이·구현
 
@@ -1616,7 +1642,7 @@
 
 [수업·자료 원문](https://github.com/jiminsun/IAML_2018)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/jiminsun/IAML_2018)
 - 과제 형태: 학생 풀이·구현
 
@@ -1656,7 +1682,7 @@
 
 [수업·자료 원문](https://github.com/sunoh-kim/convex-optimization)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/sunoh-kim/convex-optimization)
 - 과제 형태: 학생 풀이·구현
 
@@ -1676,7 +1702,7 @@
 
 [수업·자료 원문](https://github.com/eodmsabc/SNU-System-Programming)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/eodmsabc/SNU-System-Programming)
 - 과제 형태: 학생 풀이·구현
 
@@ -1696,7 +1722,7 @@
 
 [수업·자료 원문](https://github.com/ijleesw/SNU_MATH_M1407.000400)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/ijleesw/SNU_MATH_M1407.000400)
 - 과제 형태: 학생 풀이·구현
 
@@ -1716,7 +1742,7 @@
 
 [수업·자료 원문](https://github.com/j-min/Math-for-IE)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/j-min/Math-for-IE)
 - 과제 형태: 학생 풀이·구현
 
@@ -1736,8 +1762,8 @@
 
 [수업·자료 원문](https://snu-bi.github.io/courses/2015-2/machine-learning/)
 
-- 강의·실습: 확인된 링크 없음
-- 과제: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 읽힌 RBFN PDF 2쪽은 프로젝트 힌트·참고자료이며 강의노트로 세지 않음. poster/Project2 writeup 링크는 있지만 Project2 응답은 1MiB·파싱실패/0쪽으로 잘린 응답 가능성이 있어 과제 원문·결과물 내용을 확정하지 않음.
@@ -1757,7 +1783,7 @@
 [수업·자료 원문](https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf)
 
 - 강의·실습: [자료 목록·본문](https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -1796,7 +1822,7 @@
 
 [수업·자료 원문](https://www.math.snu.ac.kr/~lim/Lie_groups.html)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://www.math.snu.ac.kr/~lim/Lie_groups.html)
 - 과제 형태: 실제 문제·지정 연습
 
@@ -1837,7 +1863,7 @@
 [수업·자료 원문](https://optimize.snu.ac.kr/teaching.html)
 
 - 강의·실습: [자료 목록·본문](https://optimize.snu.ac.kr/teaching.html)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 영상5회·예제 코드 ZIP. 제출 과제라는 근거는 미확인.
@@ -1857,7 +1883,7 @@
 [수업·자료 원문](https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8)
 
 - 강의·실습: [자료 목록·본문](https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -1877,7 +1903,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/advanced-statistical-methods)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -1916,7 +1942,7 @@
 
 [수업·자료 원문](https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj)
 - 과제 형태: 실제 문제·지정 연습, 학생 풀이·구현
 
@@ -1937,7 +1963,7 @@
 [수업·자료 원문](https://sites.google.com/view/gwpark/lectures)
 
 - 강의·실습: [Lectures](https://sites.google.com/view/gwpark/lectures) · [Lectures](https://sites.google.com/view/gwpark/lectures)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 노트 위젯·영상·일부 시험 자료. 시험을 숙제로 합산하지 않으며 과제 원문 공개는 미확인.
@@ -1957,7 +1983,7 @@
 [수업·자료 원문](https://jung.snu.ac.kr/TeachingPage.html)
 
 - 강의·실습: [[Lecture videos]](https://youtube.com/playlist?list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg&si=fmXJ1gHxW7VC9pBw) · [(Slides)](https://jung.snu.ac.kr/papers/Data_Literacy.pdf)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의 영상과 계획서. 촬영 학기 및 제출 과제 원문은 미확인.
@@ -1977,7 +2003,7 @@
 [수업·자료 원문](https://github.com/wcjang/K-MOOC)
 
 - 강의·실습: [자료 목록·본문](https://github.com/wcjang/K-MOOC)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 노트13개·R 실습 코드/HTML은 강의/실습 자료. Lab이라는 이름만으로 제출 과제로 세지 않음.
@@ -1997,7 +2023,7 @@
 [수업·자료 원문](https://cml.snu.ac.kr/courses/)
 
 - 강의·실습: [Lectures](https://cml.snu.ac.kr/courses/) · [Lectures](https://cml.snu.ac.kr/courses/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2017,7 +2043,7 @@
 [수업·자료 원문](https://jylee749.wordpress.com/강의자료/)
 
 - 강의·실습: [Talk Slides](https://jylee749.wordpress.com/talk-slides/) · [강의자료](https://jylee749.wordpress.com/%ea%b0%95%ec%9d%98%ec%9e%90%eb%a3%8c/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의·교육용 실습 PDF/Rmd/ZIP 모음. 제출 숙제 세트 공개 여부는 미확인.
@@ -2037,7 +2063,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-rcode)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: old R 코드 ZIP은 설명/실습 예제로 보존. 제출 과제라는 근거는 미확인.
@@ -2057,7 +2083,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-local-likelihood-and-frontier)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2077,7 +2103,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-wavelet)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2097,7 +2123,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-additive-regression)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2117,7 +2143,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-semiparametric-inference)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2137,7 +2163,7 @@
 [수업·자료 원문](https://github.com/safeai-snu/R-statistics)
 
 - 강의·실습: [자료 목록·본문](https://github.com/safeai-snu/R-statistics)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: R 실습·데이터. 학기·정규강좌 적용과 제출 과제 여부 미확인; 교재 연계 가능성도 있음.
@@ -2156,8 +2182,8 @@
 
 [수업·자료 원문](https://etl.snu.ac.kr/courses/63f8471164283c4e2d138f62)
 
-- 강의·실습: 확인된 링크 없음
-- 과제: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: SNUON 소개만 확인. 영상 전체/강의파일/과제 접근은 미검증.
@@ -2197,7 +2223,7 @@
 [수업·자료 원문](https://joonhyuk.com/)
 
 - 강의·실습: [자료 목록·본문](https://joonhyuk.com/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학생/튜터가 작성한 강의·튜터링 노트. 제출 과제 원문 공개로 세지 않음.
@@ -2216,7 +2242,7 @@
 
 [수업·자료 원문](https://github.com/wldyddl5510/SNU-CSE)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/wldyddl5510/SNU-CSE)
 - 과제 형태: 학생 풀이·구현
 
@@ -2236,7 +2262,7 @@
 
 [수업·자료 원문](https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks)
 - 과제 형태: 학생 풀이·구현
 
@@ -2257,32 +2283,12 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/theoretical-statistics-2006)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
 
 비고: 인덱스에 Theoretical Statistics (~2006) 표기. 단일 2006 학기 강좌로 단정하지 않음. PS 렌더링은 미검증. 자료 폴더는 로그인 없는 목록 접근도 확인.
-
-접근 범위: 자료·링크 존재 확인(파일별 접근 수준은 비고 참조) 전체 학기 완비: 미검증.
-
-<a id="snu-c105"></a>
-
-## 2022 봄·2021 봄 · 인공지능
-
-**SNU-C105 · 강의자료만** · AI 협동과정·관련 과목
-
-출처 유형: 관련 컴공 과목 / 제공자: 장병탁 / 확인일: 2026-11-03
-
-[수업·자료 원문](https://snu-bi.github.io/courses/2022-1/artificial-intelligence/)
-
-- 강의·실습: [Deep Learning lecture (Lec.16)](https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf)
-- 과제: 확인된 링크 없음
-- 과제 형태: 확인되지 않음
-
-판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
-
-비고: 과목 전체 강의록이 아니라 남아 있는 일부 파일.
 
 접근 범위: 자료·링크 존재 확인(파일별 접근 수준은 비고 참조) 전체 학기 완비: 미검증.
 
@@ -2317,7 +2323,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/asymptotic-statistical-inference)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2337,7 +2343,7 @@
 [수업·자료 원문](https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt)
 
 - 강의·실습: [자료 목록·본문](https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2352,7 +2358,7 @@
 
 **SNU-C099 · 강의·과제 함께** · 수리과학부
 
-출처 유형: 교수자 배포 / 제공자: 김홍종 / 확인일: 2026-11-03
+출처 유형: 교수자 배포 / 제공자: 김홍종 / 확인일: 2026-11-04
 
 [수업·자료 원문](https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf)
 
@@ -2360,11 +2366,11 @@
 - 과제: [과제자료 목록·본문](https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 이전 웹 도구로 확인한 Lecture1 PDF 안에 Homework1이 함께 있다는 기록을 근거로 분류. 이번 직접 요청은 연결 종료, 웹 도구도 시간 초과여서 현재 접근은 재확인하지 못함. 2013이라는 연도만 확인되며 학기 전체 자료는 아님.
+판정: 2026-11-04 재접속200·유효PDF2쪽의 강의 본문과 Homework1 실제 문제/마감2013-03-11을 확인했다. 수업의 정확한 개설 학기는 명시되지 않아 2013·학기 미상으로 유지.
 
-비고: PDF 2쪽을 웹 도구로 확인. 과목 전체 자료가 아님.
+비고: 한 PDF 안의 강의·숙제 부분 확인. 이전 재접속 실패는 이번에 회복했으며 전체 학기 자료는 아니다.
 
-접근 범위: 이전 확인·이번 재접속 실패 전체 학기 완비: 미검증.
+접근 범위: 2026-11-04 PDF200·2쪽 전체 텍스트 확인 전체 학기 완비: 미검증.
 
 <a id="snu-c098"></a>
 
@@ -2377,7 +2383,7 @@
 [수업·자료 원문](https://github.com/mybirth0407/snu-stat-bigdata-computing)
 
 - 강의·실습: [자료 목록·본문](https://github.com/mybirth0407/snu-stat-bigdata-computing)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: Linux·SQL 교육 노트북. 정규 강좌·과제인지 미확인.
@@ -2396,7 +2402,7 @@
 
 [수업·자료 원문](https://github.com/octahedron00/SNU_statistics_lab_assignments)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/octahedron00/SNU_statistics_lab_assignments)
 - 과제 형태: 학생 풀이·구현
 
@@ -2417,7 +2423,7 @@
 [수업·자료 원문](https://sites.google.com/view/theostat/lecture-notes/topics-in-statistics)
 
 - 강의·실습: [Lecture notes](https://sites.google.com/view/theostat/lecture-notes)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.
@@ -2436,7 +2442,7 @@
 
 [수업·자료 원문](https://github.com/sally20921/SNUCSE-undergraduate)
 
-- 강의·실습: 확인된 링크 없음
+- 강의·실습: 현재 확인된 링크 없음
 - 과제: [과제자료 목록·본문](https://github.com/sally20921/SNUCSE-undergraduate)
 - 과제 형태: 학생 풀이·구현
 
@@ -2457,7 +2463,7 @@
 [수업·자료 원문](https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html)
 
 - 강의·실습: [자료 목록·본문](https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 대수 알고리즘 설명·계산 실습 HTML. 제출 과제와 구분.
@@ -2477,7 +2483,7 @@
 [수업·자료 원문](https://park4264.github.io/categories/)
 
 - 강의·실습: [자료 목록·본문](https://park4264.github.io/categories/)
-- 과제: 확인된 링크 없음
+- 과제: 현재 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
 판정: 학생 정리 글. 교수자 강의자료/과제 원본과 구분.
