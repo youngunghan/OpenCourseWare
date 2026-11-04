@@ -2723,15 +2723,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "강의 PDF·실제 HW1 문제 표본 확인. MAS473(2021) 숙제와 final_2021fall 파일 포함. 과목의 모든 자료가 동일 학기라는 전수 검증은 아님.",
+    "notes": "강의 PDF·실제 HW1 문제 표본 확인. MAS473(2021) 숙제와 final_2021fall 파일 포함. 과목의 모든 자료가 동일 학기라는 전수 검증은 아님. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "강의 PDF·실제 HW1 문제 표본 확인. MAS473(2021) 숙제와 final_2021fall 파일 포함. 과목의 모든 자료가 동일 학기라는 전수 검증은 아님.",
     "evidence": [
       {
@@ -2808,15 +2807,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "강의 CH10과 HW1 본문에 2021 Spring 명시. 과거 시험 폴더는 별도이며 최신 자료로 간주하지 않음.",
+    "notes": "강의 CH10과 HW1 본문에 2021 Spring 명시. 과거 시험 폴더는 별도이며 최신 자료로 간주하지 않음. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "강의 CH10과 HW1 본문에 2021 Spring 명시. 과거 시험 폴더는 별도이며 최신 자료로 간주하지 않음.",
     "evidence": [
       {
@@ -2858,15 +2856,14 @@
     ],
     "assignment_forms": [
       "project_brief",
-      "skeleton",
-      "solution"
+      "skeleton"
     ],
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "강의1 표지 AI504·Edward Choi·KAIST AI대학원 확인. class1_20200901 날짜로 가을 학기를 추정하며 확정 개설 학기는 아니다. Project2 노트북의 실제 To-Do 지침 확인. 실습 원본·sol 노트북이 혼재하며 계정의 공식 배포 권한은 미확인.",
+    "notes": "강의1 표지 AI504·Edward Choi·KAIST AI대학원 확인. class1_20200901 날짜로 가을 학기를 추정하며 확정 개설 학기는 아니다. Project2 노트북의 실제 To-Do 지침 확인. 실습 원본·sol 노트북이 혼재하며 계정의 공식 배포 권한은 미확인. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "강의1 표지 AI504·Edward Choi·KAIST AI대학원 확인. class1_20200901 날짜로 가을 학기를 추정하며 확정 개설 학기는 아니다. Project2 노트북의 실제 To-Do 지침 확인. 실습 원본·sol 노트북이 혼재하며 계정의 공식 배포 권한은 미확인.",
     "evidence": [
       {
@@ -2904,15 +2901,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "강의 도입과 HW1 본문 KAIST·Fall 2020 확인. 저장소의 상용 교재 파일은 이 목록의 수집·직접 링크 대상에서 제외.",
+    "notes": "강의 도입과 HW1 본문 KAIST·Fall 2020 확인. 저장소의 상용 교재 파일은 이 목록의 수집·직접 링크 대상에서 제외. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "강의 도입과 HW1 본문 KAIST·Fall 2020 확인. 저장소의 상용 교재 파일은 이 목록의 수집·직접 링크 대상에서 제외.",
     "evidence": [
       {
@@ -2950,15 +2946,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": true,
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "강의1 표지와 MATLAB assignment1에 Fall 2019 명시. 과제 해설·학생 보관본이 혼재.",
+    "notes": "강의1 표지와 MATLAB assignment1에 Fall 2019 명시. 과제 해설·학생 보관본이 혼재. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "강의1 표지와 MATLAB assignment1에 Fall 2019 명시. 과제 해설·학생 보관본이 혼재.",
     "evidence": [
       {
@@ -3323,15 +3318,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": false,
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "README의 2020 가을 자료와 Previous Semesters의 2019 봄·2020 봄 자료가 함께 있어 혼합 분류. 상용 교재 파일은 대상에서 제외.",
+    "notes": "README의 2020 가을 자료와 Previous Semesters의 2019 봄·2020 봄 자료가 함께 있어 혼합 분류. 상용 교재 파일은 대상에서 제외. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "README의 2020 가을 자료와 Previous Semesters의 2019 봄·2020 봄 자료가 함께 있어 혼합 분류. 상용 교재 파일은 대상에서 제외.",
     "evidence": [
       {
@@ -3543,15 +3537,14 @@
     ],
     "assignment_forms": [
       "problem",
-      "student",
-      "solution"
+      "student"
     ],
     "lecture_confirmed": false,
     "assignment_material_confirmed": false,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
     "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "2021 그룹 숙제 제출물과 2020 과거 숙제·퀴즈·시험이 혼재. Properties 참고문서는 강의노트로 세지 않음.",
+    "notes": "2021 그룹 숙제 제출물과 2020 과거 숙제·퀴즈·시험이 혼재. Properties 참고문서는 강의노트로 세지 않음. 파일명 sol/solution만으로 교수·조교의 공식 해설이라고 확인할 수 없어 solution 형태로 집계하지 않는다.",
     "classification_reason": "2021 그룹 숙제 제출물과 2020 과거 숙제·퀴즈·시험이 혼재. Properties 참고문서는 강의노트로 세지 않음.",
     "evidence": [
       {
