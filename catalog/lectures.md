@@ -2,7 +2,7 @@
 
 [첫 화면](../README.md) · [학과별](departments.md) · [최신순 전체](latest.md)
 
-71개 진입점. 강의노트·슬라이드·녹화·실습 자료 측만 확인했다. 과제 미확인은 과제가 없다는 뜻이 아니다.
+83개 진입점. 강의노트·슬라이드·녹화·실습 자료 측만 확인했다. 과제 미확인은 과제가 없다는 뜻이 아니다.
 
 | 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
 | --- | --- | --- | --- | --- |
@@ -15,6 +15,8 @@
 | 2026 가을 | SNU | 해석적 정수론 | 강의자료만 | [SNU-C001](./snu.md#snu-c001) |
 | 2026 봄 | KAIST | CS40008 Computer Science Project | 강의자료만 | [KAIST-K022](./kaist.md#kaist-k022) |
 | 2026 봄 | KAIST | CS492 Algorithms for NP-hard Problems | 강의자료만 | [KAIST-K030](./kaist.md#kaist-k030) |
+| 2026 봄 | POSTECH | CSED321 Programming Languages | 강의자료만 | [POSTECH-P001](./postech.md#postech-p001) |
+| 2026 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P005](./postech.md#postech-p005) |
 | 2026 봄 | SNU | 강화학습 실습 | 강의자료만 | [SNU-C015](./snu.md#snu-c015) |
 | 2026 봄 | SNU | 비모수함수추정 | 강의자료만 | [SNU-C017](./snu.md#snu-c017) |
 | 2026 봄 | SNU | 통계적 기계학습 | 강의자료만 | [SNU-C019](./snu.md#snu-c019) |
@@ -24,6 +26,7 @@
 | 2025 가을 | SNU | 프로그래밍언어 이론 특강 | 강의자료만 | [SNU-C022](./snu.md#snu-c022) |
 | 2025 가을 | SNU | 확률론 2 | 강의자료만 | [SNU-C024](./snu.md#snu-c024) |
 | 2025 봄 | KAIST | CS20200/CS220 Programming Principles | 강의자료만 | [KAIST-K020](./kaist.md#kaist-k020) |
+| 2025 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P006](./postech.md#postech-p006) |
 | 2025 봄 | SNU | 대수학 3 | 강의자료만 | [SNU-C026](./snu.md#snu-c026) |
 | 2025 봄 | SNU | 통계적 기계학습 | 강의자료만 | [SNU-C032](./snu.md#snu-c032) |
 | 2025 봄 | SNU | 프로그램합성 입문 | 강의자료만 | [SNU-C031](./snu.md#snu-c031) |
@@ -31,12 +34,14 @@
 | 2024 가을 | SNU | 딥러닝의 통계적 이해 | 강의자료만 | [SNU-C037](./snu.md#snu-c037) |
 | 2024 가을 | SNU | 프로그래밍원리 | 강의자료만 | [SNU-C036](./snu.md#snu-c036) |
 | 2024 봄 | KAIST | IE331 OR: Optimization | 강의자료만 | [KAIST-K008](./kaist.md#kaist-k008) |
+| 2024 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P007](./postech.md#postech-p007) |
 | 2024 봄 | SNU | 가환대수 | 강의자료만 | [SNU-C038](./snu.md#snu-c038) |
 | 2024 봄 | SNU | 대수학 1 | 강의자료만 | [SNU-C039](./snu.md#snu-c039) |
 | 2024 봄 | SNU | 데이터사이언스 입문 | 강의자료만 | [SNU-C049](./snu.md#snu-c049) |
 | 2024 봄 | SNU | 소프트웨어 엄밀 검증 | 강의자료만 | [SNU-C046](./snu.md#snu-c046) |
 | 2024 봄 | SNU | 통계적 기계학습 | 강의자료만 | [SNU-C050](./snu.md#snu-c050) |
 | 2024 봄 | SNU | 회귀분석 및 실습 | 강의자료만 | [SNU-C051](./snu.md#snu-c051) |
+| 2023 가을 | POSTECH | IMEN891I Mathematics for Data Science | 강의자료만 | [POSTECH-P008](./postech.md#postech-p008) |
 | 2023 가을 | SNU | 인공지능을 위한 이론과 모델링 | 강의자료만 | [SNU-C052](./snu.md#snu-c052) |
 | 2023 가을 | SNU | 통계이론세미나 — 위상구조의 통계적 추정 | 강의자료만 | [SNU-C056](./snu.md#snu-c056) |
 | 2023 봄 | KAIST | IE631 Integer Programming | 강의자료만 | [KAIST-K013](./kaist.md#kaist-k013) |
@@ -55,6 +60,13 @@
 | 학기 미상 | KAIST | MAS311 현대대수학 I | 강의자료만 | [KAIST-K052](./kaist.md#kaist-k052) |
 | 학기 미상 | KAIST | MAS312(dropped) 현대대수학 II (중도 정리본) | 강의자료만 | [KAIST-K053](./kaist.md#kaist-k053) |
 | 학기 미상 | KAIST | MAS331 위상수학 | 강의자료만 | [KAIST-K054](./kaist.md#kaist-k054) |
+| 학기 미상 | POSTECH | CSED105 Introduction to AI — Interactive Labs | 강의자료만 | [POSTECH-P013](./postech.md#postech-p013) |
+| 이전 학기 미상 · 2026 봄 안내 페이지 | POSTECH | CSED233 Data Structure — Previous-semester slides | 강의자료만 | [POSTECH-P016](./postech.md#postech-p016) |
+| 학기 미상 · 여러 판본 안내 | POSTECH | EECE233 Signals and Systems | 강의자료만 | [POSTECH-P015](./postech.md#postech-p015) |
+| 학기 미상 | POSTECH | IMEN472 Statistical Data Mining | 강의자료만 | [POSTECH-P010](./postech.md#postech-p010) |
+| 학기 미상 | POSTECH | IMEN891E Bayesian Statistics for Data Analysis | 강의자료만 | [POSTECH-P009](./postech.md#postech-p009) |
+| 학기 미상 | POSTECH | IMEN891F Statistical Methods with Sparsity | 강의자료만 | [POSTECH-P011](./postech.md#postech-p011) |
+| 학기 미상 · 2021년판 | POSTECH | Lecture Notes on Calculus at POSTECH | 강의자료만 | [POSTECH-P014](./postech.md#postech-p014) |
 | 영상 학기 미확인 | SNU | Xpress 최적화 소프트웨어 실습 | 강의자료만 | [SNU-C101](./snu.md#snu-c101) |
 | 영상 학기 미확인 | SNU | 강화학습 입문 | 강의자료만 | [SNU-C103](./snu.md#snu-c103) |
 | 학기 미확인 | SNU | 고급통계적방법론 | 강의자료만 | [SNU-C114](./snu.md#snu-c114) |

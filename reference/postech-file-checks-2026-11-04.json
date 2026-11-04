@@ -1,0 +1,496 @@
+{
+  "checked_date": "2026-11-04",
+  "scope": "POSTECH representative file/body checks only; not all links; PDF first two pages and structure; no execution/video playback/full-semester guarantee",
+  "requests": [
+    {
+      "label": "https://sds.postech.ac.kr/math_ds.html",
+      "url": "https://www.dropbox.com/scl/fi/9ginkam183c05zjb20ilh/Chap1-linearAlgebra.pdf?rlkey=186tlgnkjv4h1atsnxwz4zmlv&dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 129002,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 22,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/math_ds.html",
+      "url": "https://www.dropbox.com/scl/fi/fxxaamyiaw8my4p0r1m22/Chap2-matrixDecomposition.pdf?rlkey=loklduc3g3ait23kqmmlettnb&dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 484561,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 26,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/bayes.html",
+      "url": "https://www.dropbox.com/s/ftn0ow2s2n547sd/Chap1-intro.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 333234,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 28,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/bayes.html",
+      "url": "https://www.dropbox.com/s/527ey86pdtplkkw/Chap2-singleParameter.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1618769,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 44,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2024sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2024sp/csed415-lec01.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 6122191,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 50,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2024sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2024sp/csed415-lec02.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 3322166,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 55,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2025sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2025sp/csed415-lec01.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 7745481,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 55,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2025sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2025sp/csed415-lec02.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 3564620,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 62,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2026sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2026sp/csed415-lec01.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 6660219,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 53,
+      "eof": true
+    },
+    {
+      "label": "https://compsec.postech.ac.kr/teaching/csed415/2026sp",
+      "url": "https://compsec.postech.ac.kr/assets/lec/csed415/2026sp/csed415-lec02.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2687185,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 63,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/data_mining.html",
+      "url": "https://www.dropbox.com/s/3ks8z3igwyo2wip/Supp1-matrixAlgebra.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 150436,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 31,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/data_mining.html",
+      "url": "https://www.dropbox.com/s/2zmjqlb53y2umzz/Supp2-mvnorm.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 655733,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 29,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/sparse_learning.html",
+      "url": "https://www.dropbox.com/s/o1az8nazmz1yzrd/Supp-KKT.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 106133,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 15,
+      "eof": true
+    },
+    {
+      "label": "https://sds.postech.ac.kr/sparse_learning.html",
+      "url": "https://www.dropbox.com/s/yoage9er7rdl7u1/Chap1-intro.pdf?dl=1",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 749155,
+      "content_type": "application/binary",
+      "kind": "pdf",
+      "pages": 6,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/26f-data-engineering/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/26f-data-engineering/slides/1_overview.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1369395,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 32,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/26f-data-engineering/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/26f-data-engineering/slides/2_data-collection.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2306671,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 61,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/25f-data-engineering/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/25f-data-engineering/slides/1_overview-logistics.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1836851,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 36,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/25f-data-engineering/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/25f-data-engineering/slides/2_data-collection.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 4948229,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 65,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/26s-programming-for-data-science/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/26s-programming-for-data-science/slides/1_overview-logistics.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 4267312,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 25,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/26s-programming-for-data-science/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/26s-programming-for-data-science/slides/2_chatting-with-ai.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 45579798,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 35,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/ai-study/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/ai-study/fall-2026/01-data-sources-slides.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 987013,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 27,
+      "eof": true
+    },
+    {
+      "label": "https://moai.postech.ac.kr/teaching/ai-study/schedule/",
+      "url": "https://moai.postech.ac.kr/teaching/ai-study/fall-2026/01-data-sources-slides-2.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1870460,
+      "content_type": "application/pdf",
+      "kind": "pdf",
+      "pages": 24,
+      "eof": true
+    },
+    {
+      "label": "PL2026",
+      "url": "https://raw.githubusercontent.com/postech-pl/class-pl-26s/HEAD/cs321-notes.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1036353,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 148,
+      "eof": true
+    },
+    {
+      "label": "Logic",
+      "url": "https://raw.githubusercontent.com/kimminss0/CSED433/HEAD/prg2/coq2.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 50995,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 1,
+      "eof": true
+    },
+    {
+      "label": "ML2024",
+      "url": "https://raw.githubusercontent.com/jianmozhe404/POSTECH-24fall-ML-assignments/HEAD/assignment1/2024_hw1.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 132476,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 3,
+      "eof": true
+    },
+    {
+      "label": "Microprocessor",
+      "url": "https://raw.githubusercontent.com/ilshinHuh/POSTECH_EECE372/HEAD/HW1/2024_HW1_Recall_C.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 582507,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 4,
+      "eof": true
+    },
+    {
+      "label": "GraphSignal",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED490F/HEAD/CSED490F_Graph_Signal_Reconstruct.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 364544,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 6,
+      "eof": true
+    },
+    {
+      "label": "AI2023",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED342/HEAD/assign1/assign1.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 173894,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 5,
+      "eof": true
+    },
+    {
+      "label": "DLImplementation",
+      "url": "https://raw.githubusercontent.com/daeun0903/CSED490F/HEAD/README.md",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2478,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "ML515",
+      "url": "https://raw.githubusercontent.com/jik0730/csed515-machine-learning/HEAD/assignment6/code/main.ipynb",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 41572,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "notebook",
+      "cells": 7
+    },
+    {
+      "label": "Calculus2021",
+      "url": "https://drive.google.com/uc?export=download&id=1V8XgNjMCdLJox_jOhFsGkL8bVu6aLYCc",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1302048,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 249,
+      "eof": true
+    },
+    {
+      "label": "Signals",
+      "url": "https://drive.google.com/uc?export=download&id=1mlju-JbtMs3w5VsKzPVjcPpmNdQhcsBA",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2128360,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 10,
+      "eof": true
+    },
+    {
+      "label": "AI-lab",
+      "url": "https://sodomau.github.io/csed105-labs/lec4-learning-lab.html",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 30664,
+      "content_type": "text/html; charset=utf-8",
+      "kind": "html"
+    },
+    {
+      "label": "DSPrevious",
+      "url": "https://drive.google.com/uc?export=download&id=1-OniT18H176yEUsAw1fyoqgENV3XWAXP",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 5252641,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 32,
+      "eof": true
+    },
+    {
+      "label": "EECE302",
+      "url": "https://drive.google.com/uc?export=download&id=1AnhRMoqojO_qUu_mH92mtzMtBcqYPu8E",
+      "checked_date": "2026-11-04",
+      "status": 404,
+      "bytes": 1652,
+      "content_type": "text/html; charset=utf-8",
+      "kind": "html"
+    },
+    {
+      "label": "a-nodi/cs332-assign",
+      "url": "https://raw.githubusercontent.com/a-nodi/cs332-assign/HEAD/forcomp/src/main/scala/common/package.scala",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 1143,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "daeun0903/CSED490F",
+      "url": "https://raw.githubusercontent.com/daeun0903/CSED490F/HEAD/Lab1_autograd/Autograd_imple_class_team3.ipynb",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 72502,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "notebook",
+      "cells": 9
+    },
+    {
+      "label": "ilshinHuh/POSTECH_EECE454_final_term",
+      "url": "https://raw.githubusercontent.com/ilshinHuh/POSTECH_EECE454_final_term/HEAD/final-term.ipynb",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 333840,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "notebook",
+      "cells": 58
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED101",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED101/HEAD/lab/Lab1.c",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 353,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED232",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED232/HEAD/pa1/1-1/OOP_ASSN1_prob1.cpp",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 685,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED233",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED233/HEAD/pa1/evaluate.cpp",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2073,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED273",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED273/HEAD/final_proj/zerogame.v",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 5303,
+      "content_type": "application/octet-stream",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED211",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED211/HEAD/csim.c",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 3180,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED311",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED311/HEAD/Lab2/ALU.v",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 2497,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED312",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED312/HEAD/Reports/project1/design.pdf",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 830009,
+      "content_type": "application/octet-stream",
+      "kind": "pdf",
+      "pages": 23,
+      "eof": true
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED538",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED538/HEAD/core/logger.py",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 4109,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    },
+    {
+      "label": "choidaedae/POSTECH-CSED539",
+      "url": "https://raw.githubusercontent.com/choidaedae/POSTECH-CSED539/HEAD/datasets/__init__.py",
+      "checked_date": "2026-11-04",
+      "status": 200,
+      "bytes": 67,
+      "content_type": "text/plain; charset=utf-8",
+      "kind": "text"
+    }
+  ]
+}

@@ -288,3 +288,70 @@
 | 2017 봄 | KAIST | CS206 Data Structures | 과제자료만 | [KAIST-K036](./kaist.md#kaist-k036) |
 | 2008 봄 | KAIST | CS204 Discrete Mathematics | 강의·과제 함께 | [KAIST-K027](./kaist.md#kaist-k027) |
 | 2019~2020 혼합 | KAIST | CS300 Introduction to Algorithms | 여러 학기·과목 혼합 | [KAIST-K044](./kaist.md#kaist-k044) |
+
+## POSTECH · 산업경영공학과 (7)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 2026 가을 | POSTECH | IMEN891K / IDSC501 / AXGS-501 Data Engineering | 강의·과제 함께 | [POSTECH-P002](./postech.md#postech-p002) |
+| 2026 봄 | POSTECH | IMEN574 / IDSC574 Programming for AX | 강의·과제 함께 | [POSTECH-P003](./postech.md#postech-p003) |
+| 2025 가을 | POSTECH | IMEN891K / IDSC501 Data Engineering | 강의·과제 함께 | [POSTECH-P004](./postech.md#postech-p004) |
+| 2023 가을 | POSTECH | IMEN891I Mathematics for Data Science | 강의자료만 | [POSTECH-P008](./postech.md#postech-p008) |
+| 학기 미상 | POSTECH | IMEN472 Statistical Data Mining | 강의자료만 | [POSTECH-P010](./postech.md#postech-p010) |
+| 학기 미상 | POSTECH | IMEN891E Bayesian Statistics for Data Analysis | 강의자료만 | [POSTECH-P009](./postech.md#postech-p009) |
+| 학기 미상 | POSTECH | IMEN891F Statistical Methods with Sparsity | 강의자료만 | [POSTECH-P011](./postech.md#postech-p011) |
+
+## POSTECH · 산업경영공학과·다학과 (1)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 2025 가을–2026 가을 혼합 | POSTECH | Undergraduate AI Study — Foundation Models·LLM·Deep Learning·Physical AI | 여러 학기·과목 혼합 | [POSTECH-P012](./postech.md#postech-p012) |
+
+## POSTECH · 수학과 (1)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 학기 미상 · 2021년판 | POSTECH | Lecture Notes on Calculus at POSTECH | 강의자료만 | [POSTECH-P014](./postech.md#postech-p014) |
+
+## POSTECH · 전자전기공학과 (4)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 2024 가을 | POSTECH | EECE454 Machine Learning | 과제자료만 | [POSTECH-P034](./postech.md#postech-p034) |
+| 2024 봄 | POSTECH | EECE372 Microprocessor Architecture and Applications | 과제자료만 | [POSTECH-P035](./postech.md#postech-p035) |
+| 학기 미상 · 여러 판본 안내 | POSTECH | EECE233 Signals and Systems | 강의자료만 | [POSTECH-P015](./postech.md#postech-p015) |
+| 학기 미상 | POSTECH | EECE454 Machine Learning — Final-term project | 과제자료만 | [POSTECH-P036](./postech.md#postech-p036) |
+
+## POSTECH · 컴퓨터공학과 (23)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 2026 가을 | POSTECH | CSED490V Foundations of Continuous Computation | 자료 미확인·안내 | [POSTECH-P017](./postech.md#postech-p017) |
+| 2026 가을 | POSTECH | CSED559 Software Vulnerability Analysis and Exploitation | 자료 미확인·안내 | [POSTECH-P019](./postech.md#postech-p019) |
+| 2026 봄 | POSTECH | CSED321 Programming Languages | 강의자료만 | [POSTECH-P001](./postech.md#postech-p001) |
+| 2026 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P005](./postech.md#postech-p005) |
+| 2025 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P006](./postech.md#postech-p006) |
+| 2025 봄 | POSTECH | CSED490V Foundations of Continuous Computation | 자료 미확인·안내 | [POSTECH-P018](./postech.md#postech-p018) |
+| 2024 가을 | POSTECH | CSED332 Software Design | 과제자료만 | [POSTECH-P030](./postech.md#postech-p030) |
+| 2024 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P007](./postech.md#postech-p007) |
+| 2023 가을 | POSTECH | CSED312 운영체제 — Pintos reports | 과제자료만 | [POSTECH-P027](./postech.md#postech-p027) |
+| 2023 가을 | POSTECH | CSED538 Deep Learning — Final project | 과제자료만 | [POSTECH-P028](./postech.md#postech-p028) |
+| 2023 봄 | POSTECH | CSED311 컴퓨터구조 | 과제자료만 | [POSTECH-P025](./postech.md#postech-p025) |
+| 2023 봄 | POSTECH | CSED342 인공지능 | 과제자료만 | [POSTECH-P026](./postech.md#postech-p026) |
+| 2023 봄 | POSTECH | CSED490F Signal Processing — Graph Signal Reconstruction | 과제자료만 | [POSTECH-P037](./postech.md#postech-p037) |
+| 2022 가을 | POSTECH | CSED211 컴퓨터 SW 시스템 개론 | 과제자료만 | [POSTECH-P024](./postech.md#postech-p024) |
+| 2022 봄 | POSTECH | CSED232 객체지향프로그래밍 | 과제자료만 | [POSTECH-P021](./postech.md#postech-p021) |
+| 2022 봄 | POSTECH | CSED233 자료구조 | 과제자료만 | [POSTECH-P022](./postech.md#postech-p022) |
+| 2022 봄 | POSTECH | CSED273 디지털시스템설계 | 과제자료만 | [POSTECH-P023](./postech.md#postech-p023) |
+| 2021 가을 | POSTECH | CSED101 프로그래밍과 문제해결 | 과제자료만 | [POSTECH-P020](./postech.md#postech-p020) |
+| 학기 미상 | POSTECH | CSED105 Introduction to AI — Interactive Labs | 강의자료만 | [POSTECH-P013](./postech.md#postech-p013) |
+| 이전 학기 미상 · 2026 봄 안내 페이지 | POSTECH | CSED233 Data Structure — Previous-semester slides | 강의자료만 | [POSTECH-P016](./postech.md#postech-p016) |
+| 학기 미상 | POSTECH | CSED433 Computational Logic | 과제자료만 | [POSTECH-P032](./postech.md#postech-p032) |
+| 학기 미상 | POSTECH | CSED490F Deep Learning Implementation | 과제자료만 | [POSTECH-P033](./postech.md#postech-p033) |
+| 학기 미상 | POSTECH | CSED515 Machine Learning | 과제자료만 | [POSTECH-P031](./postech.md#postech-p031) |
+
+## POSTECH · 컴퓨터공학과·인공지능대학원 (1)
+
+| 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
+| --- | --- | --- | --- | --- |
+| 2023 가을 | POSTECH | CSED539 / AIGS539 Computer Vision — Final project | 과제자료만 | [POSTECH-P029](./postech.md#postech-p029) |

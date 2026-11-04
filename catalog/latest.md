@@ -13,6 +13,9 @@
 | 2026 가을 | KAIST | EE209 Introduction to Programming and Computer Systems | 과제자료만 | [KAIST-K026](./kaist.md#kaist-k026) |
 | 2026 가을 | KAIST | IS50601/IS561 Binary Code Analysis and Secure Software Systems | 강의자료만 | [KAIST-K018](./kaist.md#kaist-k018) |
 | 2026 가을 (README 기준) | KAIST | Introduction to Agentic AI | 강의자료만 | [KAIST-K031](./kaist.md#kaist-k031) |
+| 2026 가을 | POSTECH | CSED490V Foundations of Continuous Computation | 자료 미확인·안내 | [POSTECH-P017](./postech.md#postech-p017) |
+| 2026 가을 | POSTECH | CSED559 Software Vulnerability Analysis and Exploitation | 자료 미확인·안내 | [POSTECH-P019](./postech.md#postech-p019) |
+| 2026 가을 | POSTECH | IMEN891K / IDSC501 / AXGS-501 Data Engineering | 강의·과제 함께 | [POSTECH-P002](./postech.md#postech-p002) |
 | 2026 가을 | SNU | 기계학습개론 | 강의자료만 | [SNU-C002](./snu.md#snu-c002) |
 | 2026 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C003](./snu.md#snu-c003) |
 | 2026 가을 | SNU | 운영체제 | 과제자료만 | [SNU-C004](./snu.md#snu-c004) |
@@ -26,6 +29,9 @@
 | 2026 봄 | KAIST | CS479 Machine Learning for 3D Data | 강의·과제 함께 | [KAIST-K002](./kaist.md#kaist-k002) |
 | 2026 봄 | KAIST | CS492 Algorithms for NP-hard Problems | 강의자료만 | [KAIST-K030](./kaist.md#kaist-k030) |
 | 2026 봄 | KAIST | EE478 융합적 로봇공학 관련 | 과제자료만 | [KAIST-K034](./kaist.md#kaist-k034) |
+| 2026 봄 | POSTECH | CSED321 Programming Languages | 강의자료만 | [POSTECH-P001](./postech.md#postech-p001) |
+| 2026 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P005](./postech.md#postech-p005) |
+| 2026 봄 | POSTECH | IMEN574 / IDSC574 Programming for AX | 강의·과제 함께 | [POSTECH-P003](./postech.md#postech-p003) |
 | 2026 봄 | SNU | 강화학습 실습 | 강의자료만 | [SNU-C015](./snu.md#snu-c015) |
 | 2026 봄 | SNU | 기초회로이론 및 실험 | 과제자료만 | [SNU-C010](./snu.md#snu-c010) |
 | 2026 봄 | SNU | 데이터마이닝 — 스타벅스 입점 예측 | 과제자료만 | [SNU-C090](./snu.md#snu-c090) |
@@ -41,6 +47,7 @@
 | 2025 가을 | KAIST | CS40008 Computer Science Project | 강의자료만 | [KAIST-K021](./kaist.md#kaist-k021) |
 | 2025 가을 | KAIST | CS492(C) Diffusion and Flow Models | 강의·과제 함께 | [KAIST-K003](./kaist.md#kaist-k003) |
 | 2025 가을 | KAIST | IS50601/IS561 Binary Code Analysis and Secure Software Systems | 강의자료만 | [KAIST-K017](./kaist.md#kaist-k017) |
+| 2025 가을 | POSTECH | IMEN891K / IDSC501 Data Engineering | 강의·과제 함께 | [POSTECH-P004](./postech.md#postech-p004) |
 | 2025 가을 | SNU | 딥러닝의 통계적 이해 | 강의자료만 | [SNU-C025](./snu.md#snu-c025) |
 | 2025 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C021](./snu.md#snu-c021) |
 | 2025 가을 | SNU | 수학적 알고리즘 2 — 알고리즘·최적화 설계와 분석 | 강의·과제 함께 | [SNU-C020](./snu.md#snu-c020) |
@@ -49,6 +56,8 @@
 | 2025 가을 | SNU | 확률론 2 | 강의자료만 | [SNU-C024](./snu.md#snu-c024) |
 | 2025 봄 | KAIST | CS20200/CS220 Programming Principles | 강의자료만 | [KAIST-K020](./kaist.md#kaist-k020) |
 | 2025 봄 | KAIST | CS479 Machine Learning for 3D Data | 강의·과제 함께 | [KAIST-K004](./kaist.md#kaist-k004) |
+| 2025 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P006](./postech.md#postech-p006) |
+| 2025 봄 | POSTECH | CSED490V Foundations of Continuous Computation | 자료 미확인·안내 | [POSTECH-P018](./postech.md#postech-p018) |
 | 2025 봄 | SNU | 3D 컴퓨터비전 | 과제자료만 | [SNU-C028](./snu.md#snu-c028) |
 | 2025 봄 | SNU | 고급컴파일러 | 과제자료만 | [SNU-C027](./snu.md#snu-c027) |
 | 2025 봄 | SNU | 대수학 3 | 강의자료만 | [SNU-C026](./snu.md#snu-c026) |
@@ -60,6 +69,8 @@
 | 2024 가을 | KAIST | EE309 Advanced Programming Techniques for EE | 강의·과제 함께 | [KAIST-K025](./kaist.md#kaist-k025) |
 | 2024 가을 | KAIST | IE539 Convex Optimization | 강의·과제 함께 | [KAIST-K010](./kaist.md#kaist-k010) |
 | 2024 가을 | KAIST | IS50601/IS561 Binary Code Analysis and Secure Software Systems | 자료 미확인·안내 | [KAIST-K016](./kaist.md#kaist-k016) |
+| 2024 가을 | POSTECH | CSED332 Software Design | 과제자료만 | [POSTECH-P030](./postech.md#postech-p030) |
+| 2024 가을 | POSTECH | EECE454 Machine Learning | 과제자료만 | [POSTECH-P034](./postech.md#postech-p034) |
 | 2024 가을 | SNU | 대수학 2 | 강의자료만 | [SNU-C033](./snu.md#snu-c033) |
 | 2024 가을 | SNU | 딥러닝의 통계적 이해 | 강의자료만 | [SNU-C037](./snu.md#snu-c037) |
 | 2024 가을 | SNU | 자료구조 | 강의·과제 함께 | [SNU-C034](./snu.md#snu-c034) |
@@ -69,6 +80,8 @@
 | 2024 봄 | KAIST | CS580 Computer Graphics | 강의·과제 함께 | [KAIST-K006](./kaist.md#kaist-k006) |
 | 2024 봄 (표기 충돌) | KAIST | DS801 Advanced Optimization for Data Science | 강의·과제 함께 | [KAIST-K014](./kaist.md#kaist-k014) |
 | 2024 봄 | KAIST | IE331 OR: Optimization | 강의자료만 | [KAIST-K008](./kaist.md#kaist-k008) |
+| 2024 봄 | POSTECH | CSED415 Computer Security | 강의자료만 | [POSTECH-P007](./postech.md#postech-p007) |
+| 2024 봄 | POSTECH | EECE372 Microprocessor Architecture and Applications | 과제자료만 | [POSTECH-P035](./postech.md#postech-p035) |
 | 2024 봄 | SNU | 가환대수 | 강의자료만 | [SNU-C038](./snu.md#snu-c038) |
 | 2024 봄 | SNU | 고급컴파일러 | 과제자료만 | [SNU-C043](./snu.md#snu-c043) |
 | 2024 봄 | SNU | 대수학 1 | 강의자료만 | [SNU-C039](./snu.md#snu-c039) |
@@ -85,6 +98,10 @@
 | 2024 봄 | SNU | 회귀분석 및 실습 | 강의자료만 | [SNU-C051](./snu.md#snu-c051) |
 | 2023 가을 | KAIST | CS479 Machine Learning for 3D Data | 강의·과제 함께 | [KAIST-K007](./kaist.md#kaist-k007) |
 | 2023 가을 | KAIST | IE539 Convex Optimization | 강의·과제 함께 | [KAIST-K011](./kaist.md#kaist-k011) |
+| 2023 가을 | POSTECH | CSED312 운영체제 — Pintos reports | 과제자료만 | [POSTECH-P027](./postech.md#postech-p027) |
+| 2023 가을 | POSTECH | CSED538 Deep Learning — Final project | 과제자료만 | [POSTECH-P028](./postech.md#postech-p028) |
+| 2023 가을 | POSTECH | CSED539 / AIGS539 Computer Vision — Final project | 과제자료만 | [POSTECH-P029](./postech.md#postech-p029) |
+| 2023 가을 | POSTECH | IMEN891I Mathematics for Data Science | 강의자료만 | [POSTECH-P008](./postech.md#postech-p008) |
 | 2023 가을 | SNU | 고급통계계산 | 강의·과제 함께 | [SNU-C055](./snu.md#snu-c055) |
 | 2023 가을 | SNU | 딥러닝 | 과제자료만 | [SNU-C053](./snu.md#snu-c053) |
 | 2023 가을 | SNU | 딥러닝의 통계적 이해 | 자료 미확인·안내 | [SNU-C124](./snu.md#snu-c124) |
@@ -93,12 +110,19 @@
 | 2023 가을 | SNU | 확장형 고성능 컴퓨팅 | 과제자료만 | [SNU-C054](./snu.md#snu-c054) |
 | 2023 봄 | KAIST | IE331 OR: Optimization | 강의·과제 함께 | [KAIST-K009](./kaist.md#kaist-k009) |
 | 2023 봄 | KAIST | IE631 Integer Programming | 강의자료만 | [KAIST-K013](./kaist.md#kaist-k013) |
+| 2023 봄 | POSTECH | CSED311 컴퓨터구조 | 과제자료만 | [POSTECH-P025](./postech.md#postech-p025) |
+| 2023 봄 | POSTECH | CSED342 인공지능 | 과제자료만 | [POSTECH-P026](./postech.md#postech-p026) |
+| 2023 봄 | POSTECH | CSED490F Signal Processing — Graph Signal Reconstruction | 과제자료만 | [POSTECH-P037](./postech.md#postech-p037) |
 | 2023 봄 | SNU | 통계계산 | 강의자료만 | [SNU-C057](./snu.md#snu-c057) |
 | 2022 가을 | KAIST | IE539 Convex Optimization | 강의·과제 함께 | [KAIST-K012](./kaist.md#kaist-k012) |
+| 2022 가을 | POSTECH | CSED211 컴퓨터 SW 시스템 개론 | 과제자료만 | [POSTECH-P024](./postech.md#postech-p024) |
 | 2022 가을 | SNU | 데이터통신망의 기초 | 과제자료만 | [SNU-C060](./snu.md#snu-c060) |
 | 2022 가을 | SNU | 시스템프로그래밍 | 과제자료만 | [SNU-C061](./snu.md#snu-c061) |
 | 2022 가을 | SNU | 인공신경망 | 강의자료만 | [SNU-C058](./snu.md#snu-c058) |
 | 2022 가을 | SNU | 최적화의 수학적 이론 및 계산 | 강의·과제 함께 | [SNU-C059](./snu.md#snu-c059) |
+| 2022 봄 | POSTECH | CSED232 객체지향프로그래밍 | 과제자료만 | [POSTECH-P021](./postech.md#postech-p021) |
+| 2022 봄 | POSTECH | CSED233 자료구조 | 과제자료만 | [POSTECH-P022](./postech.md#postech-p022) |
+| 2022 봄 | POSTECH | CSED273 디지털시스템설계 | 과제자료만 | [POSTECH-P023](./postech.md#postech-p023) |
 | 2022 봄 | SNU | 기계학습 기초 및 전기정보 응용 | 과제자료만 | [SNU-C063](./snu.md#snu-c063) |
 | 2022 봄 | SNU | 심층신경망의 수학적 극한 | 과제자료만 | [SNU-C062](./snu.md#snu-c062) |
 | 2022 봄 | SNU | 운영체제의 기초 | 과제자료만 | [SNU-C064](./snu.md#snu-c064) |
@@ -107,6 +131,7 @@
 | 2021 가을 | KAIST | CS300 Introduction to Algorithms | 강의자료만 | [KAIST-K029](./kaist.md#kaist-k029) |
 | 2021 가을 | KAIST | CS492(A) Machine Learning for Computer Vision | 과제자료만 | [KAIST-K046](./kaist.md#kaist-k046) |
 | 2021 가을 (관련 파일 기준) | KAIST | MAS473 Introduction to AI with Mathematics | 강의·과제 함께 | [KAIST-K040](./kaist.md#kaist-k040) |
+| 2021 가을 | POSTECH | CSED101 프로그래밍과 문제해결 | 과제자료만 | [POSTECH-P020](./postech.md#postech-p020) |
 | 2021 가을 | SNU | 전산통계 및 실험 | 강의·과제 함께 | [SNU-C067](./snu.md#snu-c067) |
 | 2021 가을 | SNU | 컴파일러의 기초 | 과제자료만 | [SNU-C065](./snu.md#snu-c065) |
 | 2021 가을 | SNU | 컴퓨터조직론 | 과제자료만 | [SNU-C066](./snu.md#snu-c066) |
@@ -154,6 +179,18 @@
 | 학기 미상 | KAIST | MAS311 현대대수학 I | 강의자료만 | [KAIST-K052](./kaist.md#kaist-k052) |
 | 학기 미상 | KAIST | MAS312(dropped) 현대대수학 II (중도 정리본) | 강의자료만 | [KAIST-K053](./kaist.md#kaist-k053) |
 | 학기 미상 | KAIST | MAS331 위상수학 | 강의자료만 | [KAIST-K054](./kaist.md#kaist-k054) |
+| 학기 미상 | POSTECH | CSED105 Introduction to AI — Interactive Labs | 강의자료만 | [POSTECH-P013](./postech.md#postech-p013) |
+| 이전 학기 미상 · 2026 봄 안내 페이지 | POSTECH | CSED233 Data Structure — Previous-semester slides | 강의자료만 | [POSTECH-P016](./postech.md#postech-p016) |
+| 학기 미상 | POSTECH | CSED433 Computational Logic | 과제자료만 | [POSTECH-P032](./postech.md#postech-p032) |
+| 학기 미상 | POSTECH | CSED490F Deep Learning Implementation | 과제자료만 | [POSTECH-P033](./postech.md#postech-p033) |
+| 학기 미상 | POSTECH | CSED515 Machine Learning | 과제자료만 | [POSTECH-P031](./postech.md#postech-p031) |
+| 학기 미상 · 여러 판본 안내 | POSTECH | EECE233 Signals and Systems | 강의자료만 | [POSTECH-P015](./postech.md#postech-p015) |
+| 학기 미상 | POSTECH | EECE454 Machine Learning — Final-term project | 과제자료만 | [POSTECH-P036](./postech.md#postech-p036) |
+| 학기 미상 | POSTECH | IMEN472 Statistical Data Mining | 강의자료만 | [POSTECH-P010](./postech.md#postech-p010) |
+| 학기 미상 | POSTECH | IMEN891E Bayesian Statistics for Data Analysis | 강의자료만 | [POSTECH-P009](./postech.md#postech-p009) |
+| 학기 미상 | POSTECH | IMEN891F Statistical Methods with Sparsity | 강의자료만 | [POSTECH-P011](./postech.md#postech-p011) |
+| 학기 미상 · 2021년판 | POSTECH | Lecture Notes on Calculus at POSTECH | 강의자료만 | [POSTECH-P014](./postech.md#postech-p014) |
+| 2025 가을–2026 가을 혼합 | POSTECH | Undergraduate AI Study — Foundation Models·LLM·Deep Learning·Physical AI | 여러 학기·과목 혼합 | [POSTECH-P012](./postech.md#postech-p012) |
 | 영상 학기 미확인 | SNU | Xpress 최적화 소프트웨어 실습 | 강의자료만 | [SNU-C101](./snu.md#snu-c101) |
 | 영상 학기 미확인 | SNU | 강화학습 입문 | 강의자료만 | [SNU-C103](./snu.md#snu-c103) |
 | 학기 미확인 | SNU | 고급통계적방법론 | 강의자료만 | [SNU-C114](./snu.md#snu-c114) |

@@ -2,23 +2,26 @@
 
 [첫 화면](../README.md) · [학과별](departments.md) · [최신순 전체](latest.md)
 
-47개 진입점. 일부 강의와 일부 과제 자료가 함께 확인된 항목이다. 문제/뼈대, 프로젝트 지침, 해설만 있는 경우를 각 상세에서 구분한다. 전체 학기 자료 완비 목록이 아니다.
+50개 진입점. 일부 강의와 일부 과제 자료가 함께 확인된 항목이다. 문제/뼈대, 프로젝트 지침, 해설만 있는 경우를 각 상세에서 구분한다. 전체 학기 자료 완비 목록이 아니다.
 
 | 학기 | 학교 | 과목·자료 묶음 | 분류 | 상세 |
 | --- | --- | --- | --- | --- |
 | 2026 가을 | KAIST | AIC313/CS378 생성모델 입문 | 강의·과제 함께 | [KAIST-K001](./kaist.md#kaist-k001) |
 | 2026 가을 | KAIST | CS20002 문제해결기법 | 강의·과제 함께 | [KAIST-K024](./kaist.md#kaist-k024) |
+| 2026 가을 | POSTECH | IMEN891K / IDSC501 / AXGS-501 Data Engineering | 강의·과제 함께 | [POSTECH-P002](./postech.md#postech-p002) |
 | 2026 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C003](./snu.md#snu-c003) |
 | 2026 가을 | SNU | 프로그래밍원리 | 강의·과제 함께 | [SNU-C006](./snu.md#snu-c006) |
 | 2026 가을 | SNU | 프로그램분석 | 강의·과제 함께 | [SNU-C007](./snu.md#snu-c007) |
 | 2026 봄 | KAIST | CS20200/CS220 Programming Principles | 강의·과제 함께 | [KAIST-K015](./kaist.md#kaist-k015) |
 | 2026 봄 | KAIST | CS479 Machine Learning for 3D Data | 강의·과제 함께 | [KAIST-K002](./kaist.md#kaist-k002) |
+| 2026 봄 | POSTECH | IMEN574 / IDSC574 Programming for AX | 강의·과제 함께 | [POSTECH-P003](./postech.md#postech-p003) |
 | 2026 봄 | SNU | 소프트웨어 개발의 원리와 실습 | 강의·과제 함께 | [SNU-C011](./snu.md#snu-c011) |
 | 2026 봄 | SNU | 최적화의 수학적 이론 및 계산 | 강의·과제 함께 | [SNU-C009](./snu.md#snu-c009) |
 | 2026 봄 | SNU | 컴퓨터그래픽스 특강 — Computational Imaging | 강의·과제 함께 | [SNU-C013](./snu.md#snu-c013) |
 | 2026 봄 | SNU | 통계계산 | 강의·과제 함께 | [SNU-C018](./snu.md#snu-c018) |
 | 2026 봄 | SNU | 프로그래밍언어 | 강의·과제 함께 | [SNU-C014](./snu.md#snu-c014) |
 | 2025 가을 | KAIST | CS492(C) Diffusion and Flow Models | 강의·과제 함께 | [KAIST-K003](./kaist.md#kaist-k003) |
+| 2025 가을 | POSTECH | IMEN891K / IDSC501 Data Engineering | 강의·과제 함께 | [POSTECH-P004](./postech.md#postech-p004) |
 | 2025 가을 | SNU | 소프트웨어 엄밀 검증 | 강의·과제 함께 | [SNU-C021](./snu.md#snu-c021) |
 | 2025 가을 | SNU | 수학적 알고리즘 2 — 알고리즘·최적화 설계와 분석 | 강의·과제 함께 | [SNU-C020](./snu.md#snu-c020) |
 | 2025 가을 | SNU | 프로그래밍원리 | 강의·과제 함께 | [SNU-C023](./snu.md#snu-c023) |
