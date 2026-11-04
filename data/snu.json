@@ -1,0 +1,5004 @@
+[
+  {
+    "department": "컴퓨터공학부",
+    "course": "기계학습개론",
+    "provider": "최수연",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1Lwfr41ezkGjJeCKumLeK5L3_igjOB4b7/view?usp=sharing"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1ss6KThCLWqy7hDvB3gdzYJkd9cDqE3il/view?usp=sharing"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "HW1",
+        "url": "https://drive.google.com/file/d/1uR4nxwzCgtDTa75_x_Nj7SEiRzN6e_dY/view?usp=sharing"
+      },
+      {
+        "label": "HW1 Sol.",
+        "url": "https://drive.google.com/file/d/10JkahGiWbeIh1_oHYzqzrqBk30ZRoLJC/view?usp=sharing"
+      }
+    ],
+    "classification_reason": "시간표에 강의 슬라이드와 HW1·2/해설 링크가 함께 있다. 개별 Drive 파일 다운로드는 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "파일은 Google Drive 연결. 공개 페이지에서 링크 확인, Drive 파일 각각의 비로그인 다운로드는 미검증.",
+    "url": "https://reality.snu.ac.kr/class/machine-learning/",
+    "id": "SNU-C002",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://reality.snu.ac.kr/class/machine-learning/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "시간표에 강의 슬라이드와 HW1·2/해설 링크가 함께 있다. 개별 Drive 파일 다운로드는 미검증."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "소프트웨어 엄밀 검증",
+    "provider": "허충길 / SFlab",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "lectures",
+        "url": "https://github.com/snu-sf-class/sf202602/tree/main/lectures"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "연습1 예시(나머지는 강좌 루트)",
+        "url": "https://github.com/snu-sf-class/sf202602/tree/main/1-basic_induction"
+      }
+    ],
+    "classification_reason": "lectures의 설명 txt/Coq 코드와 1–3번 연습 스켈레톤을 구분해 확인했다.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "제출·채점 서비스 공개 여부와 구분.",
+    "url": "https://github.com/snu-sf-class/sf202602",
+    "id": "SNU-C003",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/sf202602",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "lectures의 설명 txt/Coq 코드와 1–3번 연습 스켈레톤을 구분해 확인했다."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "운영체제",
+    "provider": "김진수 / snu-csl",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/snu-csl/os-pa1"
+      }
+    ],
+    "classification_reason": "xv6 과제 명세·스켈레톤은 확인. 운영체제 이론 강의 슬라이드는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "PA2–4와 xv6-riscv-snu는 전체 목록에 별도 수록. 제출 서버는 별도 제한.",
+    "url": "https://github.com/snu-csl/os-pa1",
+    "id": "SNU-C004",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-csl/os-pa1",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "xv6 과제 명세·스켈레톤은 확인. 운영체제 이론 강의 슬라이드는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "자료구조",
+    "provider": "강유",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 슬라이드의 이전 확인 기록. 이번 재접속 실패로 현재 접근 상태는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "이전 확인·이번 재접속 실패",
+    "notes": "페이지에 공개된 범위만 확인. 모든 과제의 공개를 뜻하지 않음. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
+    "id": "SNU-C005",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://datalab.snu.ac.kr/~ukang/courses/26F-DS/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 슬라이드의 이전 확인 기록. 이번 재접속 실패로 현재 접근 상태는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계이론 2",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "2026 강의 PDF 표지 확인. 과제 메뉴의 hw_2017 폴더가 비어 있어 과제 공개로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "인덱스에 2026 Fall, 표본 WK09–10 PDF 표지에 2026 Fall Semester·SNU·박병욱 명시. WK11–13 파일은 2025 업로드 이력이 있으나 본문 학기 미확인으로 8개 전체를 2026 신규 작성본이라고 하지 않음. 2026 페이지의 과제 메뉴가 연결한 hw_2017 폴더는 비어 있어 2026 공개 과제는 확인되지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-2",
+    "id": "SNU-C008",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "2026 강의 PDF 표지 확인. 과제 메뉴의 hw_2017 폴더가 비어 있어 과제 공개로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그래밍원리",
+    "provider": "허충길 / SFlab",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "lecture-slides",
+        "url": "https://github.com/snu-sf-class/pp202602/tree/main/lecture-slides"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "assignments",
+        "url": "https://github.com/snu-sf-class/pp202602/tree/main/assignments"
+      }
+    ],
+    "classification_reason": "lecture-slides와 assignments 7개 하위 폴더 확인. README는 과제를 성적에 반영하지 않는다고 명시.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README는 이번 학기 과제를 성적에 반영하지 않는다고 명시.",
+    "url": "https://github.com/snu-sf-class/pp202602",
+    "id": "SNU-C006",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/pp202602",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "lecture-slides와 assignments 7개 하위 폴더 확인. README는 과제를 성적에 반영하지 않는다고 명시."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그램분석",
+    "provider": "이광근",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "slides 00",
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/00-overview.pdf"
+      },
+      {
+        "label": "slides 0",
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/0-overview.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homeworks",
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/#숙제 Homeworks"
+      }
+    ],
+    "classification_reason": "이전 확인한 강의·연습·프로젝트 근거로 분류. 이번 재접속 실패, 현재 접근 미확인.",
+    "full_semester_verified": false,
+    "access_state": "이전 확인·이번 재접속 실패",
+    "notes": "페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
+    "id": "SNU-C007",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://kwangkeunyi.snu.ac.kr/4541.664A/26/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "이전 확인한 강의·연습·프로젝트 근거로 분류. 이번 재접속 실패, 현재 접근 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "해석적 정수론",
+    "provider": "황준호(Junho Peter Whang)",
+    "term": "2026 가을",
+    "year": 2026,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jhpwhang.github.io/Analytic_Number_Theory.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "확인한 것은 강의노트다. 노트 안의 예제·연습문제를 제출 과제로 확인한 것은 아니다.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "표지 2026-11-02, 서문에 서울대 2026 가을 학기 명시. 작성 중인 노트. PDF 접근·앞부분 텍스트 확인; 전체 내용 검증은 아님.",
+    "url": "https://jhpwhang.github.io/Analytic_Number_Theory.pdf",
+    "id": "SNU-C001",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 노트",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jhpwhang.github.io/Analytic_Number_Theory.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "확인한 것은 강의노트다. 노트 안의 예제·연습문제를 제출 과제로 확인한 것은 아니다."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부·AI 관련",
+    "course": "강화학습 실습",
+    "provider": "SNU Intelligent Motion Lab",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "Drive 슬라이드 연결과 Lab1–5 설명·실습 코드. 직접 읽은 Lab1 README는 이미 구현된 PI/VI 실행 예제이며 제출 과제·스켈레톤이라는 근거가 없어 과제로 세지 않음. 슬라이드별 다운로드는 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README는 SNU 2026 Spring 강화학습 실습, Lab1–5 루트 폴더 확인. 연구실 소속 근거: https://cse.snu.ac.kr/en/people/faculty/39 (원정담·Intelligent Motion Lab). 컴공 연구실이 제공한 관련 자료로 분류하며 개설학과·학수번호·세부분반을 독립 확정했다는 뜻은 아님. Drive 슬라이드 개별 접근 미검증.",
+    "url": "https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab",
+    "id": "SNU-C015",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "수업용 저장소",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/SNU-IntelligentMotionLab/2026Spring_RL_Lab",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "Drive 슬라이드 연결과 Lab1–5 설명·실습 코드. 직접 읽은 Lab1 README는 이미 구현된 PI/VI 실행 예제이며 제출 과제·스켈레톤이라는 근거가 없어 과제로 세지 않음. 슬라이드별 다운로드는 미검증."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "기초회로이론 및 실험",
+    "provider": "jdyece25-snu / 수강생",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/jdyece25-snu/circuit-theory"
+      }
+    ],
+    "classification_reason": "프로젝트 매뉴얼·실험 과제/예비보고서·여러 연도 시험 사본. 과제 매뉴얼을 이론 강의노트로 중복 계산하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "18쪽 매뉴얼 표지에 2026·서울대 전기정보 명시; 3–6월 2026 일정으로 봄학기 분류(추론). 실험·예비보고서 각각의 연도는 미확인. 문서 안에 2025 잔여 날짜가 있어 일정은 확정 정보로 사용하지 말 것. 시험은 2018·2023–2025 등 혼재. 매뉴얼·실험1·2025 중간고사만 PDF 표본 확인.",
+    "url": "https://github.com/jdyece25-snu/circuit-theory",
+    "id": "SNU-C010",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·보고서·시뮬레이션",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/jdyece25-snu/circuit-theory",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "프로젝트 매뉴얼·실험 과제/예비보고서·여러 연도 시험 사본. 과제 매뉴얼을 이론 강의노트로 중복 계산하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "산업공학 관련(개설학과 미확정)",
+    "course": "데이터마이닝 — 스타벅스 입점 예측",
+    "provider": "학생 프로젝트",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/dootheg0924/datamining_starbucks"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README와 발표 PDF는 서울대 2026-1 데이터마이닝 수업 프로젝트 명시. LikeSNU의 산업공학 406.429와 대응 가능하나 이 저장소에 학수번호·교수명이 없어 개설학과는 확정하지 않음. PDF 17쪽·25쪽 접근과 첫 3쪽 텍스트 확인. 교수자 과제 명세·정답과 구분.",
+    "url": "https://github.com/dootheg0924/datamining_starbucks",
+    "id": "SNU-C090",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현·보고서",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/dootheg0924/datamining_starbucks",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "데이터사이언스 입문 — HW3",
+    "provider": "원중호 표기 / snu-stat 공개 사본",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3"
+      }
+    ],
+    "classification_reason": "HW3 qmd의 문제 지시 확인. 같은 학기 전체 강의노트는 이 저장소에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "qmd에 저자 원중호·서울대 통계학과, 제출마감 2026-06-15. 1학기는 마감일에 근거한 분류. Classroom 생성 사본으로 보이며 수업 전체 공식 배포 저장소라는 뜻은 아님. 과제 전체 학기분은 미확인.",
+    "url": "https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3",
+    "id": "SNU-C016",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "공개 과제 사본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-stat/introduction-to-data-science-2026-hw3-2-DS_26_HW3",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "HW3 qmd의 문제 지시 확인. 같은 학기 전체 강의노트는 이 저장소에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "Lec-15 표지 2026 봄 확인. 과거 자료와 함께 있으며 제출 과제 공개는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "URL·탭 제목에는 2022, 폴더명에는 2021이 남아 있지만 본문과 표본 Lec-15 표지에 2026 Spring·SNU 명시(2026-05-27 주제). 나머지 12개 PDF 표지는 개별 확인하지 않아 13개 전체를 2026 신규 작성본이라고 하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-2022-spring",
+    "id": "SNU-C017",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-2022-spring",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "Lec-15 표지 2026 봄 확인. 과거 자료와 함께 있으며 제출 과제 공개는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "소프트웨어 개발의 원리와 실습",
+    "provider": "허충길 / SFlab",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "slides",
+        "url": "https://github.com/snu-sf-class/swpp202601/tree/main/slides"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "assignments",
+        "url": "https://github.com/snu-sf-class/swpp202601/tree/main/assignments"
+      },
+      {
+        "label": "project",
+        "url": "https://github.com/snu-sf-class/swpp202601/tree/main/project"
+      }
+    ],
+    "classification_reason": "slides와 assignments·project·practice-materials 폴더가 분리되어 있다.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "별도 compiler·interpreter·benchmarks 저장소도 공개. README에는 연도 없이 월·일만 있으며 학기는 저장소명과 교수 강의 인덱스를 함께 사용했다.",
+    "url": "https://github.com/snu-sf-class/swpp202601",
+    "id": "SNU-C011",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/swpp202601",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "slides와 assignments·project·practice-materials 폴더가 분리되어 있다."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "최적화의 수학적 이론 및 계산",
+    "provider": "이다빈 / Dabeen Lee",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "note",
+        "url": "https://dabeenl.github.io/OPT_2026_lecture1_note.pdf"
+      },
+      {
+        "label": "note",
+        "url": "https://dabeenl.github.io/OPT_2026_lecture2_note.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "pdf",
+        "url": "https://dabeenl.github.io/OPT_2026_assignment1.pdf"
+      },
+      {
+        "label": "pdf",
+        "url": "https://dabeenl.github.io/OPT_2026_assignment2.pdf"
+      }
+    ],
+    "classification_reason": "26회 노트 링크와 과제1–3 PDF. 노트1·2/과제1–3 표본을 확인했으며 전체 노트 완비 검증은 아님.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "강의노트 1·2와 과제 1–3 모두 PDF 확인. 강의노트 26개를 모두 다운로드한 것은 아님.",
+    "url": "https://dabeenl.github.io/MNO",
+    "id": "SNU-C009",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://dabeenl.github.io/MNO",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "26회 노트 링크와 과제1–3 PDF. 노트1·2/과제1–3 표본을 확인했으며 전체 노트 완비 검증은 아님."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터구조",
+    "provider": "SNU-ARC",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/SNU-ARC/2026_spring_comarch_PA2"
+      }
+    ],
+    "classification_reason": "PA1–5의 배포 코드 중심. 강의 슬라이드/전체 설명은 일부 eTL 안내여서 공개 강의자료로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "전체 설명·슬라이드의 일부는 eTL에 있음.",
+    "url": "https://github.com/SNU-ARC/2026_spring_comarch_PA2",
+    "id": "SNU-C012",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "수업용 저장소",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/SNU-ARC/2026_spring_comarch_PA2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "PA1–5의 배포 코드 중심. 강의 슬라이드/전체 설명은 일부 eTL 안내여서 공개 강의자료로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터그래픽스 특강 — Computational Imaging",
+    "provider": "최수연",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1BK2yICVqJWmgVac-5-uo6DGXZa6f6j1O/view?usp=sharing"
+      },
+      {
+        "label": "slides",
+        "url": "https://drive.google.com/file/d/1Vl5AkKggEpFi1clTZfTBEbYlgzjs-4NH/view?usp=sharing"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://reality.snu.ac.kr/class/computational-imaging/"
+      }
+    ],
+    "classification_reason": "공개 시간표의 강의·HW/해설 링크를 함께 확인. 개별 Drive 다운로드 및 모든 HW 세부 파일은 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 일정표의 Drive 파일 링크 확인. Drive 파일별 비로그인 다운로드는 미검증. 외부 대학 참고강의와 SNU 자료 구분.",
+    "url": "https://reality.snu.ac.kr/class/computational-imaging/",
+    "id": "SNU-C013",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://reality.snu.ac.kr/class/computational-imaging/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "공개 시간표의 강의·HW/해설 링크를 함께 확인. 개별 Drive 다운로드 및 모든 HW 세부 파일은 미검증."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계계산",
+    "provider": "원중호",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://won-j.github.io/M1399_000100-2026spring/"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://won-j.github.io/M1399_000100-2026spring/homework/hw01/hw1.html"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://won-j.github.io/M1399_000100-2026spring/homework/hw02/hw2.html"
+      }
+    ],
+    "classification_reason": "HTML/ipynb 강의노트와 HW1–3/qmd. HW4는 일정의 텍스트만 있어 확보한 과제로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "HW4는 일정의 텍스트만 보이며 공개 파일 링크를 확인하지 못함.",
+    "url": "https://won-j.github.io/M1399_000100-2026spring/",
+    "id": "SNU-C018",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_000100-2026spring/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "HTML/ipynb 강의노트와 HW1–3/qmd. HW4는 일정의 텍스트만 있어 확보한 과제로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계적 기계학습",
+    "provider": "김지수",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/M1399.000500/2026S/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "PDF 강의자료. 수업 예제·일반 실습은 제출 과제라고 단정하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수 Teaching의 2026 연결, 강의계획서·intro PDF 확인. minimax.pdf는 404. 공개 과제 원문은 확인하지 못함.",
+    "url": "https://jkim82133.github.io/M1399.000500/2026S/",
+    "id": "SNU-C019",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/M1399.000500/2026S/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "PDF 강의자료. 수업 예제·일반 실습은 제출 과제라고 단정하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그래밍언어",
+    "provider": "이광근",
+    "term": "2026 봄",
+    "year": 2026,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "Notes on Programming\n        Languages",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/11/pl-book-draft.pdf"
+      },
+      {
+        "label": "Slides & Resources",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/#progress"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "HW1: due 3/14 24:00.",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/hw1.pdf"
+      },
+      {
+        "label": "HW2: due 3/21 24:00.",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/hw2.pdf"
+      }
+    ],
+    "classification_reason": "이전 확인한 강의자료·HW PDF·코드 연결 기준. 이번 재접속 실패로 현재 접근 미확인.",
+    "full_semester_verified": false,
+    "access_state": "이전 확인·이번 재접속 실패",
+    "notes": "페이지·표본 파일 확인. 이번 재접속은 연결 종료·웹 도구 접근 오류로 실패. 이전 조사 근거는 보존하나 현재 직접 접근 가능성은 재확인하지 못함.",
+    "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
+    "id": "SNU-C014",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.310/26/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "이전 확인한 강의자료·HW PDF·코드 연결 기준. 이번 재접속 실패로 현재 접근 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과·AI 협동과정",
+    "course": "딥러닝의 통계적 이해",
+    "provider": "김지수",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/M1399.000400/2025F/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수 Teaching 2025 연결과 학기별 강의계획서. intro·optimization_mf PDF 확인. 과제는 평가 안내와 원문 공개를 구분.",
+    "url": "https://jkim82133.github.io/M1399.000400/2025F/",
+    "id": "SNU-C025",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/M1399.000400/2025F/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "소프트웨어 엄밀 검증",
+    "provider": "허충길 / SFlab",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "CoqTheory.md",
+        "url": "https://github.com/snu-sf-class/sf202501/blob/main/CoqTheory.md"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "연습1 예시(나머지는 강좌 루트)",
+        "url": "https://github.com/snu-sf-class/sf202501/tree/main/1-basic_induction"
+      }
+    ],
+    "classification_reason": "CoqTheory.md가 실제 평가/타이핑 규칙 노트이며 1–4번 Coq 연습 폴더도 있다. 미채점·자율학습용 연습문제/스켈레톤 자료로 포함. 외부 교재 링크만을 강의자료로 센 것이 아님.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "저장소 이름 끝의 01과 달리 README 제목은 2025 Fall. 학기는 제목 기준. 연습은 자율 학습용·미채점 안내.",
+    "url": "https://github.com/snu-sf-class/sf202501",
+    "id": "SNU-C021",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/sf202501",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "CoqTheory.md가 실제 평가/타이핑 규칙 노트이며 1–4번 Coq 연습 폴더도 있다. 미채점·자율학습용 연습문제/스켈레톤 자료로 포함. 외부 교재 링크만을 강의자료로 센 것이 아님."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "수학적 알고리즘 2 — 알고리즘·최적화 설계와 분석",
+    "provider": "이다빈 / Dabeen Lee",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "note",
+        "url": "https://dabeenl.github.io/MathAlgo2_2025_lecture1_note.pdf"
+      },
+      {
+        "label": "note",
+        "url": "https://dabeenl.github.io/MathAlgo2_2025_lecture2_note.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "pdf",
+        "url": "https://dabeenl.github.io/MathAlgo2_2025_assignment1.pdf"
+      },
+      {
+        "label": "pdf",
+        "url": "https://dabeenl.github.io/MathAlgo2_2025_assignment2.pdf"
+      }
+    ],
+    "classification_reason": "노트26회 링크·과제1–4·프로젝트. 노트 일부와 과제 표본을 확인한 범위다.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "노트 1·2, 과제 1–4, 프로젝트 PDF 확인. Teaching에는 2026 가을 새 부제가 있으나 이 실제 연결 페이지의 본문·파일은 2025 학기이므로 2025로 분류.",
+    "url": "https://dabeenl.github.io/MA1407",
+    "id": "SNU-C020",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://dabeenl.github.io/MA1407",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "노트26회 링크·과제1–4·프로젝트. 노트 일부와 과제 표본을 확인한 범위다."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그래밍언어 이론 특강",
+    "provider": "이광근",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "slides 0.0",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/0-0.pdf"
+      },
+      {
+        "label": "slides 0.1",
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/0-1.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "공개 슬라이드·계획서. 제출 과제 문제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "페이지의 학수번호 표기는 4541.510. URL의 번호와 다름.",
+    "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/",
+    "id": "SNU-C022",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://kwangkeunyi.snu.ac.kr/4190.510/25/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "공개 슬라이드·계획서. 제출 과제 문제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그래밍원리",
+    "provider": "허충길 / SFlab",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "강의 part1",
+        "url": "https://github.com/snu-sf-class/pp202502/blob/main/lecture-part1.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Assignment",
+        "url": "https://github.com/snu-sf-class/pp202502/tree/main/Assignment"
+      }
+    ],
+    "classification_reason": "lecture-part1–4 PDF와 Assignment 폴더의 과제·시험 하위 폴더가 있다. README의 TBD와 실제 파일 존재를 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README 일부 시험 연도 오기가 있어 학기는 제목을 기준으로 기록.",
+    "url": "https://github.com/snu-sf-class/pp202502",
+    "id": "SNU-C023",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/pp202502",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "lecture-part1–4 PDF와 Assignment 폴더의 과제·시험 하위 폴더가 있다. README의 TBD와 실제 파일 존재를 구분."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "확률론 2",
+    "provider": "김지수",
+    "term": "2025 가을",
+    "year": 2025,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/326.516/2025F/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수 Teaching의 2025 연결, syllabus·concentration PDF 확인. 과제 원문 미확인.",
+    "url": "https://jkim82133.github.io/326.516/2025F/",
+    "id": "SNU-C024",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/326.516/2025F/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "3D 컴퓨터비전",
+    "provider": "Yelinz / 수강생",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/Yelinz/snu-coursework/tree/main/3dcv"
+      }
+    ],
+    "classification_reason": "문제 PDF와 학생 코드·보고서. 강의노트는 미확인. 과제 PDF에 강좌 외 공유 제한 문구가 있음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 M1522.007100, 2025 봄 명시; HW0 PDF에 Spring 2025 및 03-25 마감 명시. 과제에 강좌 외 열람·복제·공유 제한 문구가 있는 학생 재게시본. PDF 표본 접근 확인. 코드·답안 정확성은 미검증.",
+    "url": "https://github.com/Yelinz/snu-coursework/tree/main/3dcv",
+    "id": "SNU-C028",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/Yelinz/snu-coursework/tree/main/3dcv",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "문제 PDF와 학생 코드·보고서. 강의노트는 미확인. 과제 PDF에 강좌 외 공유 제한 문구가 있음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "고급컴파일러",
+    "provider": "문수묵 / VMO Lab 및 수강생 사본",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/vmolab/advcmp-2025"
+      }
+    ],
+    "classification_reason": "연구실 프로젝트 뼈대와 학생 fork의 문제 PDF·구현. 컴파일러 이론 강의노트는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "학생 사본 kreatinj/advcmp-2025의 설명에 SNU ECE 430.630 2025 Spring. project1.pdf는 2025-04-29 배포·05-12 마감. 문제 PDF는 학생 사본에 있으며 연구실 원본 트리에는 없음. 2026 개설 정보로 이 자료를 2026으로 바꾸지 않음. 연구실 InstructionCounter는 TODO가 비어 있고 학생 fork에는 카운트 구현이 있다. SCCP PHINode의 ASSIGNMENT 영역도 두 사본을 직접 대조했다. 구현의 정확성·완성도는 미검증.",
+    "url": "https://github.com/vmolab/advcmp-2025",
+    "id": "SNU-C027",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "연구실 코드·학생 보관본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/vmolab/advcmp-2025",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "연구실 프로젝트 뼈대와 학생 fork의 문제 PDF·구현. 컴파일러 이론 강의노트는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "대수학 3",
+    "provider": "황준호(Junho Peter Whang)",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서문에 서울대 2025 봄 명시. PDF 접근·앞부분 텍스트 확인; 전체 내용 검증은 아님.",
+    "url": "https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf",
+    "id": "SNU-C026",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 노트",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jhpwhang.github.io/Algebra_III_Lecture_Notes.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터그래픽스 특강 — Human Motion",
+    "provider": "SNU Movement Research Lab 수업용",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/snumrl/2025_SNU_HumanMotion_HW"
+      }
+    ],
+    "classification_reason": "Human Motion HW1–3 배포 실습 코드. 해당 강좌의 강의노트는 이 과제 저장소에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "HW2·HW3 별도 저장소도 공개. 각 README가 Spring2025 SNU Human Motion 과제라고 명시. 수업 전체 슬라이드·문제 PDF까지 확인한 것은 아님. GitHub 조직 프로필(https://github.com/snumrl)이 Movement Research Lab·mrl.snu.ac.kr로 연결되고, 연구실 홈페이지는 컴공 소속을 명시한다.",
+    "url": "https://github.com/snumrl/2025_SNU_HumanMotion_HW",
+    "id": "SNU-C029",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "수업용 과제 코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snumrl/2025_SNU_HumanMotion_HW",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "Human Motion HW1–3 배포 실습 코드. 해당 강좌의 강의노트는 이 과제 저장소에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터비전",
+    "provider": "Yelinz / 수강생",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/Yelinz/snu-coursework/tree/main/cv"
+      }
+    ],
+    "classification_reason": "HW1–4 문제 PDF·학생 코드. 강의 슬라이드는 이 보관본에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "HW1 PDF에 M1522.001000, Hanbyul Joo, 2025-04-01 배포·04-17 마감 명시. PDF 표본 접근 확인. 코드·답안 정확성은 미검증.",
+    "url": "https://github.com/Yelinz/snu-coursework/tree/main/cv",
+    "id": "SNU-C030",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/Yelinz/snu-coursework/tree/main/cv",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "HW1–4 문제 PDF·학생 코드. 강의 슬라이드는 이 보관본에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계적 기계학습",
+    "provider": "김지수",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/M1399.000500/2025S/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF와 R/Rmd/HTML 실습 예제. 과제라는 지시·공개 문제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "intro·concentration PDF 확인. R·Rmd 파일 전부 다운로드는 미실행.",
+    "url": "https://jkim82133.github.io/M1399.000500/2025S/",
+    "id": "SNU-C032",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/M1399.000500/2025S/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF와 R/Rmd/HTML 실습 예제. 과제라는 지시·공개 문제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그램합성 입문",
+    "provider": "Xiaokang Qiu",
+    "term": "2025 봄",
+    "year": 2025,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "강의 PDF 목록",
+        "url": "https://xkqiu.github.io/SNU-program-synthesis/lectures.html"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "lectures.html의 PDF는 공개. assignments.html은 Classroom 초대 두 개뿐이며 문제/코드 공개는 미확인. 프로젝트 페이지는 발표 일정·발표시간 안내이므로 과제 문제로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서울대 2025 봄 강좌 명시. 컴공 관련 주제로 분류하며 개설학과는 독립 확정하지 못함. 개별 파일 전체 다운로드 미실행.",
+    "url": "https://xkqiu.github.io/SNU-program-synthesis/",
+    "id": "SNU-C031",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://xkqiu.github.io/SNU-program-synthesis/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "lectures.html의 PDF는 공개. assignments.html은 Classroom 초대 두 개뿐이며 문제/코드 공개는 미확인. 프로젝트 페이지는 발표 일정·발표시간 안내이므로 과제 문제로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "대수학 2",
+    "provider": "황준호(Junho Peter Whang)",
+    "term": "2024 가을",
+    "year": 2024,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서문에 서울대 2024 가을 명시. PDF 접근·앞부분 텍스트 확인; 전체 내용 검증은 아님.",
+    "url": "https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf",
+    "id": "SNU-C033",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 노트",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jhpwhang.github.io/Algebra_II_Lecture_Notes.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과·AI 협동과정",
+    "course": "딥러닝의 통계적 이해",
+    "provider": "김지수",
+    "term": "2024 가을",
+    "year": 2024,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/M1399.000400/2024F/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF·별도 Python/TensorFlow/PyTorch 실습. 일반 실습을 제출 과제로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "실습 lab.html 연결. 노트북 2개 nbformat4 JSON 확인, 실행 안 함. 실습 슬라이드 파일명은 DL_lab_2023.pdf이므로 모든 파일이 2024 신규 제작물이라는 뜻은 아님.",
+    "url": "https://jkim82133.github.io/M1399.000400/2024F/",
+    "id": "SNU-C037",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/M1399.000400/2024F/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF·별도 Python/TensorFlow/PyTorch 실습. 일반 실습을 제출 과제로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "자료구조",
+    "provider": "이병영 / CompSec",
+    "term": "2024 가을",
+    "year": 2024,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "강의 시간표·슬라이드",
+        "url": "https://compsec.snu.ac.kr/class/data-structure/sched"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Labs",
+        "url": "https://compsec.snu.ac.kr/class/data-structure/labs"
+      }
+    ],
+    "classification_reason": "sched의 슬라이드와 Labs의 데이터구조 구현 과제 설명. 제출 서버·개별 배포 코드 전체는 별도 제한일 수 있음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "입문 PDF는 웹 도구로 17쪽 확인. 실습 제출 서버는 서울대 이메일 인증 필요.",
+    "url": "https://compsec.snu.ac.kr/class/data-structure/",
+    "id": "SNU-C034",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://compsec.snu.ac.kr/class/data-structure/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "sched의 슬라이드와 Labs의 데이터구조 구현 과제 설명. 제출 서버·개별 배포 코드 전체는 별도 제한일 수 있음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "최적화기법",
+    "provider": "학생 구현",
+    "term": "2024 가을",
+    "year": 2024,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.709A. README만으로 원 소속을 독립 확정하지 않고 작성자의 ECE 과제 모음 맥락으로 분류.",
+    "url": "https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2",
+    "id": "SNU-C035",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/OptimizationMethods-2024-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "프로그래밍원리",
+    "provider": "허충길 / SFlab",
+    "term": "2024 가을",
+    "year": 2024,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "강의 part1",
+        "url": "https://github.com/snu-sf-class/pp202402/blob/main/lecture-part1.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF는 있으나 과제 Issues는 배포 공지다. Assignment0 지시를 수강생 eTL 등록 메일로 보냈다고 명시; 공개 문제/코드는 확인하지 못함.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README의 과제 0–4 공지 링크 확인. 과제 스켈레톤 전부 공개 여부와 구분.",
+    "url": "https://github.com/snu-sf-class/pp202402",
+    "id": "SNU-C036",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/pp202402",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF는 있으나 과제 Issues는 배포 공지다. Assignment0 지시를 수강생 eTL 등록 메일로 보냈다고 명시; 공개 문제/코드는 확인하지 못함."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "가환대수",
+    "provider": "황준호(Junho Peter Whang)",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서문에 서울대 2022·2024 봄 강의 명시. 최신 해당 학기인 2024 봄에 배치한 공용 노트. PDF 접근·앞부분 텍스트 확인; 전체 내용 검증은 아님.",
+    "url": "https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf",
+    "id": "SNU-C038",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 노트",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jhpwhang.github.io/Commutative_Algebra_Lecture_Notes.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "고급컴파일러",
+    "provider": "문수묵 / VMO Lab",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/vmolab/advcmp-2024"
+      }
+    ],
+    "classification_reason": "Project0–3 문제 문서·배포 코드. 이론 강의노트는 이 저장소에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 교수·SNU ECE·2024와 5–6월 마감 명시. doc/project0–3.pdf 트리 확인. 이번에 PDF 본문 전체 검토는 미실행.",
+    "url": "https://github.com/vmolab/advcmp-2024",
+    "id": "SNU-C043",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "연구실 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/vmolab/advcmp-2024",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "Project0–3 문제 문서·배포 코드. 이론 강의노트는 이 저장소에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "대수학 1",
+    "provider": "황준호(Junho Peter Whang)",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서문에 서울대 2024 봄 명시. PDF 접근·앞부분 텍스트 확인; 전체 내용 검증은 아님.",
+    "url": "https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf",
+    "id": "SNU-C039",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 노트",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jhpwhang.github.io/Algebra_I_Lecture_Notes.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "데이터베이스",
+    "provider": "이상구 수업 / 학생 구현",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/snjlee58/Database-SNU2024"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 SNU CSE M1522.001800 명시.",
+    "url": "https://github.com/snjlee58/Database-SNU2024",
+    "id": "SNU-C044",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snjlee58/Database-SNU2024",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "데이터사이언스 입문",
+    "provider": "원중호",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "slides",
+        "url": "https://won-j.github.io/M1399_001000-2024spring/mdsr/ch01-intro_slides.html"
+      },
+      {
+        "label": "slides",
+        "url": "https://won-j.github.io/M1399_001000-2024spring/mdsr/ch02-dataviz_slides.html"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "HTML 노트·슬라이드. 해당 학기 공개 숙제 문제는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "이 페이지에서 과제 원문은 확인하지 못함.",
+    "url": "https://won-j.github.io/M1399_001000-2024spring/",
+    "id": "SNU-C049",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_001000-2024spring/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "HTML 노트·슬라이드. 해당 학기 공개 숙제 문제는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "생성AI와 기초모델",
+    "provider": "Ernest K. Ryu",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://ernestryu.com/courses/FM.html"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://ernestryu.com/courses/FM/hw1.pdf"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://ernestryu.com/courses/FM/hw2.pdf"
+      }
+    ],
+    "classification_reason": "강의 슬라이드/코드와 숙제1–3의 공개 링크를 확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "수리과학부 과거 강의. AI 협동과정 개설로 단정하지 않음.",
+    "url": "https://ernestryu.com/courses/FM.html",
+    "id": "SNU-C040",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "당시 서울대 강의",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://ernestryu.com/courses/FM.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 슬라이드/코드와 숙제1–3의 공개 링크를 확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "소프트웨어 개발의 원리와 실습",
+    "provider": "허충길 / SFlab",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "lecture-slides",
+        "url": "https://github.com/snu-sf-class/swpp202401/tree/main/lecture-slides"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제·실습",
+        "url": "https://github.com/snu-sf-class/swpp202401/tree/main/practice-materials"
+      },
+      {
+        "label": "project",
+        "url": "https://github.com/snu-sf-class/swpp202401/tree/main/project"
+      }
+    ],
+    "classification_reason": "lecture-slides와 practice-materials의 과제/프로젝트. eTL 제출 주소가 있어도 공개 과제 파일은 별도로 존재.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수자 강의 인덱스·README·루트 파일 목록 대조. README에는 연도 없이 월·일만 있으며 학기는 저장소명과 교수 강의 인덱스를 함께 사용했다.",
+    "url": "https://github.com/snu-sf-class/swpp202401",
+    "id": "SNU-C045",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/swpp202401",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "lecture-slides와 practice-materials의 과제/프로젝트. eTL 제출 주소가 있어도 공개 과제 파일은 별도로 존재."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "소프트웨어 엄밀 검증",
+    "provider": "허충길 / SFlab",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Coq 수업 코드",
+        "url": "https://github.com/snu-sf-class/sf202401/tree/main/class"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "class/의 Coq 수업 코드 공개. 과제0–6 공지·범위는 있으나 실제 숙제 배포는 로그인 Homework Repo를 안내하므로 공개 과제 확보로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README는 2024 Spring 명시. 일부 배포·채점은 Classroom/eTL이라 모든 과제 공개를 의미하지 않음.",
+    "url": "https://github.com/snu-sf-class/sf202401",
+    "id": "SNU-C046",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자·조교 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/snu-sf-class/sf202401",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "class/의 Coq 수업 코드 공개. 과제0–6 공지·범위는 있으나 실제 숙제 배포는 로그인 Homework Repo를 안내하므로 공개 과제 확보로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "수학적 기계학습이론",
+    "provider": "Ernest K. Ryu",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://ernestryu.com/courses/MLT.html"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://ernestryu.com/courses/MLT/hw1.pdf"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://ernestryu.com/courses/MLT/hw2.pdf"
+      }
+    ],
+    "classification_reason": "강의 PDF와 숙제1–7의 공개 링크를 확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "코딩 과제가 없는 이론 과목. 숙제1 PDF 확인.",
+    "url": "https://ernestryu.com/courses/MLT.html",
+    "id": "SNU-C041",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "당시 서울대 강의",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://ernestryu.com/courses/MLT.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF와 숙제1–7의 공개 링크를 확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "시스템프로그래밍",
+    "provider": "SNU-ARC",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/SNU-ARC/2024_spring_sysprog_Lab3"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "Lab1은 README가 없지만 C 파일 목록은 확인.",
+    "url": "https://github.com/SNU-ARC/2024_spring_sysprog_Lab3",
+    "id": "SNU-C047",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "수업용 저장소",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/SNU-ARC/2024_spring_sysprog_Lab3",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "심층신경망의 수학적 기초",
+    "provider": "Ernest K. Ryu",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "Jupyter notebook code",
+        "url": "https://ernestryu.com/courses/DNN/Python Lectures.ipynb"
+      },
+      {
+        "label": "Jupyter notebook code",
+        "url": "https://ernestryu.com/courses/DNN/Python Lecture 2.ipynb"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://ernestryu.com/courses/DNN/hw1.pdf"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://ernestryu.com/courses/DNN/hw2.pdf"
+      }
+    ],
+    "classification_reason": "강의노트·설명 코드와 숙제1–12. 과거 시험 예시는 숙제 수에 합산하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "당시 서울대 강의. 숙제1 PDF 확인. Python Lectures.ipynb는 Content-Type이 HTML이지만 실제 nbformat4 JSON·156셀을 확인했으며 실행하지 않았다.",
+    "url": "https://ernestryu.com/courses/deep_learning.html",
+    "id": "SNU-C042",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "당시 서울대 강의",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://ernestryu.com/courses/deep_learning.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의노트·설명 코드와 숙제1–12. 과거 시험 예시는 숙제 수에 합산하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터프로그래밍",
+    "provider": "조교 코드베이스",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr"
+      }
+    ],
+    "classification_reason": "학생 보관본의 Lab·Assignment·일부 시험 문제. 이론 강의 슬라이드는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 TA CodeBase라고 명시. 공식 학과 페이지의 연결 관계는 미확인.",
+    "url": "https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr",
+    "id": "SNU-C048",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "조교 공개본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/haeramkeem/cp.spring.2024.cse.snu.ac.kr",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 보관본의 Lab·Assignment·일부 시험 문제. 이론 강의 슬라이드는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계적 기계학습",
+    "provider": "김지수",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/M1399.000500/2024S/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF·R/Rmd 실습. 과제 배포 여부는 일반 실습 존재만으로 확정하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "deep_learning.pdf·강의계획서 접근 확인. intro.pdf는 404.",
+    "url": "https://jkim82133.github.io/M1399.000500/2024S/",
+    "id": "SNU-C050",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/M1399.000500/2024S/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF·R/Rmd 실습. 과제 배포 여부는 일반 실습 존재만으로 확정하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "회귀분석 및 실습",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2024 봄",
+    "year": 2024,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF와 2024 실습 ZIP. 실습 ZIP이 제출 과제라고 확인한 것은 아니므로 강의/실습 자료로 분류.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "URL·폴더명에는 2020이 남아 있지만 본문은 2024 Spring, 실습 ZIP 파일명도 24_reg_lab로 구별됨. 강의 PDF 전부를 2024 신규 작성본으로 주장하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/regression-analysis-and-lab-2020-spring",
+    "id": "SNU-C051",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/regression-analysis-and-lab-2020-spring",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF와 2024 실습 ZIP. 실습 ZIP이 제출 과제라고 확인한 것은 아니므로 강의/실습 자료로 분류."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "고급통계계산",
+    "provider": "원중호",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "project_brief"
+    ],
+    "lecture_links": [
+      {
+        "label": "강의·노트북 목록",
+        "url": "https://won-j.github.io/M1399_000200-2023fall/"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Julia 프로젝트 지침",
+        "url": "https://won-j.github.io/M1399_000200-2023fall/project/project.html"
+      }
+    ],
+    "classification_reason": "공개 강의 노트와 Julia 재현·비교 프로젝트 수행 지침. HW1·2 등은 Classroom 안내뿐이므로 공개 숙제 세트를 확보했다는 뜻이 아님.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "HW1·2는 GitHub Classroom으로 안내하므로 과제 전체 공개라고 하지 않음.",
+    "url": "https://won-j.github.io/M1399_000200-2023fall/",
+    "id": "SNU-C055",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_000200-2023fall/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "공개 강의 노트와 Julia 재현·비교 프로젝트 수행 지침. HW1·2 등은 Classroom 안내뿐이므로 공개 숙제 세트를 확보했다는 뜻이 아님."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "딥러닝",
+    "provider": "학생 구현",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/DeepLearning-2023-2"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "M2177.003100. 교수자 정답이 아님.",
+    "url": "https://github.com/ckswjd99-at-snu/DeepLearning-2023-2",
+    "id": "SNU-C053",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/DeepLearning-2023-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "딥러닝의 통계적 이해",
+    "provider": "원중호",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "info",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [],
+    "assignment_links": [],
+    "classification_reason": "제안서1–2쪽·논문형 최종보고서·발표는 강의계획서의 평가 안내 수준이다. 별도 배포 과제/프로젝트 지침으로 세지 않음. 자체 강의노트·숙제 문제세트도 미확인; 외부 읽기논문은 참고자료로 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 강의 슬라이드·숙제 세트로 분류하지 않음. 통계학과와 동일 강좌라 중복 집계 주의.",
+    "url": "https://won-j.github.io/M1399_000400-2023fall/",
+    "id": "SNU-C124",
+    "school": "SNU",
+    "classification_label": "자료 미확인·안내",
+    "source_kind": "협동과정 병기 과목",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_000400-2023fall/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "제안서1–2쪽·논문형 최종보고서·발표는 강의계획서의 평가 안내 수준이다. 별도 배포 과제/프로젝트 지침으로 세지 않음. 자체 강의노트·숙제 문제세트도 미확인; 외부 읽기논문은 참고자료로 구분."
+      }
+    ]
+  },
+  {
+    "department": "AI 관련",
+    "course": "인공지능을 위한 이론과 모델링",
+    "provider": "김지수 등 / SFAM",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://sfamsnu.github.io/fall23/calendar/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "M2480.001200. 제목만 있고 같은 페이지로 돌아가는 항목도 있다. HW1–6 마감 표시는 있으나 과제 파일 링크는 확인하지 못함. PDF 표본 3개 확인.",
+    "url": "https://sfamsnu.github.io/fall23/calendar/",
+    "id": "SNU-C052",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sfamsnu.github.io/fall23/calendar/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계이론세미나 — 위상구조의 통계적 추정",
+    "provider": "김지수",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://jkim82133.github.io/321.621A/2023F/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "intro·persistence_landscape PDF 확인. 교수 Teaching에서 서울대 담당 강좌로 연결.",
+    "url": "https://jkim82133.github.io/321.621A/2023F/",
+    "id": "SNU-C056",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jkim82133.github.io/321.621A/2023F/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "확장형 고성능 컴퓨팅",
+    "provider": "ckswjd99-at-snu / 수강생",
+    "term": "2023 가을",
+    "year": 2023,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/SHPC-2023-2"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 M1522.006700·2023 Fall, HW1 PDF에 해당 코드 및 2023-10-06 마감 확인. 데이터사이언스대학원 코드도 병기되어 있음. 실행·성능은 미검증.",
+    "url": "https://github.com/ckswjd99-at-snu/SHPC-2023-2",
+    "id": "SNU-C054",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/SHPC-2023-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계계산",
+    "provider": "원중호",
+    "term": "2023 봄",
+    "year": 2023,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://won-j.github.io/M1399_000100-2023spring/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 노트북 공개. HW는 GitHub Classroom 공지/일정만 있고 본문에 공개 문제 파일 링크가 없음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "과제는 GitHub Classroom 안내와 구분해 확인 필요.",
+    "url": "https://won-j.github.io/M1399_000100-2023spring/",
+    "id": "SNU-C057",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_000100-2023spring/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 노트북 공개. HW는 GitHub Classroom 공지/일정만 있고 본문에 공개 문제 파일 링크가 없음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "데이터통신망의 기초",
+    "provider": "cakeng / 수강생",
+    "term": "2022 가을",
+    "year": 2022,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/cakeng/dcn_2022_fall"
+      }
+    ],
+    "classification_reason": "README 자체가 P2P 파일전송 과제 지시. 실습 안내 PDF를 강좌 이론 슬라이드로 중복 계산하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 SNU ECE·2022 Fall 명시. 코드 존재를 확인했으며 구현 완성도·실행 결과는 미검증.",
+    "url": "https://github.com/cakeng/dcn_2022_fall",
+    "id": "SNU-C060",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 과제 명세·코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/cakeng/dcn_2022_fall",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "README 자체가 P2P 파일전송 과제 지시. 실습 안내 PDF를 강좌 이론 슬라이드로 중복 계산하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "시스템프로그래밍",
+    "provider": "ckswjd99-at-snu / 수강생",
+    "term": "2022 가을",
+    "year": 2022,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 430.658·2022 Autumn 명시. snuDbg PDF 접근·문제 텍스트 확인.",
+    "url": "https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2",
+    "id": "SNU-C061",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/SystemProgramming-2022-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "인공신경망",
+    "provider": "장병탁",
+    "term": "2022 가을",
+    "year": 2022,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 슬라이드 링크. 성적 항목 Homework10%·과제풀이 수업 일정만으로 실제 과제 문제 공개를 확인했다고 하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "이 학기 PDF는 구 bi.snu.ac.kr에 연결됨. 개별 구 서버 PDF는 별도 미검증.",
+    "url": "https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/",
+    "id": "SNU-C058",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "관련 컴공 과목",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/2022-2/artificial-neural-networks/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 슬라이드 링크. 성적 항목 Homework10%·과제풀이 수업 일정만으로 실제 과제 문제 공개를 확인했다고 하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "최적화의 수학적 이론 및 계산",
+    "provider": "Ernest K. Ryu",
+    "term": "2022 가을",
+    "year": 2022,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "강의 Introduction",
+        "url": "https://ernestryu.com/courses/optimization/intro.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "HW2 추가문제",
+        "url": "https://ernestryu.com/courses/optimization/hw2.pdf"
+      },
+      {
+        "label": "숙제1–13 지시·교재문항 목록",
+        "url": "https://ernestryu.com/courses/optimization.html"
+      }
+    ],
+    "classification_reason": "강의 슬라이드와 숙제1–13 지시가 본문에 공개. 다수는 교재 문항번호이며 추가문제 PDF는 HW2–4와 연결. eTL 제출과 공개 자료 존재를 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교재 문제 번호로 지정한 과제와 별도 문제 PDF가 혼재.",
+    "url": "https://ernestryu.com/courses/optimization.html",
+    "id": "SNU-C059",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "당시 서울대 강의",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://ernestryu.com/courses/optimization.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 슬라이드와 숙제1–13 지시가 본문에 공개. 다수는 교재 문항번호이며 추가문제 PDF는 HW2–4와 연결. eTL 제출과 공개 자료 존재를 구분."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "기계학습 기초 및 전기정보 응용",
+    "provider": "학생 구현",
+    "term": "2022 봄",
+    "year": 2022,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/MachineLearning-2022-1"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "M2608.001300.",
+    "url": "https://github.com/ckswjd99-at-snu/MachineLearning-2022-1",
+    "id": "SNU-C063",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/MachineLearning-2022-1",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "심층신경망의 수학적 극한",
+    "provider": "Ernest K. Ryu",
+    "term": "2022 봄",
+    "year": 2022,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://ernestryu.com/courses/DLtheory/hw1.pdf"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://ernestryu.com/courses/DLtheory/hw2.pdf"
+      }
+    ],
+    "classification_reason": "숙제1–7은 공개. Lecture Plans는 주제 목록이고 연결 논문/다른 대학 노트는 이 강좌 자체 강의노트로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "강의 슬라이드 전체 공개로 확대하지 않음. 숙제1 PDF 확인.",
+    "url": "https://ernestryu.com/courses/DLTheory.html",
+    "id": "SNU-C062",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "당시 서울대 강의",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://ernestryu.com/courses/DLTheory.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "숙제1–7은 공개. Lecture Plans는 주제 목록이고 연결 논문/다른 대학 노트는 이 강좌 자체 강의노트로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "운영체제의 기초",
+    "provider": "학생 구현",
+    "term": "2022 봄",
+    "year": 2022,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "skeleton",
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1"
+      }
+    ],
+    "classification_reason": "PPT 폴더의 Overview PDF를 읽으니 Project #0: Overview였다. Project1–4도 과제 안내여서 일반 강의 슬라이드 보유로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.318.",
+    "url": "https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1",
+    "id": "SNU-C064",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/OperatingSystem-2022-1",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "PPT 폴더의 Overview PDF를 읽으니 Project #0: Overview였다. Project1–4도 과제 안내여서 일반 강의 슬라이드 보유로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "전산통계 및 실험",
+    "provider": "원중호",
+    "term": "2021 가을",
+    "year": 2021,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://won-j.github.io/326_212-2021fall/"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://won-j.github.io/326_212-2021fall/hw/hw1.html"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://won-j.github.io/326_212-2021fall/hw/hw2.html"
+      }
+    ],
+    "classification_reason": "강의/실습 자료와 HW1·2·Final Project 연결. 각각의 전체 파일 다운로드는 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "과제·프로젝트 링크를 확인. 모든 연결 파일의 다운로드는 미검증.",
+    "url": "https://won-j.github.io/326_212-2021fall/",
+    "id": "SNU-C067",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/326_212-2021fall/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의/실습 자료와 HW1·2·Final Project 연결. 각각의 전체 파일 다운로드는 미검증."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "컴파일러의 기초",
+    "provider": "학생 구현",
+    "term": "2021 가을",
+    "year": 2021,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/Compiler-2021-2"
+      }
+    ],
+    "classification_reason": "SubC 컴파일러 구현·과제 문서. 문법/스택머신 매뉴얼만으로 이론 강의노트도 있다고 단정하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.414. 프로필 설명의 연도와 달라 개별 README를 기준으로 기록.",
+    "url": "https://github.com/ckswjd99-at-snu/Compiler-2021-2",
+    "id": "SNU-C065",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/Compiler-2021-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "SubC 컴파일러 구현·과제 문서. 문법/스택머신 매뉴얼만으로 이론 강의노트도 있다고 단정하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "컴퓨터조직론",
+    "provider": "학생 구현",
+    "term": "2021 가을",
+    "year": 2021,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2"
+      }
+    ],
+    "classification_reason": "학생 CPU 구현·manual.pdf. 과제 매뉴얼과 정규 강의 슬라이드를 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.322.",
+    "url": "https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2",
+    "id": "SNU-C066",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/ComputerArchitecture-2021-2",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 CPU 구현·manual.pdf. 과제 매뉴얼과 정규 강의 슬라이드를 구분."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "신호 및 시스템",
+    "provider": "학생 구현",
+    "term": "2021 봄",
+    "year": 2021,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.306.",
+    "url": "https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1",
+    "id": "SNU-C068",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ckswjd99-at-snu/SignalsAndSystems-2021-1",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계계산",
+    "provider": "원중호",
+    "term": "2021 봄",
+    "year": 2021,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "notebook",
+        "url": "https://won-j.github.io/M1399_000100-2021spring/lectures/lecture1/arith.ipynb"
+      },
+      {
+        "label": "notebook",
+        "url": "https://won-j.github.io/M1399_000100-2021spring/lectures/lecture2/gelu.ipynb"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 1",
+        "url": "https://won-j.github.io/M1399_000100-2021spring/homework/hw1.html"
+      },
+      {
+        "label": "Homework 2",
+        "url": "https://won-j.github.io/M1399_000100-2021spring/homework/hw2.html"
+      }
+    ],
+    "classification_reason": "강의노트·노트북과 HW PDF/TeX 연결.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "표본 ipynb·HW2 PDF HTTP 200 확인.",
+    "url": "https://won-j.github.io/M1399_000100-2021spring/",
+    "id": "SNU-C069",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/M1399_000100-2021spring/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의노트·노트북과 HW PDF/TeX 연결."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "디지털 영상처리",
+    "provider": "학생 구현",
+    "term": "2020 가을",
+    "year": 2020,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/sunoh-kim/digital-image-processing"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "M2608.001000_001.",
+    "url": "https://github.com/sunoh-kim/digital-image-processing",
+    "id": "SNU-C070",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/sunoh-kim/digital-image-processing",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "컴퓨터비전",
+    "provider": "학생 구현",
+    "term": "2020 가을",
+    "year": 2020,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/woocshin/SNUCV2020Fall"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "학과 배정은 해당 저장소만으로 확정하지 않고 컴퓨터비전 관련 자료로 분류.",
+    "url": "https://github.com/woocshin/SNUCV2020Fall",
+    "id": "SNU-C071",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/woocshin/SNUCV2020Fall",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "실험계획 및 실습",
+    "provider": "dlstkaaktclt / 수강생",
+    "term": "2020 봄",
+    "year": 2020,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5"
+      }
+    ],
+    "classification_reason": "학생이 2020-1 폴더에 분류한 과제 TeX/PDF. 교수자 강의노트 원본은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "상위 폴더명 2020-1학기에 따른 학생의 학기 분류. README에는 오희석 교수·과목명만 명시되어 있어 README만으로 학기를 확정한 것은 아님. 실제 과제 파일 경로 확인. 공식 문제 전체나 정답의 정확성을 보증하지 않음.",
+    "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+    "id": "SNU-C073",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 과제·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%EC%8B%A4%ED%97%98%EA%B3%84%ED%9A%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생이 2020-1 폴더에 분류한 과제 TeX/PDF. 교수자 강의노트 원본은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "심층강화학습",
+    "provider": "학생 구현",
+    "term": "2020 봄",
+    "year": 2020,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/sunoh-kim/deep-reinforcement-learning"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.729_003.",
+    "url": "https://github.com/sunoh-kim/deep-reinforcement-learning",
+    "id": "SNU-C072",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/sunoh-kim/deep-reinforcement-learning",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계계산",
+    "provider": "dlstkaaktclt / 수강생",
+    "term": "2020 봄",
+    "year": 2020,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0"
+      }
+    ],
+    "classification_reason": "학생 과제 Rmd/HTML/R 코드. 과제 풀이 HTML을 강의노트로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "상위 폴더명 2020-1학기에 따른 학생의 학기 분류. README에는 원중호 교수·과목명만 명시되어 있어 README만으로 학기를 확정한 것은 아님. 실제 과제 파일 경로 확인. 공식 문제 전체나 정답의 정확성을 보증하지 않음.",
+    "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0",
+    "id": "SNU-C074",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 과제·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%86%B5%EA%B3%84%EA%B3%84%EC%82%B0",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제 Rmd/HTML/R 코드. 과제 풀이 HTML을 강의노트로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계이론 1",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2020 봄",
+    "year": 2020,
+    "semester": 1,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      },
+      {
+        "label": "강의자료",
+        "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring#h.egls46mhb99z"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 PDF 공개. 본문은 2020 과제를 eTL로 출제·제출한다고 안내하여 공개 과제 확보로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "본문에 2020 봄 명시. 과제는 eTL에 출제·제출한다고 적혀 있으므로 공개 과제 확보로 주장하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring",
+    "id": "SNU-C075",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/theory-of-statistics-1-2020-spring",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 PDF 공개. 본문은 2020 과제를 eTL로 출제·제출한다고 안내하여 공개 과제 확보로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "함수추정 및 실습",
+    "provider": "dlstkaaktclt / 수강생",
+    "term": "2020 봄",
+    "year": 2020,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5"
+      }
+    ],
+    "classification_reason": "학생 과제·프로젝트 Rmd/HTML. 강의노트 원본은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "상위 폴더명 2020-1학기에 따른 학생의 학기 분류. README에는 임채영 교수·과목명만 명시되어 있어 README만으로 학기를 확정한 것은 아님. 실제 과제 파일 경로 확인. 공식 문제 전체나 정답의 정확성을 보증하지 않음.",
+    "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+    "id": "SNU-C076",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 과제·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2020-1%ED%95%99%EA%B8%B0/%ED%95%A8%EC%88%98%EC%B6%94%EC%A0%95%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·프로젝트 Rmd/HTML. 강의노트 원본은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정론특강 — 비모수구조모형",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2019 가을",
+    "year": 2019,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      },
+      {
+        "label": "강의자료",
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model#h.yqbg1dy9q9gl"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "노트·슬라이드·보충자료. 일부 파일은 암호 보호 안내가 있고 제출 과제 공개는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "본문에 2019 Fall 명시. Hilbertian Responses 일부 자료는 페이지에 암호 보호라고 명시되어 있음. 공개 폴더 목록 확인은 암호 해제·모든 파일 열람을 뜻하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model",
+    "id": "SNU-C077",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-structured-model",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "노트·슬라이드·보충자료. 일부 파일은 암호 보호 안내가 있고 제출 과제 공개는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "전산통계 및 실험",
+    "provider": "dlstkaaktclt / 수강생",
+    "term": "2019 가을",
+    "year": 2019,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98"
+      }
+    ],
+    "classification_reason": "학생 과제·프로젝트 Rmd/HTML. README에는 교수·과목명, 학기는 2019-2 폴더명 근거.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "상위 폴더명 2019-2학기에 따른 학생의 학기 분류. README에는 원중호 교수·과목명만 명시되어 있어 README만으로 학기를 확정한 것은 아님. 실제 과제 파일 경로 확인. 공식 문제 전체나 정답의 정확성을 보증하지 않음.",
+    "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98",
+    "id": "SNU-C078",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 과제·구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/dlstkaaktclt/undergraduate/tree/master/2019-2%ED%95%99%EA%B8%B0/%EC%A0%84%EC%82%B0%ED%86%B5%EA%B3%84%20%EB%B0%8F%20%EC%8B%A4%ED%97%98",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·프로젝트 Rmd/HTML. README에는 교수·과목명, 학기는 2019-2 폴더명 근거."
+      }
+    ]
+  },
+  {
+    "department": "산업공학과",
+    "course": "기계학습의 산업응용",
+    "provider": "학생 구현",
+    "term": "2018 가을",
+    "year": 2018,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/jiminsun/IAML_2018"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "서울대 수업임을 README에 명시. 산업공학과 과목 M1505.001300 연결은 LikeSNU에서 확인.",
+    "url": "https://github.com/jiminsun/IAML_2018",
+    "id": "SNU-C079",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/jiminsun/IAML_2018",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "데이터사이언스 입문",
+    "provider": "원중호",
+    "term": "2018 가을",
+    "year": 2018,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://won-j.github.io/326_621a-2018fall/"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework 4",
+        "url": "https://won-j.github.io/326_621a-2018fall/hw/hw4/hw4.html"
+      },
+      {
+        "label": "Homework 1",
+        "url": "https://won-j.github.io/326_621a-2018fall/hw/hw1/hw1.html"
+      }
+    ],
+    "classification_reason": "HTML 강의·실습자료와 Homework1·2·4 연결. 모든 숙제 세트 완비는 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "Git/GitHub 실습 PDF 표본 확인. 과제 파일 전부의 다운로드는 미검증.",
+    "url": "https://won-j.github.io/326_621a-2018fall/",
+    "id": "SNU-C082",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://won-j.github.io/326_621a-2018fall/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "HTML 강의·실습자료와 Homework1·2·4 연결. 모든 숙제 세트 완비는 미검증."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "볼록최적화 과제",
+    "provider": "학생 구현",
+    "term": "2018 가을",
+    "year": 2018,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/sunoh-kim/convex-optimization"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "430.709A_001.",
+    "url": "https://github.com/sunoh-kim/convex-optimization",
+    "id": "SNU-C080",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/sunoh-kim/convex-optimization",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "시스템프로그래밍",
+    "provider": "학생 구현",
+    "term": "2018 가을",
+    "year": 2018,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/eodmsabc/SNU-System-Programming"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수자 정답이 아닌 학생 코드.",
+    "url": "https://github.com/eodmsabc/SNU-System-Programming",
+    "id": "SNU-C081",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/eodmsabc/SNU-System-Programming",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "수학적 알고리즘1",
+    "provider": "학생 구현",
+    "term": "2018 봄",
+    "year": 2018,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/ijleesw/SNU_MATH_M1407.000400"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "과목 코드 M1407.000400 및 README·폴더 확인.",
+    "url": "https://github.com/ijleesw/SNU_MATH_M1407.000400",
+    "id": "SNU-C083",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/ijleesw/SNU_MATH_M1407.000400",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "산업공학과",
+    "course": "산업경영수리기법",
+    "provider": "학생 구현",
+    "term": "2017 가을",
+    "year": 2017,
+    "semester": 2,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/j-min/Math-for-IE"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "HW2·HW3·optimizer_experiments.ipynb 확인.",
+    "url": "https://github.com/j-min/Math-for-IE",
+    "id": "SNU-C084",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/j-min/Math-for-IE",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "기계학습",
+    "provider": "장병탁",
+    "term": "2015 가을",
+    "year": 2015,
+    "semester": 2,
+    "classification": "info",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [],
+    "assignment_links": [],
+    "classification_reason": "읽힌 RBFN PDF 2쪽은 프로젝트 힌트·참고자료이며 강의노트로 세지 않음. poster/Project2 writeup 링크는 있지만 Project2 응답은 1MiB·파싱실패/0쪽으로 잘린 응답 가능성이 있어 과제 원문·결과물 내용을 확정하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "학생 결과물 성격이 포함되며 과제 명세로 단정하지 않음.",
+    "url": "https://snu-bi.github.io/courses/2015-2/machine-learning/",
+    "id": "SNU-C085",
+    "school": "SNU",
+    "classification_label": "자료 미확인·안내",
+    "source_kind": "공식 페이지의 보존자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/2015-2/machine-learning/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "읽힌 RBFN PDF 2쪽은 프로젝트 힌트·참고자료이며 강의노트로 세지 않음. poster/Project2 writeup 링크는 있지만 Project2 응답은 1MiB·파싱실패/0쪽으로 잘린 응답 가능성이 있어 과제 원문·결과물 내용을 확정하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "다변수복소함수론",
+    "provider": "한종규 홈페이지",
+    "term": "2015 가을",
+    "year": 2015,
+    "semester": 2,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "PDF 표제와 목차 확인. 저자명은 PDF 표지에 없어 홈페이지 경로 기준으로만 표기.",
+    "url": "https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf",
+    "id": "SNU-C086",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 홈페이지 보존본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.math.snu.ac.kr/~ckhan/bookchapter1.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "인공지능 프로젝트",
+    "provider": "장병탁",
+    "term": "2012 봄",
+    "year": 2012,
+    "semester": 1,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "AI Lecture Notes ch8",
+        "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/References/ai12s_ch8.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Project2 명세",
+        "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/Projects/SpecProject2.pdf"
+      }
+    ],
+    "classification_reason": "References/ai12s_ch8.pdf 표지에 2012 봄 AI Lecture Notes·SNU CSE 연구실 명시. Project2 명세는 이번에 2쪽 본문을 확인. Project1은 명세 링크와 이전 HTTP 접근 기록만 확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "표본 파일 접근 확인. 당시 컴공 개설.",
+    "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/",
+    "id": "SNU-C087",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수 홈페이지 보존본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/2012-1/artificial-intelligence/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "References/ai12s_ch8.pdf 표지에 2012 봄 AI Lecture Notes·SNU CSE 연구실 명시. Project2 명세는 이번에 2쪽 본문을 확인. Project1은 명세 링크와 이전 HTTP 접근 기록만 확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "리군론",
+    "provider": "임선희",
+    "term": "2011 봄",
+    "year": 2011,
+    "semester": 1,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://www.math.snu.ac.kr/~lim/Lie_groups.html"
+      }
+    ],
+    "classification_reason": "공개 HTML의 Homework1·2 문제. 해당 학기 강의노트는 이 페이지에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "첨부파일 없이도 문제 원문이 본문에 있음.",
+    "url": "https://www.math.snu.ac.kr/~lim/Lie_groups.html",
+    "id": "SNU-C088",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "교수자 문제 공개",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.math.snu.ac.kr/~lim/Lie_groups.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "공개 HTML의 Homework1·2 문제. 해당 학기 강의노트는 이 페이지에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "함수추정의 응용 및 실습",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2010 가을",
+    "year": 2010,
+    "semester": 2,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "solution"
+    ],
+    "lecture_links": [
+      {
+        "label": "강의·실습 폴더 목록",
+        "url": "https://sites.google.com/view/theostat/lecture-notes/applications-of-function-estimation-and-lab"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "Homework1 해설 PDF",
+        "url": "https://drive.google.com/file/d/1J3i9hzZT4Ze9kyNhePi2zjRwILBSZTqq/view?usp=drivesdk"
+      }
+    ],
+    "classification_reason": "강의노트·실습자료는 공개 폴더의 파일 목록을 확인했고, 2010 Fall Homework1 Solution PDF(3쪽)는 본문을 직접 읽음. 과제 원문 세트는 별도로 미확인이며 해설 보유와 문제 원문 보유를 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "본문에 2010 Fall 명시. 공개 폴더 목록 확인. ZIP 내부 코드 실행은 미검증. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/applications-of-function-estimation-and-lab",
+    "id": "SNU-C089",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/applications-of-function-estimation-and-lab",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의노트·실습자료는 공개 폴더의 파일 목록을 확인했고, 2010 Fall Homework1 Solution PDF(3쪽)는 본문을 직접 읽음. 과제 원문 세트는 별도로 미확인이며 해설 보유와 문제 원문 보유를 구분."
+      }
+    ]
+  },
+  {
+    "department": "산업공학과",
+    "course": "Xpress 최적화 소프트웨어 실습",
+    "provider": "이경식",
+    "term": "영상 학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://optimize.snu.ac.kr/teaching.html"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "영상5회·예제 코드 ZIP. 제출 과제라는 근거는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "코드 ZIP 표본 HTTP 200 확인. 페이지에 열거된 정수최적화 등 모든 과목의 노트가 공개된 것은 아님.",
+    "url": "https://optimize.snu.ac.kr/teaching.html",
+    "id": "SNU-C101",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://optimize.snu.ac.kr/teaching.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "영상5회·예제 코드 ZIP. 제출 과제라는 근거는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "강화학습 입문",
+    "provider": "이정우 / CML",
+    "term": "영상 학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공식 연구실이 연결한 영상. 전편 재생은 검증하지 않음.",
+    "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8",
+    "id": "SNU-C103",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 공개 영상",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bfF191VrJ5NQzRPPwrbUeE8",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "고급통계적방법론",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 파일 목록 확인. 실제 개설 학기 미확인. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/advanced-statistical-methods",
+    "id": "SNU-C114",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/advanced-statistical-methods",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "공개 강의·과제 종합 모음",
+    "provider": "학생 개인 보관",
+    "term": "2013–2020",
+    "year": null,
+    "semester": null,
+    "classification": "mixed",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "mixed"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://github.com/hyunjinjeong/snu-cse-courses-material"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/hyunjinjeong/snu-cse-courses-material"
+      }
+    ],
+    "classification_reason": "여러 과목·학기의 강의·과제 보관 모음. 같은 강좌/학기의 자료와 숙제가 짝으로 완비됐다고 확인한 것은 아님.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "저자가 일부 소스·실습 누락을 명시. 교수자 공식 배포본으로 간주하지 않는다.",
+    "url": "https://github.com/hyunjinjeong/snu-cse-courses-material",
+    "id": "SNU-C091",
+    "school": "SNU",
+    "classification_label": "여러 학기·과목 혼합",
+    "source_kind": "학생 보관본",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/hyunjinjeong/snu-cse-courses-material",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "여러 과목·학기의 강의·과제 보관 모음. 같은 강좌/학기의 자료와 숙제가 짝으로 완비됐다고 확인한 것은 아님."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "그래픽스 프로그래밍 과제",
+    "provider": "cakeng / 수강생",
+    "term": "2022 (학기 미확인)",
+    "year": null,
+    "semester": null,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem",
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "저장소 설명은 SNU ECE 대학원 그래픽스 수업, 저장소명은 2022. HW1 PDF에서 3/21 마감은 확인하나 학기는 확정하지 않음. 빌드 산출물 다수 포함.",
+    "url": "https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj",
+    "id": "SNU-C108",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 보관본·코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/cakeng/SNU_ECE_Graphics_2022_Courseworks/tree/proj",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "기초통계·확률·회귀·베이즈·기계학습·그래프모형 자료 모음",
+    "provider": "박건웅",
+    "term": "여러 시기(학기 미확인)",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lectures",
+        "url": "https://sites.google.com/view/gwpark/lectures"
+      },
+      {
+        "label": "Lectures",
+        "url": "https://sites.google.com/view/gwpark/lectures"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "노트 위젯·영상·일부 시험 자료. 시험을 숙제로 합산하지 않으며 과제 원문 공개는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "홈페이지 본문에 PDF 위젯 존재. 표본 Drive 미리보기 7개 중 6개 HTTP200·1개 HTTP500; PDF 다운로드·전체 파일 본문은 미검증. 일부 하위 페이지는 업데이트 예정 상태이나 상위 모음에는 노트 위젯이 있음.",
+    "url": "https://sites.google.com/view/gwpark/lectures",
+    "id": "SNU-C112",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 홈페이지 PDF 위젯·영상 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/gwpark/lectures",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "노트 위젯·영상·일부 시험 자료. 시험을 숙제로 합산하지 않으며 과제 원문 공개는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "다변량분석 및 실습",
+    "provider": "정성규",
+    "term": "2019·2021·2023 수업 이력",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "[Lecture\nvideos]",
+        "url": "https://youtube.com/playlist?list=PLXgVK0KVZjzMMnCZmZR6DmPsp5ResfZxg&si=fmXJ1gHxW7VC9pBw"
+      },
+      {
+        "label": "(Slides)",
+        "url": "https://jung.snu.ac.kr/papers/Data_Literacy.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의 영상과 계획서. 촬영 학기 및 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "영상의 정확한 촬영 학기는 인덱스에서 분리 확인되지 않음. Pitt 시절 과목은 제외.",
+    "url": "https://jung.snu.ac.kr/TeachingPage.html",
+    "id": "SNU-C094",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 영상 연결",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jung.snu.ac.kr/TeachingPage.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의 영상과 계획서. 촬영 학기 및 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "데이터로 배우는 통계학 — K-MOOC",
+    "provider": "장원철 / 강좌 저장소",
+    "term": "여러 운영 시기(정규학기 미확인)",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://github.com/wcjang/K-MOOC"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "노트13개·R 실습 코드/HTML은 강의/실습 자료. Lab이라는 이름만으로 제출 과제로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수 Teaching 페이지에서 연결. README는 2023_T1 운영 페이지를 가리키나 2021 실습·2022 노트 수정 기록도 혼재. 정규학기 2023 봄 자료로 단정하지 않음.",
+    "url": "https://github.com/wcjang/K-MOOC",
+    "id": "SNU-C110",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·강좌 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/wcjang/K-MOOC",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "노트13개·R 실습 코드/HTML은 강의/실습 자료. Lab이라는 이름만으로 제출 과제로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "딥러닝의 기초",
+    "provider": "이정우 / CML",
+    "term": "영상 학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lectures",
+        "url": "https://cml.snu.ac.kr/courses/"
+      },
+      {
+        "label": "Lectures",
+        "url": "https://cml.snu.ac.kr/courses/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "플레이리스트 연결 확인. 과제 파일 공개 여부는 미확인.",
+    "url": "https://cml.snu.ac.kr/courses/",
+    "id": "SNU-C102",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 공개 영상",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://cml.snu.ac.kr/courses/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "베이즈·빈도론·R·Python·통계상담 자료 모음",
+    "provider": "이재용",
+    "term": "여러 시기(학기 미확인)",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Talk Slides",
+        "url": "https://jylee749.wordpress.com/talk-slides/"
+      },
+      {
+        "label": "강의자료",
+        "url": "https://jylee749.wordpress.com/%ea%b0%95%ec%9d%98%ec%9e%90%eb%a3%8c/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의·교육용 실습 PDF/Rmd/ZIP 모음. 제출 숙제 세트 공개 여부는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "PDF 4개·Rmd 1개·ZIP 1개 표본을 로그인 없이 내려받아 확인. 표본 날짜는 2014·2016·2017·2023 등이며 최근 정규학기 자료가 아님. 방통대·공개강좌 자료도 섞임. Python 계층모형 PDF 링크 하나는 주소가 잘못되어 있음.",
+    "url": "https://jylee749.wordpress.com/강의자료/",
+    "id": "SNU-C111",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 홈페이지 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://jylee749.wordpress.com/강의자료/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의·교육용 실습 PDF/Rmd/ZIP 모음. 제출 숙제 세트 공개 여부는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정 — R 코드",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "old R 코드 ZIP은 설명/실습 예제로 보존. 제출 과제라는 근거는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "페이지에 old 표기. 노트 과목의 보조자료로서 별도 진입점을 보존한 것이며 별개 신규 강좌 수가 아님. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-rcode",
+    "id": "SNU-C115",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/nonparametric-function-estimation-rcode",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "old R 코드 ZIP은 설명/실습 예제로 보존. 제출 과제라는 근거는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정특강 — Local Likelihood·Frontier",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. PS 렌더링·본문 검증은 하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-local-likelihood-and-frontier",
+    "id": "SNU-C117",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-local-likelihood-and-frontier",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정특강 — Wavelet",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. PS 렌더링·본문 검증은 하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-wavelet",
+    "id": "SNU-C118",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-wavelet",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정특강 — 가법회귀",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-additive-regression",
+    "id": "SNU-C116",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-nonpar-additive-regression",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "비모수함수추정특강 — 준모수 추론",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-semiparametric-inference",
+    "id": "SNU-C119",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-nonparametric-function-estimation-semiparametric-inference",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "산업공학 관련",
+    "course": "산업공학통계 R 실습",
+    "provider": "safeai-snu",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://github.com/safeai-snu/R-statistics"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "R 실습·데이터. 학기·정규강좌 적용과 제출 과제 여부 미확인; 교재 연계 가능성도 있음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에 산업공학통계 R 코드 명시. GitHub 프로필은 서울대 Statistical Learning and Computational Finance Lab을 표방하며 학과 홈페이지의 이재욱 연구실 명칭과 일치. 공식 연구실 홈페이지에서 이 GitHub 계정으로의 역링크는 미확인. 학기·정규 강좌 적용 여부 미확정이며 교재 연계 코드일 가능성도 배제하지 않음.",
+    "url": "https://github.com/safeai-snu/R-statistics",
+    "id": "SNU-C109",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "연구실 명칭을 표방한 계정의 코드",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/safeai-snu/R-statistics",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "R 실습·데이터. 학기·정규강좌 적용과 제출 과제 여부 미확인; 교재 연계 가능성도 있음."
+      }
+    ]
+  },
+  {
+    "department": "산업공학과",
+    "course": "선형 및 비선형 최적화",
+    "provider": "SNUON 강좌 소개(교수명 본문 미확인)",
+    "term": "2022",
+    "year": null,
+    "semester": null,
+    "classification": "info",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [],
+    "assignment_links": [],
+    "classification_reason": "SNUON 소개만 확인. 영상 전체/강의파일/과제 접근은 미검증.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "검색 색인에는 홍성필 프로필이 보이나 동적 본문으로 재확인하지 못함. 소개 페이지 접근만 확인, 수강 등록·영상 전체·과제 다운로드는 미검증.",
+    "url": "https://etl.snu.ac.kr/courses/63f8471164283c4e2d138f62",
+    "id": "SNU-C123",
+    "school": "SNU",
+    "classification_label": "자료 미확인·안내",
+    "source_kind": "공개강좌 진입점",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://etl.snu.ac.kr/courses/63f8471164283c4e2d138f62",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "SNUON 소개만 확인. 영상 전체/강의파일/과제 접근은 미검증."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "수리통계 2 — 과거 노트·과제",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "여러 학기(2019 페이지·과거 파일)",
+    "year": null,
+    "semester": null,
+    "classification": "mixed",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "mixed"
+    ],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      },
+      {
+        "label": "강의자료",
+        "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall#h.3od5gj3scmzf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제 (과거 자료)",
+        "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall#h.r5069cngo3tc"
+      }
+    ],
+    "classification_reason": "2019 강좌 페이지지만 확인한 노트는 2015 표지·과제는 2017 파일도 있음. 같은 학기 자료/과제 짝으로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "페이지는 2019 가을이지만 연결 폴더는 old이며 표본 노트 표지는 Fall 2015, 과제 파일명에는 2017도 있음. 2019 신규 자료로 분류하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall",
+    "id": "SNU-C113",
+    "school": "SNU",
+    "classification_label": "여러 학기·과목 혼합",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/mathematical-statistics-2-2019-fall",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "2019 강좌 페이지지만 확인한 노트는 2015 표지·과제는 2017 파일도 있음. 같은 학기 자료/과제 짝으로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "수리통계 강의·튜터링 개인 자료",
+    "provider": "Joonhyuk Jung 개인 페이지",
+    "term": "2022–2023",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://joonhyuk.com/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "학생/튜터가 작성한 강의·튜터링 노트. 제출 과제 원문 공개로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "2022.12–2023.1 강의 자료와 2023.3–6 튜터링 자료. 두 PDF 모두 HTTP200 및 PDF 형식 확인. 정규 강좌 교수자 원본과 구분.",
+    "url": "https://joonhyuk.com/",
+    "id": "SNU-C095",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "학생·튜터 작성",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://joonhyuk.com/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생/튜터가 작성한 강의·튜터링 노트. 제출 과제 원문 공개로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "수업 과제 6과목 모음",
+    "provider": "학생 개인 보관",
+    "term": "2017–2020",
+    "year": null,
+    "semester": null,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/wldyddl5510/SNU-CSE"
+      }
+    ],
+    "classification_reason": "6과목 학생 구현·일부 수강 자료. 일반 강의자료는 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "오토마타는 중도 철회한 부분 수강 자료라고 명시.",
+    "url": "https://github.com/wldyddl5510/SNU-CSE",
+    "id": "SNU-C093",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/wldyddl5510/SNU-CSE",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "6과목 학생 구현·일부 수강 자료. 일반 강의자료는 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "심층신경망의 수학적 기초",
+    "provider": "학생 구현",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "README에서 Ryu 수업과 연결 확인.",
+    "url": "https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks",
+    "id": "SNU-C100",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/gyuboone/Mathematical-Foundations-of-Deep-Neural-Networks",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "이론통계 — ~2006 자료",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "2006 이전·당시(정확한 학기 미확인)",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "인덱스에 Theoretical Statistics (~2006) 표기. 단일 2006 학기 강좌로 단정하지 않음. PS 렌더링은 미검증. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/theoretical-statistics-2006",
+    "id": "SNU-C122",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/theoretical-statistics-2006",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "인공지능",
+    "provider": "장병탁",
+    "term": "2022 봄·2021 봄",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Deep Learning lecture (Lec.16)",
+        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/slides/Lecture_16_Deep_Learning.pdf"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "과목 전체 강의록이 아니라 남아 있는 일부 파일.",
+    "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+    "id": "SNU-C105",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "관련 컴공 과목",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/2022-1/artificial-intelligence/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "AI 협동과정·관련 과목",
+    "course": "인공지능 과거 강의 아카이브",
+    "provider": "장병탁 연구실",
+    "term": "1997–2026 인덱스",
+    "year": null,
+    "semester": null,
+    "classification": "mixed",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "mixed"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://snu-bi.github.io/courses/"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://snu-bi.github.io/courses/"
+      }
+    ],
+    "classification_reason": "1997–2026 강의 인덱스 전체 수준에서 노트·과제·결과물이 섞임. 단일 학기 완비로 세지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "학기별 공개 여부 편차가 크다. 전체 조사목록에서 404·보존 없음·실파일 확인을 분리.",
+    "url": "https://snu-bi.github.io/courses/",
+    "id": "SNU-C106",
+    "school": "SNU",
+    "classification_label": "여러 학기·과목 혼합",
+    "source_kind": "강의 인덱스",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://snu-bi.github.io/courses/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "1997–2026 강의 인덱스 전체 수준에서 노트·과제·결과물이 섞임. 단일 학기 완비로 세지 않음."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "점근적 추론",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/asymptotic-statistical-inference",
+    "id": "SNU-C120",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/asymptotic-statistical-inference",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "전기정보공학부",
+    "course": "정보이론",
+    "provider": "이정우 / CML",
+    "term": "영상 학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공식 연구실이 연결한 영상. 과제 미확인.",
+    "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt",
+    "id": "SNU-C104",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수자 공개 영상",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.youtube.com/playlist?list=PLKs7xpqpX1bcy1pcwHOw80G8EoQoZ0OOt",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "집합·논리 관련 강의",
+    "provider": "김홍종",
+    "term": "2013",
+    "year": null,
+    "semester": null,
+    "classification": "both",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "problem"
+    ],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf"
+      }
+    ],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf"
+      }
+    ],
+    "classification_reason": "이전 웹 도구로 확인한 Lecture1 PDF 안에 Homework1이 함께 있다는 기록을 근거로 분류. 이번 직접 요청은 연결 종료, 웹 도구도 시간 초과여서 현재 접근은 재확인하지 못함. 2013이라는 연도만 확인되며 학기 전체 자료는 아님.",
+    "full_semester_verified": false,
+    "access_state": "이전 확인·이번 재접속 실패",
+    "notes": "PDF 2쪽을 웹 도구로 확인. 과목 전체 자료가 아님.",
+    "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
+    "id": "SNU-C099",
+    "school": "SNU",
+    "classification_label": "강의·과제 함께",
+    "source_kind": "교수자 배포",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.math.snu.ac.kr/~hongjong/SnL/Lectures/L1.pdf",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "이전 웹 도구로 확인한 Lecture1 PDF 안에 Homework1이 함께 있다는 기록을 근거로 분류. 이번 직접 요청은 연결 종료, 웹 도구도 시간 초과여서 현재 접근은 재확인하지 못함. 2013이라는 연도만 확인되며 학기 전체 자료는 아님."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계학과 대학원생 계산 부트캠프",
+    "provider": "개인 공개 저장소",
+    "term": "연도 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://github.com/mybirth0407/snu-stat-bigdata-computing"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "Linux·SQL 교육 노트북. 정규 강좌·과제인지 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "정규 수업 과제나 학과 공식 저장소 여부는 미확인.",
+    "url": "https://github.com/mybirth0407/snu-stat-bigdata-computing",
+    "id": "SNU-C098",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교육 보조자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/mybirth0407/snu-stat-bigdata-computing",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "Linux·SQL 교육 노트북. 정규 강좌·과제인지 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계학실험 Python 과제",
+    "provider": "학생 개인 저장소",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/octahedron00/SNU_statistics_lab_assignments"
+      }
+    ],
+    "classification_reason": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "작성자 점수·정확성 주장은 검증하지 않음.",
+    "url": "https://github.com/octahedron00/SNU_statistics_lab_assignments",
+    "id": "SNU-C097",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/octahedron00/SNU_statistics_lab_assignments",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 과제·구현 또는 공개 배포 과제자료. 정규 강의노트는 이 진입점에서 미확인."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "통계학특강",
+    "provider": "박병욱 / Nonparametric Inference Lab",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "Lecture notes",
+        "url": "https://sites.google.com/view/theostat/lecture-notes"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "공개 폴더 목록 확인. PS 렌더링·본문 검증은 하지 않음. 자료 폴더는 로그인 없는 목록 접근도 확인.",
+    "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-statistics",
+    "id": "SNU-C121",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수·연구실 공개 자료",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://sites.google.com/view/theostat/lecture-notes/topics-in-statistics",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "강의자료/설명 실습을 확인했으나 제출 과제 원문은 미확인."
+      }
+    ]
+  },
+  {
+    "department": "컴퓨터공학부",
+    "course": "학부 과제 종합 모음",
+    "provider": "학생 개인 보관",
+    "term": "여러 학기",
+    "year": null,
+    "semester": null,
+    "classification": "assignment",
+    "lecture_confirmed": false,
+    "assignment_material_confirmed": true,
+    "assignment_forms": [
+      "student"
+    ],
+    "lecture_links": [],
+    "assignment_links": [
+      {
+        "label": "과제자료 목록·본문",
+        "url": "https://github.com/sally20921/SNUCSE-undergraduate"
+      }
+    ],
+    "classification_reason": "여러 과목의 학생 구현. 강의노트 모음으로 확대하지 않음.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "12개 디렉터리(Project 2 포함). 디렉터리 수가 과목 수를 뜻하지 않으며 학기는 미확인.",
+    "url": "https://github.com/sally20921/SNUCSE-undergraduate",
+    "id": "SNU-C092",
+    "school": "SNU",
+    "classification_label": "과제자료만",
+    "source_kind": "학생 구현",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://github.com/sally20921/SNUCSE-undergraduate",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "여러 과목의 학생 구현. 강의노트 모음으로 확대하지 않음."
+      }
+    ]
+  },
+  {
+    "department": "수리과학부",
+    "course": "현대 계산대수 — 계산 예제",
+    "provider": "Otto van Koert",
+    "term": "학기 미확인",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "대수 알고리즘 설명·계산 실습 HTML. 제출 과제와 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수 홈페이지 Course material에서 연결. 하위 3개 HTML 접근 확인; 브라우저 상호작용 실행은 검증하지 않음.",
+    "url": "https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html",
+    "id": "SNU-C107",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "교수 공개 HTML 실습",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://www.math.snu.ac.kr/~okoert/courses/mca_html/index.html",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "대수 알고리즘 설명·계산 실습 HTML. 제출 과제와 구분."
+      }
+    ]
+  },
+  {
+    "department": "통계학과",
+    "course": "확률론·수리통계 정리",
+    "provider": "학생 개인 블로그",
+    "term": "2021 등",
+    "year": null,
+    "semester": null,
+    "classification": "lecture",
+    "lecture_confirmed": true,
+    "assignment_material_confirmed": false,
+    "assignment_forms": [],
+    "lecture_links": [
+      {
+        "label": "자료 목록·본문",
+        "url": "https://park4264.github.io/categories/"
+      }
+    ],
+    "assignment_links": [],
+    "classification_reason": "학생 정리 글. 교수자 강의자료/과제 원본과 구분.",
+    "full_semester_verified": false,
+    "access_state": "자료·링크 존재 확인(파일별 접근 수준은 비고 참조)",
+    "notes": "교수자 강의노트 원본이 아닌 수강생 정리.",
+    "url": "https://park4264.github.io/categories/",
+    "id": "SNU-C096",
+    "school": "SNU",
+    "classification_label": "강의자료만",
+    "source_kind": "학생 정리",
+    "checked_date": "2026-11-03",
+    "evidence": [
+      {
+        "url": "https://park4264.github.io/categories/",
+        "checked_date": "2026-11-03",
+        "kind": "prior_reviewed_catalog",
+        "result": "학생 정리 글. 교수자 강의자료/과제 원본과 구분."
+      }
+    ]
+  }
+]
