@@ -1,0 +1,11 @@
+torch
+torchvision
+numpy
+pillow
+scikit-learn
+tqdm
+matplotlib
+visdom
+timm
+PyWavelets
+wandb

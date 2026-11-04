@@ -1,0 +1,14 @@
+__pycache__
+checkpoints/*
+.vscode
+*.pyc
+.idea/
+__pycache__
+results
+pth/*
+datasets/*
+test_results
+*.pth
+*.png
+wandb
+experiments/*
