@@ -362,7 +362,7 @@
 - 과제: [pdf](https://dabeenl.github.io/IE539_2024_assignment1.pdf) · [pdf](https://dabeenl.github.io/IE539_2024_assignment2.pdf) · [pdf](https://dabeenl.github.io/IE539_2024_assignment3.pdf) · [pdf](https://dabeenl.github.io/IE539_2024_assignment4.pdf) · [pdf](https://dabeenl.github.io/IE539_2024_assignment5.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인. 
+판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -452,7 +452,7 @@
 - 과제: 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
-판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류. 
+판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -488,7 +488,7 @@
 - 과제: [pdf](https://dabeenl.github.io/IE539_2023_assignment1.pdf) · [pdf](https://dabeenl.github.io/IE539_2023_assignment2.pdf) · [pdf](https://dabeenl.github.io/IE539_2023_assignment3.pdf) · [pdf](https://dabeenl.github.io/IE539_2023_assignment4.pdf) · [pdf](https://dabeenl.github.io/IE539_2023_assignment5.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인. 
+판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -524,7 +524,7 @@
 - 과제: 확인된 링크 없음
 - 과제 형태: 확인되지 않음
 
-판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류. 
+판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 확인한 공개 과제 본문이 없어 강의자료만으로 분류.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
@@ -542,7 +542,7 @@
 - 과제: [pdf](https://dabeenl.github.io/assignment1.pdf) · [pdf](https://dabeenl.github.io/assignment2.pdf) · [pdf](https://dabeenl.github.io/assignment3.pdf) · [pdf](https://dabeenl.github.io/assignment4.pdf) · [pdf](https://dabeenl.github.io/assignment5.pdf)
 - 과제 형태: 실제 문제·지정 연습
 
-판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인. 
+판정: 교수의 당시 KAIST 수업 페이지·강의 PDF 표본 확인. 현재 교수 소속과 당시 개설 학교를 구분한다. 과제 PDF 표본에서 실제 문제·제출 지침 확인.
 
 접근 범위: 공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증 전체 학기 완비: 미검증.
 
