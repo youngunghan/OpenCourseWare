@@ -1,0 +1,42 @@
+{
+  "checked_date": "2026-11-06",
+  "reviewed_commit": "74b5c42e11e2345e0a7acb1192143eaf933b7f82",
+  "stored_original_counts": {
+    "stored_files": 541,
+    "bytes": 206665283,
+    "unique_sha256": 503,
+    "sources": 37,
+    "pdf_files": 75,
+    "sources_with_files": 33
+  },
+  "catalog_entries": 217,
+  "url_check": {
+    "unique_catalog_urls": 726,
+    "web_responded": 538,
+    "github_direct_urls": 162,
+    "github_direct_failures": 0,
+    "lms_video_skipped": 25,
+    "network_errors": 1,
+    "web_sample_limit_bytes": 65536
+  },
+  "github_repo_probe": {
+    "previous_candidates": 120,
+    "confirmed": 118,
+    "guessed_repository_404": 2,
+    "detected_spdx_changes": 0,
+    "additional_project_site_candidates": 30,
+    "additional_existing_sources": 8
+  },
+  "independent_existing_publication_review": {
+    "observed_model": "claude-sonnet-5-5",
+    "effort": "high",
+    "verdict": "CHANGES",
+    "findings": 2,
+    "scope": "read-only existing-publication audit, not implementation approval"
+  },
+  "new_original_files": 0,
+  "known_corrections": [
+    "KAIST-K004 term-specific original coverage unverified for stored 2026-labelled snapshot",
+    "SNU-C005 page access and PDF access need separate dated states"
+  ]
+}
