@@ -1280,8 +1280,8 @@
     "assignment_material_confirmed": true,
     "full_semester_verified": false,
     "checked_date": "2026-11-04",
-    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증",
-    "notes": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
+    "access_state": "공개 페이지·목록 및 표본 확인; 개별 파일 전체·영상 재생 미검증; 학기 원본 미확인; G001/G002는 관련 현재 자료(2026-11-25 정정).",
+    "notes": "2026-11-25 정정: 이 저장소에 보관한 G001/G002는 2025 봄 당시 배포본으로 확인되지 않았다. 보관된 NeRF README는 2026 Spring·마감 2026-04-28이고 PointNet README는 2026 봄 수업(kaist-cs479-spring-2026)을 연결하며 PointNet LICENSE에는 2023 Fall 표기가 남아 있다. 학기 원본 미확인; G001/G002는 관련 현재 자료이며 학기별 원본 보관으로 세지 않는다.",
     "classification_reason": "공식 페이지의 공개 녹화 링크와 과제 수행 지침 확인. 영상 전체 재생·OneDrive/SharePoint 슬라이드 파일별 다운로드는 미검증. 과제 저장소가 재사용되므로 현재 HEAD가 당시 배포본과 같다는 보장은 없다. 제출용 KLMS는 제외.",
     "evidence": [
       {
@@ -1289,6 +1289,24 @@
         "checked_date": "2026-11-04",
         "kind": "page",
         "result": "HTTP 200; 수업명·학기·자료 목록 본문 확인"
+      },
+      {
+        "url": "https://github.com/youngunghan/OpenCourseWare/blob/74b5c42e11e2345e0a7acb1192143eaf933b7f82/materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-NeRF/README.md",
+        "checked_date": "2026-11-25",
+        "kind": "recheck",
+        "result": "보관본 NeRF README 직접 대조: 수업 표기 2026 Spring, 마감 2026-04-28. 2025 봄 당시 배포본 동일성은 확인되지 않음(reference/recheck-2026-11-06.md, reference/correction-2026-11-25.md)."
+      },
+      {
+        "url": "https://github.com/youngunghan/OpenCourseWare/blob/74b5c42e11e2345e0a7acb1192143eaf933b7f82/materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/README.md",
+        "checked_date": "2026-11-25",
+        "kind": "recheck",
+        "result": "보관본 PointNet README 직접 대조: 수업 링크 kaist-cs479-spring-2026. 2025 봄 당시 배포본 동일성은 확인되지 않음."
+      },
+      {
+        "url": "https://github.com/youngunghan/OpenCourseWare/blob/74b5c42e11e2345e0a7acb1192143eaf933b7f82/materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/LICENSE",
+        "checked_date": "2026-11-25",
+        "kind": "recheck",
+        "result": "보관본 PointNet LICENSE에 2023 Fall 과제 표기가 남아 있음. 이 표기만으로 다른 학기의 배포 여부를 추정하지 않음."
       }
     ]
   },

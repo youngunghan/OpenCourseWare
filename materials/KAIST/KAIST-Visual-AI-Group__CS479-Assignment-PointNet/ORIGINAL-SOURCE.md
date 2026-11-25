@@ -2,6 +2,8 @@
 
 소스 ID: G002 · 확인일: 2026-11-04 · 연결 항목: KAIST-K002, KAIST-K004
 
+> 2026-11-25 정정: KAIST-K004(2025 봄 CS479)와의 연결은 관련 현재 자료로서의 연결이다. 이 폴더의 스냅샷은 README가 2026 봄 수업을 연결하고 LICENSE에 2023 Fall 표기가 남아 있어 2025 봄 당시 배포본으로 확인되지 않았다. 원본 파일 바이트는 바꾸지 않았다.
+
 원출처: [KAIST-Visual-AI-Group/CS479-Assignment-PointNet](https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-PointNet/tree/3556f8b9d05b6cc4cb1e0ea5c8f1c912bd6897de)
 
 이용 조건: **MIT**. Individual file headers and nested LICENSE/COPYING/COPYRIGHT notices take precedence. File-specific licenses are recorded per file; root SPDX is upstream declaration, not a blanket relicense.
@@ -10,7 +12,7 @@ Original source/notebook/student-report subset; per-file notices and nested lice
 
 Original file bytes unchanged. Partial selection and excluded paths are documented separately.
 
-보관 상태: stored_partial. 원본 14개 · 45,619바이트. 아래 파일은 다운로드한 원본이며 수정하지 않았다. 이 안내 파일 자체는 원본 수에 포함하지 않는다.
+보관 상태(소스 단위): stored_partial. 원본 14개 · 45,619바이트. 아래 파일은 다운로드한 원본이며 수정하지 않았다. 이 안내 파일 자체는 원본 수에 포함하지 않는다.
 
 고정 커밋: `3556f8b9d05b6cc4cb1e0ea5c8f1c912bd6897de`. 개별 원문 URL은 `https://github.com/KAIST-Visual-AI-Group/CS479-Assignment-PointNet/blob/3556f8b9d05b6cc4cb1e0ea5c8f1c912bd6897de/` 뒤에 원본 경로를 붙인다.
 

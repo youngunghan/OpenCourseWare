@@ -3,12 +3,15 @@
 [첫 화면](../README.md) · [217개 항목 보관 상태](../catalog/originals.md) · [보관 기준](../reference/originals-policy.md)
 
 541개 원본 파일, 206,665,283바이트. 아래는 실제 저장소 폴더다. PDF·소스·노트북·문서뿐 아니라 원출처의 LICENSE/README도 파일 수에 포함한다.
+
+KAIST-K004(2025 봄)와의 연결은 2026-11-25부터 관련 현재 자료로만 표시한다. 보관한 G001/G002 스냅샷은 2025 봄 당시 배포본으로 확인되지 않았고 원본 파일은 바꾸지 않았다.
+
 37 audited source scopes:33 have originals;4 are metadata-only withheld scopes with0 originals. GitHub13 stored scopes out of17 audited scopes. Exclusion reason codes are defined in the exclusion JSON.
 
 | 소스 | 연결 항목 | 파일 수 | 적용 조건·종류 |
 | --- | --- | ---: | --- |
-| [KAIST-Visual-AI-Group/CS479-Assignment-NeRF](KAIST/KAIST-Visual-AI-Group__CS479-Assignment-NeRF/ORIGINAL-SOURCE.md) | KAIST-K002, KAIST-K004 | 51 | MIT |
-| [KAIST-Visual-AI-Group/CS479-Assignment-PointNet](KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/ORIGINAL-SOURCE.md) | KAIST-K002, KAIST-K004 | 14 | MIT |
+| [KAIST-Visual-AI-Group/CS479-Assignment-NeRF](KAIST/KAIST-Visual-AI-Group__CS479-Assignment-NeRF/ORIGINAL-SOURCE.md) | KAIST-K002, KAIST-K004(관련 현재 자료) | 51 | MIT |
+| [KAIST-Visual-AI-Group/CS479-Assignment-PointNet](KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/ORIGINAL-SOURCE.md) | KAIST-K002, KAIST-K004(관련 현재 자료) | 14 | MIT |
 | [KAIST-Visual-AI-Group/CS580-Assignment](KAIST/KAIST-Visual-AI-Group__CS580-Assignment/ORIGINAL-SOURCE.md) | KAIST-K006 | 38 | BSD-3-Clause |
 | [KAIST-Visual-AI-Group/Diffusion-Assignment1-DDPM](KAIST/KAIST-Visual-AI-Group__Diffusion-Assignment1-DDPM/ORIGINAL-SOURCE.md) | KAIST-K005 | 19 | Apache-2.0 AND MIT / CC-BY-NC-4.0 / MIT |
 | [KAIST-Visual-AI-Group/Diffusion-Assignment2-DDIM-CFG](KAIST/KAIST-Visual-AI-Group__Diffusion-Assignment2-DDIM-CFG/ORIGINAL-SOURCE.md) | KAIST-K005 | 19 | Apache-2.0 AND MIT / CC-BY-NC-4.0 / MIT |

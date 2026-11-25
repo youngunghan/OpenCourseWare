@@ -4,16 +4,16 @@
 
 실제 파일 **541개 · 206.7MB**를 저장했다. PDF 75개(CompSec 강의 PDF 73개 포함), 과제 코드·노트북·학생 보고서·라이선스·README와 교재 원본 압축 배포본을 포함한다. 동일 바이트 503종이며 같은 바이트는 Git 객체에서 공유된다. 교재 압축파일과 읽기용 소스를 함께 두어 파일 수는 고유 강의·문제 수와 다르다.
 
-전체 217개 카탈로그 중 **14개 항목에 일부 원본**이 있고, 나머지 **203개는 미보관**이다. 모든 원본·한 학기 전체를 확보한 상태가 아니다. 기존 공개 원문 분류와 이 저장소의 원본 보관 여부는 다르다.
+전체 217개 카탈로그 중 **13개 항목에 일부 원본**이 있고, 나머지 **204개는 미보관 또는 학기 원본 미확인**이다. 학기 원본 미확인 1개는 KAIST-K004로, 연결한 소스(G001·G002)는 2026 봄판 현재 자료이며 2025 봄 당시 배포본으로 확인되지 않았다. 모든 원본·한 학기 전체를 확보한 상태가 아니다. 기존 공개 원문 분류와 이 저장소의 원본 보관 여부는 다르다.
 
 소스별 실제 파일·원출처·라이선스는 각 폴더의 ORIGINAL-SOURCE.md를 따른다. 원본 README·노트북의 외부 링크·이미지·데이터 의존성은 원형을 보존했으므로 일부는 별도 원출처가 필요하다. 코드를 실행하거나 노트북 결과·보고서 정답을 검증하지 않았다.
 
-Software Foundations는 세 서울대 수업이 연결한 교재의 2026-08 현재 배포본이다. 2024·2025 학기 강의/숙제 파일과 같은 판본이라고 주장하지 않는다. 원본 .tgz 전체와 읽기용 Coq .v·LICENSE를 함께 보관했다.
+Software Foundations는 세 서울대 수업이 연결한 교재의 2026-08 현재 배포본이다. 2024·2025 학기 강의/숙제 파일과 같은 판본이라고 주장하지 않는다. 원본 .tgz 전체와 읽기용 Coq .v·LICENSE를 함께 보관했다. 일부 원본 13개는 해당 학기의 당시 배포본 확보를 뜻하지 않으며, 같은 저장소가 수업에서 연결됐다는 사실만으로 현재 스냅샷의 학기를 소급하지 않는다. Software Foundations 3개 항목(SNU-C003·C021·C046)은 학기 당시 판본이 아니라 현재 교재 배포본을 일부 원본으로 센다.
 
 | 학교 | 일부 원본 있는 항목 | 카탈로그 전체 |
 | --- | ---: | ---: |
 | SNU | 5 | 124 |
-| KAIST | 4 | 56 |
+| KAIST | 3 | 56 |
 | POSTECH | 5 | 37 |
 
 ## 전체 항목별 상태
@@ -35,7 +35,7 @@ Software Foundations는 세 서울대 수업이 연결한 교재의 2026-08 현�
 | <a id="snu-c002"></a>[SNU-C002](./snu.md#snu-c002) | SNU · 2026 가을 | 기계학습개론 | 재배포 허가 미확인 | 미보관 |
 | <a id="snu-c003"></a>[SNU-C003](./snu.md#snu-c003) | SNU · 2026 가을 | 소프트웨어 엄밀 검증 | 원본 일부 보관 | [B001](../materials/SNU/software-foundations/lf-current/ORIGINAL-SOURCE.md) · [B002](../materials/SNU/software-foundations/plf-current/ORIGINAL-SOURCE.md) |
 | <a id="snu-c004"></a>[SNU-C004](./snu.md#snu-c004) | SNU · 2026 가을 | 운영체제 | 재배포 허가 미확인 | 미보관 |
-| <a id="snu-c005"></a>[SNU-C005](./snu.md#snu-c005) | SNU · 2026 가을 | 자료구조 | 접근·허가 미확인 | 미보관 |
+| <a id="snu-c005"></a>[SNU-C005](./snu.md#snu-c005) | SNU · 2026 가을 | 자료구조 | 재배포 허가 미확인 | 미보관 |
 | <a id="snu-c008"></a>[SNU-C008](./snu.md#snu-c008) | SNU · 2026 가을 | 통계이론 2 | 재배포 허가 미확인 | 미보관 |
 | <a id="snu-c006"></a>[SNU-C006](./snu.md#snu-c006) | SNU · 2026 가을 | 프로그래밍원리 | 재배포 허가 미확인 | 미보관 |
 | <a id="snu-c007"></a>[SNU-C007](./snu.md#snu-c007) | SNU · 2026 가을 | 프로그램분석 | 재배포 허가 미확인 | 미보관 |
@@ -71,7 +71,7 @@ Software Foundations는 세 서울대 수업이 연결한 교재의 2026-08 현�
 | <a id="snu-c023"></a>[SNU-C023](./snu.md#snu-c023) | SNU · 2025 가을 | 프로그래밍원리 | 재배포 허가 미확인 | 미보관 |
 | <a id="snu-c024"></a>[SNU-C024](./snu.md#snu-c024) | SNU · 2025 가을 | 확률론 2 | 재배포 허가 미확인 | 미보관 |
 | <a id="kaist-k020"></a>[KAIST-K020](./kaist.md#kaist-k020) | KAIST · 2025 봄 | CS20200/CS220 Programming Principles | 재배포 허가 미확인 | 미보관 |
-| <a id="kaist-k004"></a>[KAIST-K004](./kaist.md#kaist-k004) | KAIST · 2025 봄 | CS479 Machine Learning for 3D Data | 원본 일부 보관 | [G001](../materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-NeRF/ORIGINAL-SOURCE.md) · [G002](../materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/ORIGINAL-SOURCE.md) |
+| <a id="kaist-k004"></a>[KAIST-K004](./kaist.md#kaist-k004) | KAIST · 2025 봄 | CS479 Machine Learning for 3D Data | 관련 현재 자료(학기 원본 미확인) | [G001](../materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-NeRF/ORIGINAL-SOURCE.md) · [G002](../materials/KAIST/KAIST-Visual-AI-Group__CS479-Assignment-PointNet/ORIGINAL-SOURCE.md) |
 | <a id="postech-p006"></a>[POSTECH-P006](./postech.md#postech-p006) | POSTECH · 2025 봄 | CSED415 Computer Security | 원본 일부 보관 | [W002](../materials/POSTECH/POSTECH-P006/ORIGINAL-SOURCE.md) |
 | <a id="postech-p018"></a>[POSTECH-P018](./postech.md#postech-p018) | POSTECH · 2025 봄 | CSED490V Foundations of Continuous Computation | 실제 자료 미확인 | 미보관 |
 | <a id="snu-c028"></a>[SNU-C028](./snu.md#snu-c028) | SNU · 2025 봄 | 3D 컴퓨터비전 | 라이선스 범위 미확인 | 미보관 |

@@ -41,7 +41,9 @@
 
 reference/original-files.json은 원본 541개의 출처·경로·크기·SHA-256·고정 Git blob·조건의 정본이다. 경로는 source.root와 file.source_path를 합친다. files[].license와 파일 내부/중첩/추가 용도 조건을 우선한다. upstream_attributions에는 원출처·고정 버전·확인한 라이선스·고지 사본을 기록한다. 단순 알고리즘/매개변수 참고도 있어 모든 참조가 파일 전체의 복제를 뜻하지 않는다.
 
-출처 기록37개 중 원본이 있는33개와 원본0개 조사 기록4개를 status/files로 구분한다. reference/original-coverage.json은 일부 원본14개·미보관203개의 사유를 구분한다. reference/original-excluded-files.json은 처음 조사한17개 GitHub 범위의 미보관 1248개 경로와 Gitblob, 알려진 SHA256을 기록한다. reason은 reason_definitions의 사유 코드이며 reason_counts는 그 집계다. 전 세계 파일의 목록이나 재배포 금지 확정을 뜻하지 않는다.
+출처 기록37개 중 원본이 있는33개와 원본0개 조사 기록4개를 status/files로 구분한다. reference/original-coverage.json은 일부 원본13개와 나머지204개(미보관 또는 학기 원본 미확인)의 사유를 구분한다. reference/original-excluded-files.json은 처음 조사한17개 GitHub 범위의 미보관 1248개 경로와 Gitblob, 알려진 SHA256을 기록한다. reason은 reason_definitions의 사유 코드이며 reason_counts는 그 집계다. 전 세계 파일의 목록이나 재배포 금지 확정을 뜻하지 않는다.
+
+reference/original-coverage.json의 status 값은 stored_partial(허용 범위가 확인된 일부 원본 보관. Software Foundations 3개 항목(SNU-C003·C021·C046)은 학기 당시 판본이 아니라 현재 교재 배포본을 일부 원본으로 센다), related_current_material(2026-11-25 추가: 연결한 소스가 해당 학기 당시 배포본으로 확인되지 않은 현재 자료이며 학기별 원본 보관으로 세지 않음. 보관된 파일은 그대로 두고 연결만 유지하며 현재 KAIST-K004 1개), permission_unconfirmed(공개 접근·원출처 링크는 있으나 재배포 허용 범위 미확인), license_scope_unconfirmed(라이선스 적용 범위가 불명확하거나 충돌), no_verified_material_in_catalog(실제 자료 미확인), access_and_permission_unconfirmed(접근 오류와 허가 미확인을 함께 기록하는 값, 현재 0개), restricted_terms(이용 범위 제한)다. status_counts는 records의 상태별 개수와 일치해야 하며 0개인 값도 어휘 보존을 위해 남긴다. related_current_material은 stored_partial 집계에 넣지 않으므로 일부 원본 13개와 나머지 204개를 합해 217개다. 정정 경위는 correction-2026-11-25.md에 있다.
 
 학생 보고서의 이름·학번을 함께 담은 main.tex 원본8개는 공개 보관에서 제외했다. 원본 표지를 편집하지 않았으며 나머지 본문 조각·서지·루트 고지는 부분 보관이다. 문서 컴파일·보고서 완비는 보장하지 않는다. 파일별 제외 목록에 개인정보 사유를 기록했다.
 
